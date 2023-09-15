@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/0 POW Presentatin.md",
+                "file": "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/POW Report.md",
+                "file": "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/POW Report.md",
+                "file": "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +137,11 @@
   },
   "active": "8928f18e3bad8a41",
   "lastOpenFiles": [
-    "5th Semester/Assignments/POM Presentation/0 POW Presentatin.md",
-    "5th Semester/Assignments/POM Presentation/Requirements.md",
+    "push",
+    "push.sh",
     "5th Semester/Assignments/POM Presentation/POW Report.md",
+    "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
+    "5th Semester/Assignments/POM Presentation/Requirements.md",
     "5th Semester/Assignments/POM Presentation/Untitled.canvas",
     "5th Semester/Assignments/POM Presentation/Untitled 2.canvas",
     "5th Semester/Assignments/POM Presentation/Untitled 1.canvas",
