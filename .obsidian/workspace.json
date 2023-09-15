@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "6285306056359bcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b085e5d05c85d9cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c2d4fd072b7b07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79df70ce16266eec",
+    "type": "split",
+    "children": [
+      {
+        "id": "462f91d940df46f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2cac44b48b9331",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ac09c9f16d4fed0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2454aca3d52489dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "3a604bde44a2229c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3587c3ceb1fafb27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce46996462d5a5a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a009ea671f1f21f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "82c2d4fd072b7b07",
+  "lastOpenFiles": [
+    "5th Semester/Assignments/POM Presentation/Untitled.canvas",
+    "5th Semester/Assignments/POM Presentation/Requirements.md",
+    "5th Semester/Assignments/POM Presentation/POW Presentation.md",
+    "5th Semester/Assignments/POM Presentation",
+    "5th Semester/Assignments",
+    "5th Semester",
+    "Risc-V Bulid.md",
+    "To ask.md",
+    "Untitled 1.canvas",
+    "VM_tasks.md",
+    "Assignment-23/README.md",
+    "Assignment-24/README.md",
+    "Assignment-28/README.md",
+    "Assignment-27/README.md",
+    "Assignment-26/README.md",
+    "Assignment-25/README.md",
+    "Assignment-22/README.md",
+    "Assignment-21/README.md",
+    "Assignment-20/README.md",
+    "Assignment-19/README.md"
+  ]
+}
