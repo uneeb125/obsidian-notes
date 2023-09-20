@@ -9,5 +9,12 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
-  "vimMode": false
+  "vimMode": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

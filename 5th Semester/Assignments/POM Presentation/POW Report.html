@@ -1,0 +1,564 @@
+<!doctype html>
+<html>
+    <head>
+        <title>POW Report</title>
+        <meta charset='utf-8'/>
+        <style>
+ .ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #444;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; left: 0; z-index: 200;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border-right: 1px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top;}
+.ͼ1 .cm-highlightSpace:before {content: attr(data-display); position: absolute; pointer-events: none; color: #888;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-foldPlaceholder {background-color: #eee; border: 1px solid #ddd; color: #888; border-radius: .2em; margin: 0 1px; padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-foldGutter span {padding: 0 1px; cursor: pointer;}
+ 
+.pandoc-plugin-error {
+    color: red;
+}
+ :root {
+  --default-font: "Segoe UI", "Arial", "Tahoma", "Helvetica", sans-serif;
+  --font-monospace: "Consolas", "Fira Code", "Source Code Pro", "Droid Sans Mono", "Monoid", "Arial", sans-serif;
+}
+
+
+.theme-dark {
+
+  --file-line-width: 52vw;
+
+  --color-base-00: hsl(205, 23%, 10%);
+  /* background-primary */
+  --color-base-10: hsl(205, 23%, 8%);
+  /*background-primary-alt AKA CODE */
+  --color-base-25: hsl(205, 23%, 13%);
+  /* aka search */
+  --color-base-20: hsl(205, 20%, 9%);
+  /* background-secondary */
+  --color-base-30: hsl(197, 20%, 7%);
+  /* background-secondary-alt*/
+  --color-base-70: hsl(210, 5%, 67%);
+  /* text muted */
+
+  --background-modifier-hover: hsla(200, 70%, 45%, 0.173);
+
+
+
+  --titlebar-background: hsl(197, 20%, 7%);
+  --titlebar-background-focused: hsl(197, 20%, 7%);
+
+  --background-modifier-border: hsl(240, 5%, 25%);
+
+
+  --tab-text-color-focused-active-current: hsl(160, 84%, 49%);
+
+
+
+  --link-color: hsl(171, 88%, 38%);
+  --link-color-hover: hsl(171, 95%, 48%);
+  --link-unresolved-color: hsl(171, 88%, 38%);
+
+
+  --link-external-color: hsl(171, 88%, 38%);
+  --link-external-color-hover: hsl(171, 95%, 48%);
+
+  --code-normal: #7095c2;
+
+
+
+  --bold-weight: 600;
+  --bold-color: white;
+
+
+  --tag-color: hsl(187, 92%, 48%);
+  --tag-color-hover: hsl(187, 92%, 58%);
+  --tag-background: #228ec31a;
+  --tag-background-hover: #228ec333;
+  --tag-border-color: #228ec326;
+  --tag-border-color-hover: #228ec326;
+  --tag-padding-x: 0.55em;
+  --tag-padding-y: 0.25em;
+  /* --tag-radius: 0em; */
+
+
+  --radius-s: 4px;
+  --radius-m: 8px;
+  --radius-l: 10px;
+  --radius-xl: 16px;
+
+
+  --inline-title-color: unset;
+  --h1-color: hsl(205, 75%, 60%);
+  /* --h2-color: hsl(145, 75%, 65%); old color*/
+  --h2-color:   #34daa5;
+  --h3-color: hsl(180, 75%, 55%);
+  --h4-color: #e3e363;
+  --h5-color: hsl(0, 75%, 65%);
+  --h6-color: hsl(313, 65%, 65%);
+  --heading-formatting: unset;
+
+
+
+  --interactive-accent: hsl(165, 65%, 25%);
+  --interactive-accent-hover: hsl(165, 65%, 35%);
+  --text-on-accent: rgb(250, 250, 250);
+
+
+  --text-accent: hsl(160, 88%, 40%);
+  --text-accent-hover: hsl(160, 88%, 55%);
+
+
+  --accent-h: 160;
+  --accent-s: 73%;
+  --accent-l: 26%;
+
+
+  --text-highlight-bg: #075dc7;
+
+  --text-selection: hsl(205, 53%, 17%);
+
+  --modal-border-color: unset;
+
+
+  /* --nav-item-size: 14px;
+  --line-height-tight: 1.4; */
+
+
+
+
+  --blockquote-color: #3eb4bf;
+  --blockquote-background-color: unset;
+  --blockquote-border-thickness: 5px;
+  --blockquote-border-color: rgb(0, 162, 255);
+  --blockquote-font-style: italic;
+
+
+
+  --search-match-color: #ffff00;
+  --search-match-color-other: #ffff00;
+
+  --nav-collapse-icon-color-collapsed: #61afef;
+  --nav-collapse-icon-color: #61afef;
+
+
+/*   --tab-outline-color: none; */
+
+}
+
+
+@media(max-width: 950px) {
+	.theme-dark{
+		 --file-line-width: 100%;
+	}
+	.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+    padding: var(--size-4-5);
+	}
+}
+
+
+/* title padding */
+.markdown-reading-view .inline-title {
+    padding: 0;
+}
+
+/* flashing */
+
+.is-flashing {
+  transition: all 0.25s ease;
+  background-color: #00459b;
+  mix-blend-mode: var(--highlight-mix-blend-mode);
+  border-radius: unset;
+}
+
+.is-flashing * {
+  color: #e9e9e9 !important;
+}
+
+
+
+
+
+/* status bar */
+
+/* .status-bar {
+  font-size: 0.85rem;
+} */
+
+
+
+/* select items */
+
+
+
+body:not(.is-grabbing) .nav-file-title:hover,
+body:not(.is-grabbing) .nav-folder-title:hover {
+  outline: 1px solid rgb(29, 141, 132);
+
+}
+
+body:not(.is-grabbing) .nav-file-title.is-selected:hover {
+  background-color: var(--nav-item-background-active);
+}
+
+.nav-file-title.is-selected {
+  background-color: var(--nav-item-background-active);
+}
+
+.nav-file-title.is-selected.is-being-dragged {
+  background-color: var(--interactive-accent)
+}
+
+
+/* quote */
+
+.HyperMD-quote.HyperMD-quote-1.cm-line {
+  position: relative;
+  font-style: var(--blockquote-font-style);
+  left: 0.2rem;
+}
+
+.HyperMD-quote.HyperMD-quote-1.cm-line::before {
+  content: "";
+  position: absolute;
+  left: -0.2rem;
+  top: 0;
+  bottom: 0;
+  width: 0.30rem;
+  background-color: var(--blockquote-border-color);
+}
+
+
+
+/* search left sidebar */
+.search-result-file-matched-text {
+  background: var(--search-match-color);
+  color: black;
+}
+
+/* search edit*/
+
+.cm-s-obsidian span.obsidian-search-match-highlight {
+  box-shadow: unset;
+  border-radius: 0px;
+  background: var(--search-match-color);
+}
+
+.obsidian-search-match-highlight, 
+.obsidian-search-match-highlight * {
+  box-shadow: unset;
+  border-radius: 0px;
+  background: var(--search-match-color);
+  color: black !important;
+}
+
+
+/* search prev*/
+.markdown-rendered .search-highlight>div.is-active::before {
+
+  content: "";
+  position: absolute;
+  bottom: -0.35rem;
+  left: 0;
+  right: 0;
+  height: 0.34rem;
+  background-color: var(--search-match-color);
+}
+
+
+.markdown-rendered .search-highlight>div.is-active {
+  box-shadow: unset;
+}
+
+
+/* search prev other*/
+.markdown-rendered .search-highlight>div::before {
+  content: "";
+  position: absolute;
+  bottom: -0.35rem;
+  left: 0;
+  right: 0;
+  height: 0.34rem;
+  background-color: var(--search-match-color-other);
+
+}
+
+.markdown-rendered .search-highlight>div {
+  box-shadow: unset;
+  opacity: 0.3;
+}
+
+
+
+
+
+/* margin basic*/
+
+p {
+  margin-block-start: 0.8em;
+  margin-block-end: 0.8em;
+}
+
+
+/* headers */
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6 {
+  margin: 0;
+}
+
+
+/* link bracket */
+.cm-s-obsidian span.cm-formatting-link {
+  color: #00bee9;
+}
+
+
+/* Code blocks */
+
+/* body:not(.no-codeblock-line-numbers) .HyperMD-codeblock.cm-line:not(.HyperMD-codeblock-begin, .HyperMD-codeblock-end) {
+    word-break: break-all;
+} */
+
+
+.cm-inline-code,
+.cm-s-obsidian .HyperMD-codeblock,
+.markdown-preview-view.markdown-preview-view :is(pre, code) {
+  --codeblock-border: hsl(208, 18%, 12%);
+  --codeblock-roundness: var(--radius-s);
+  --code-block-alt-bg: hsl(208, 18%, 12%);
+  --slight-code-roundish: var(--radius-xs);
+}
+
+.cm-s-obsidian .HyperMD-codeblock {
+  line-height: 1.4em;
+}
+
+body .markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+  padding-left: var(--size-2-2);
+}
+
+body:not(.no-codeblock-line-numbers) .HyperMD-codeblock-begin {
+  counter-reset: codeblock-line-numbers;
+}
+
+body:not(.no-codeblock-line-numbers) .HyperMD-codeblock:not(.HyperMD-codeblock-begin,
+  .HyperMD-codeblock-end)::before {
+  counter-increment: codeblock-line-numbers;
+  content: counter(codeblock-line-numbers);
+  font-size: 0.75em;
+  line-height: 2;
+  text-align: right;
+  height: 100%;
+  width: 1.7em;
+  color: var(--text-muted);
+  /* background-color: #1e2029; */
+  background-color: var(--code-background);
+  position: absolute;
+  left: 0;
+  padding-right: 1.4em;
+}
+
+body:not(.no-codeblock-line-numbers) .HyperMD-codeblock.cm-line:not(.HyperMD-codeblock-begin,
+  .HyperMD-codeblock-end) {
+  padding-left: 2.8em;
+}
+
+body:not(.no-codeblock-line-numbers) .cm-s-obsidian div.HyperMD-codeblock-begin-bg {
+  background-color: var(--code-block-alt-bg);
+  border: var(--codeblock-border);
+  border-bottom: none;
+  border-top-right-radius: var(--codeblock-roundness);
+  border-top-left-radius: var(--codeblock-roundness);
+}
+
+div.HyperMD-codeblock-bg:not(.HyperMD-codeblock-begin-bg) {
+  border-right: var(--codeblock-border);
+  border-left: var(--codeblock-border);
+}
+
+body:not(.no-codeblock-line-numbers) .cm-line.HyperMD-codeblock .code-block-flair {
+  font-size: calc(var(--code-size) * 0.9);
+  color: var(--text-muted);
+  padding: 0 1px;
+  top: 0;
+}
+
+body:not(.no-codeblock-line-numbers) .markdown-reading-view pre[class*='language-']::before {
+  display: block;
+  content: ' ';
+  line-height: 1.5em;
+  background-color: var(--code-block-alt-bg);
+  border-top-right-radius: calc(var(--codeblock-roundness) * 0.8);
+  border-top-left-radius: calc(var(--codeblock-roundness) * 0.8);
+}
+
+body:not(.no-codeblock-line-numbers) pre[class*='language-']::after {
+  content: attr(class);
+  font-size: 0.9rem;
+  text-shadow: none;
+  color: var(--text-muted);
+  position: absolute;
+  top: 4px;
+  left: 10px;
+}
+
+.markdown-reading-view .markdown-preview-view pre:not(.frontmatter) code {
+  white-space: pre;
+}
+
+body:not(.no-codeblock-line-numbers) .markdown-preview-view pre code {
+  padding: var(--size-4-1) var(--size-4-2);
+}
+
+body:not(.no-codeblock-line-numbers) .copy-code-button.copy-code-button.copy-code-button {
+  background-color: var(--color-base-30);
+  /* top: unset; */
+  /* bottom: 0; */
+  padding: 0 var(--size-2-2);
+}
+
+body:not(.no-codeblock-line-numbers) .markdown-preview-view.markdown-preview-view pre {
+  padding: 0;
+  margin-top: var(--size-4-2);
+  margin-bottom: var(--size-4-2);
+  border: var(--codeblock-border);
+  border-radius: var(--radius-s);
+}
+
+.markdown-reading-view .markdown-preview-view pre code {
+  display: block;
+}
+
+body:not(.no-codeblock-line-numbers) .markdown-preview-view pre code {
+  padding: var(--size-4-2) var(--size-4-5);
+}
+
+.token.boolean, .token.number, .cm-number {
+  color: #00b0f3;
+}
+
+
+/* hide attachments folder */
+div[data-path='0attachments'] {
+  display: none;
+}
+
+
+.cm-header-1 ~ a {
+  color: red;
+}
+undefined
+</style>
+    </head>
+    <body>
+<h1 data-heading="Introduction">Introduction</h1>
+<h3 data-heading="Background">Background</h3>
+<p>Frederick Winslow Taylor (March 20, 1856 – March 21, 1915) was an American mechanical engineer. He was widely known for his methods to improve industrial efficiency. He was one of the first management consultants. </p>
+<h3 data-heading="Achievements">Achievements</h3>
+<p>In 1909, Taylor summed up his efficiency techniques in his book The Principles of Scientific Management which, in 2001, Fellows of the Academy of Management voted the most influential management book of the twentieth century. </p>
+<h3 data-heading="Results">Results</h3>
+<p>His pioneering work in applying engineering principles to the work done on the factory floor was instrumental in the creation and development of the branch of engineering that is now known as industrial engineering. </p>
+<h3 data-heading=""></h3>
+<p>Taylor made his name, and was most proud of his work, in scientific management; however, he made his fortune patenting steel-process improvements. As a result, scientific management is sometimes referred to as Taylorism.</p>
+<h1 data-heading="Contributions">Contributions</h1>
+<h1 data-heading="Frederick Winslow Taylor: An Examination of His Contributions and Critiques">Frederick Winslow Taylor: An Examination of His Contributions and Critiques</h1>
+<h2 data-heading="Introduction">Introduction</h2>
+<p>Frederick Winslow Taylor (1856-1915) was a prominent figure in the field of management and is often referred to as the father of scientific management. His ideas and principles revolutionized the way businesses and industries operated in the early 20th century. In this report, we will delve into Taylor's contributions to management, evaluate the critiques and controversies surrounding his theories, and conclude by assessing his enduring impact on modern management practices.</p>
+<h2 data-heading="Contributions">Contributions</h2>
+<h3 data-heading="Scientific Management Theory">Scientific Management Theory</h3>
+<ul>
+<li>Taylor introduced the concept of scientific management, emphasizing the application of scientific methods to improve work processes and efficiency.</li>
+</ul>
+<h3 data-heading="Publications">Publications</h3>
+<ul>
+<li>In 1909, Taylor summed up his efficiency techniques in his book The Principles of Scientific Management which, in 2001, Fellows of the Academy of Management voted the most influential management book of the twentieth century. </li>
+</ul>
+<h3 data-heading="Time and Motion Studies">Time and Motion Studies</h3>
+<ul>
+<li>He pioneered the use of time and motion studies to analyze and streamline work tasks, leading to increased productivity and reduced labor costs.</li>
+</ul>
+<h3 data-heading="Standardization of Work">Standardization of Work</h3>
+<ul>
+<li>Taylor advocated for the standardization of work processes to ensure consistency and predictability in production, resulting in higher quality products.</li>
+</ul>
+<h3 data-heading="Scientific Selection and Training">Scientific Selection and Training</h3>
+<ul>
+<li>He stressed the importance of scientifically selecting and training workers to match their skills and abilities with specific tasks, leading to better job performance.</li>
+</ul>
+<h3 data-heading="Mutual Cooperation">Mutual Cooperation</h3>
+<ul>
+<li>Taylor emphasized the need for collaboration and cooperation between management and workers, promoting a harmonious work environment.</li>
+</ul>
+<h2 data-heading="Critique">Critique</h2>
+<h3 data-heading="Dehumanization of Work">Dehumanization of Work</h3>
+<ul>
+<li>One of the primary criticisms of Taylor's theories is that they often led to the dehumanization of work, as employees were reduced to mere cogs in a machine, with their creativity and autonomy stifled.</li>
+</ul>
+<h3 data-heading="Resistance from Workers">Resistance from Workers</h3>
+<ul>
+<li>Taylor's emphasis on strict work controls and efficiency measures sometimes met with resistance from workers who felt that their interests were being overlooked in favor of management's objectives.</li>
+</ul>
+<h3 data-heading="Overemphasis on Efficiency">Overemphasis on Efficiency</h3>
+<ul>
+<li>Critics argue that Taylor's sole focus on efficiency neglected other important aspects of work, such as employee well-being, job satisfaction, and long-term sustainability.</li>
+</ul>
+<h3 data-heading="Limited Applicability">Limited Applicability</h3>
+<ul>
+<li>Taylor's principles are seen as less applicable in knowledge-based industries where creativity and innovation play a central role, as they cannot be easily standardized or measured.</li>
+</ul>
+<h2 data-heading="Conclusion">Conclusion</h2>
+<p>In conclusion, Frederick Winslow Taylor made significant contributions to the field of management by introducing the scientific management theory, time and motion studies, and advocating for the scientific selection and training of workers. His ideas revolutionized industrial practices and continue to influence management thinking today. However, Taylor's theories have also faced critique for their potential to dehumanize work, their resistance from workers, and their limited applicability in certain industries. While his ideas remain relevant in some contexts, modern management has evolved to emphasize a more holistic approach that balances efficiency with employee well-being and creativity. Frederick Winslow Taylor's legacy is both enduring and debated, reflecting the complex nature of management theory and practice.</p>
+    </body>
+</html>
