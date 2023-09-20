@@ -8,67 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20a1eae8e7dd517e",
+            "id": "b18ee0f8be5a9fa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/POW Report.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf4daa3a418baaa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5th Semester/Assignments/POM Presentation/pow test.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34a3bcc79c80df22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5th Semester/Assignments/POM Presentation/Aux Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5f4272c4765c17e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c0cec745a35c3ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 1.md",
-                "mode": "source",
-                "source": false
+                "file": "5th Semester/Assignments/POM Presentation/Project.canvas",
+                "viewState": {
+                  "x": -762.0656912248064,
+                  "y": 900.4807435905378,
+                  "zoom": -0.5253957414627082
+                }
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a604bde44a2229c",
@@ -134,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 1.md",
+                "file": "5th Semester/Assignments/POM Presentation/Project.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,18 +126,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3c0cec745a35c3ca",
+  "active": "b18ee0f8be5a9fa9",
   "lastOpenFiles": [
+    "5th Semester/Assignments/POM Presentation/My part Presentation.md",
+    "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
     "README.md",
-    "Internship/Linux Boot/Notes Meeting 1.md",
-    "5th Semester/Assignments/POM Presentation/Untitled.md",
-    "Internship/Linux Boot",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
-    "Internship",
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/POW Report.md",
+    "5th Semester/Assignments/POM Presentation/Untitled 1.md",
+    "Internship/Linux Boot/Notes Meeting 1.md",
+    "Internship/Linux Boot",
+    "Internship",
     "5th Semester/Assignments/POM Presentation/POW Report.html",
-    "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
     "5th Semester/Assignments/POM Presentation/Project.canvas",
     "5th Semester/Assignments/POM Presentation/Requirements.md",
     "push",

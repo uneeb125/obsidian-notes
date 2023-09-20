@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"60e3cf6c7db8f965","type":"file","file":"5th Semester/Assignments/POM Presentation/POW Report.md","x":-635,"y":-149,"width":627,"height":409,"color":"4"},
-		{"id":"6ab7de567eab7ad6","type":"file","file":"5th Semester/Assignments/POM Presentation/Requirements.md","x":-1243,"y":-149,"width":386,"height":236,"color":"1"}
+		{"id":"60e3cf6c7db8f965","type":"file","file":"5th Semester/Assignments/POM Presentation/POW Report.md","x":-1136,"y":-5,"width":939,"height":862,"color":"4"},
+		{"id":"e7aaed8ba30205ab","x":-1784,"y":272,"width":648,"height":585,"color":"5","type":"file","file":"5th Semester/Assignments/POM Presentation/My part Presentation.md"},
+		{"id":"6ab7de567eab7ad6","type":"file","file":"5th Semester/Assignments/POM Presentation/Requirements.md","x":-1784,"y":-5,"width":648,"height":277,"color":"1"}
 	],
 	"edges":[]
 }
