@@ -11,18 +11,28 @@
             "id": "b18ee0f8be5a9fa9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/Project.canvas",
-                "viewState": {
-                  "x": -762.0656912248064,
-                  "y": 900.4807435905378,
-                  "zoom": -0.5253957414627082
-                }
+                "file": "Internship/Linux Boot/Notes Meeting 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae3d6670f3fd105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internship/Linux Boot/Notes Meeting 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "3a604bde44a2229c",
@@ -89,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/Project.canvas",
+                "file": "Internship/Linux Boot/Notes Meeting 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +135,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b18ee0f8be5a9fa9",
+  "active": "6ae3d6670f3fd105",
   "lastOpenFiles": [
+    "Internship/Linux Boot/Notes Meeting 1.md",
+    "Internship/Linux Boot/Notes Meeting 2.md",
+    "5th Semester/Assignments/POM Presentation/Project.canvas",
     "5th Semester/Assignments/POM Presentation/My part Presentation.md",
     "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
     "README.md",
@@ -135,11 +147,9 @@
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/POW Report.md",
     "5th Semester/Assignments/POM Presentation/Untitled 1.md",
-    "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot",
     "Internship",
     "5th Semester/Assignments/POM Presentation/POW Report.html",
-    "5th Semester/Assignments/POM Presentation/Project.canvas",
     "5th Semester/Assignments/POM Presentation/Requirements.md",
     "push",
     "push.sh",
