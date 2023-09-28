@@ -38,7 +38,25 @@ Runtime services (required for OS talk to higher privilege mode) are after syste
 - Loading kernel image from media
 
 ## 5. Kernel
+## 6. OS
+### Examples
+- Linux
+- OpenBSD
+- NetBSD
+
+
 
 # ARM64 Boot-flow
 ## 1. Rom Reset
-## 2. 
+## 2. Core Boot or Uboot SPL
+Loads both ATF and Uboot images
+- Falcon mode
+	Let Uboot SPL Boot OS directly.
+	- Smaller embedded
+	- Faster Boot
+## 3. Arm Trusted Firmware
+## 4. Uboot
+- Falcon mode
+	Let Uboot SPL Boot OS directly.
+	- Smaller embedded
+	- Faster Boot
