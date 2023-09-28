@@ -32,4 +32,4 @@ Runtime services (required for OS talk to higher privilege mode) are after syste
 ## 4. Bootloader
 ### Function
 - Loading kernel image from media
-- 
+-  s

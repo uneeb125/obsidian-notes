@@ -15,7 +15,7 @@
               "state": {
                 "file": "Internship/Linux Boot/Notes Meeting 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Internship/Linux Boot/Notes Meeting 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }

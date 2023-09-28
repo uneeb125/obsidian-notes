@@ -1,8 +1,8 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "promptDelete": false,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "autoPairBrackets": true,
   "readableLineLength": true,
   "attachmentFolderPath": "./Attachments",
