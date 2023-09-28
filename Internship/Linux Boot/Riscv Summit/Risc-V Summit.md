@@ -1,5 +1,5 @@
-# 1. Boot-flow
-## Rom reset 
+# General Boot-flow
+## 1. Rom Reset 
 Called so because it is loaded from ROM, present on the board.
 ### Functions 
 - Power on reset
@@ -28,8 +28,17 @@ Sometimes combined into UEFI
 - Runtime services for OS.
 Runtime services (required for OS talk to higher privilege mode) are after system boot, Boot services are before boot (specific to UEFI).
 
-
+  
 ## 4. Bootloader
+### Examples
+- Grub 
+- Linux Boot
+- Uboot (embedded)
 ### Function
 - Loading kernel image from media
--  s
+
+## 5. Kernel
+
+# ARM64 Boot-flow
+## 1. Rom Reset
+## 2. 
