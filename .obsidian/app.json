@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "autoPairMarkdown": true,
   "autoPairBrackets": true,
   "readableLineLength": true,
@@ -16,5 +16,6 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 80
-  }
+  },
+  "showUnsupportedFiles": true
 }

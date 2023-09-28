@@ -38,9 +38,17 @@
               "type": "markdown",
               "state": {
                 "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "5d0f3034a6967600",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -149,7 +157,7 @@
   },
   "active": "2d133b2041226e0d",
   "lastOpenFiles": [
-    "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-13:11:16",
+    "Internship/Linux Boot/Riscv Summit/Attach/Riscv_bootflow",
     "Internship/Linux Boot/Riscv Summit/Attach",
     "Internship/Linux Boot/Untitled.md",
     "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
