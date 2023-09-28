@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 2.md",
+                "file": "Internship/Linux Boot/Notes Meeting 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d133b2041226e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 2.md",
+                "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +148,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6ae3d6670f3fd105",
+  "active": "2d133b2041226e0d",
   "lastOpenFiles": [
+    "Internship/Linux Boot/Untitled.md",
+    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
+    "Internship/Linux Boot/Muhammad Tahir Meetings.md",
+    "Internship/Linux Boot/Riscv Summit",
     "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Notes Meeting 2.md",
     "5th Semester/Assignments/POM Presentation/Project.canvas",
