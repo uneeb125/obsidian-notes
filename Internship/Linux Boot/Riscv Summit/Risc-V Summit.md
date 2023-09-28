@@ -1,4 +1,5 @@
 # General Boot-flow
+![[Common_bootflow.jpg]]
 ## 1. Rom Reset 
 Called so because it is loaded from ROM, present on the board.
 ### Functions 
@@ -47,6 +48,7 @@ Runtime services (required for OS talk to higher privilege mode) are after syste
 
 
 # ARM64 Boot-flow
+![[ARM64_bootflow.jpg]]
 ## 1. Rom Reset
 ## 2. Core Boot or Uboot SPL
 Loads both ATF and Uboot images
@@ -62,13 +64,12 @@ Loads both ATF and Uboot images
 	- Faster Boot
 
 # RISC-V Boot-flow
+![[RISC-V_bootflow.jpg]]
 ## Zero Stage BL (Rom Reset)
 ## 1st Stage BL 
 ## 2nd Stage
 
 [Specific boot] (https://youtu.be/sPjtvqfGjnY?si=pro7ON3dgbmv0ebm&t=749)
-
-![[Common_bootflow.jpg]]
 
 
 
