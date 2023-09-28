@@ -11,5 +11,7 @@ Called so because it is loaded from rom, present on the board.
  - Loading next stages:
 	 - Runtime
 	 - Proper Bootloader
+
 ### Examples
+- s
 
