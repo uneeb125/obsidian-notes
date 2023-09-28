@@ -13,5 +13,16 @@ Called so because it is loaded from ROM, present on the board.
 	 - Proper Bootloader
 
 ### Examples
-- 
+- Bios / UEFI
+	- x86 
+- Uboot SPL
+	- Embedded System
+- Core Boot
+	- Chromebook
 
+## Runtime
+Sometimes combined into UEFI 
+- Run from on chip SRAM or DDR 
+
+### Function
+- 
