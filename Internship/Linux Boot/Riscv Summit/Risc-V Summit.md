@@ -25,4 +25,5 @@ Sometimes combined into UEFI
 - Run from on chip SRAM or DDR 
 
 ### Function
-- 
+- Security components of the bootflow.
+- Runtime services for OS.
