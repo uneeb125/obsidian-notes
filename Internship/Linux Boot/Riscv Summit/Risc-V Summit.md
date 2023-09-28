@@ -68,3 +68,6 @@ Loads both ATF and Uboot images
 
 [Specific boot] (https://youtu.be/sPjtvqfGjnY?si=pro7ON3dgbmv0ebm&t=749)
 
+
+
+![[2023-09-28-13:11:16]]

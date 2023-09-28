@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 256.5
   },
   "right": {
     "id": "3a604bde44a2229c",
@@ -150,6 +149,8 @@
   },
   "active": "2d133b2041226e0d",
   "lastOpenFiles": [
+    "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-13:11:16",
+    "Internship/Linux Boot/Riscv Summit/Attach",
     "Internship/Linux Boot/Untitled.md",
     "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
@@ -187,7 +188,6 @@
     "Assignment-25/README.md",
     "Assignment-22/README.md",
     "Assignment-21/README.md",
-    "Assignment-20/README.md",
-    "Assignment-19/README.md"
+    "Assignment-20/README.md"
   ]
 }
