@@ -35,9 +35,11 @@
             "id": "2d133b2041226e0d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Internship/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg"
+                "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg",
+                "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +155,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "af2cac44b48b9331",
+  "active": "2d133b2041226e0d",
   "lastOpenFiles": [
-    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg",
+    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Riscv Summit/Attach/Riscv_bootflow",
     "Internship/Linux Boot/Riscv Summit/Attach",
     "Internship/Linux Boot/Untitled.md",

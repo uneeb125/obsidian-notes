@@ -62,7 +62,6 @@ Loads both ATF and Uboot images
 	- Faster Boot
 
 # RISC-V Boot-flow
-![[Common_bootflow.jpg]]
 ## Zero Stage BL (Rom Reset)
 ## 1st Stage BL 
 ## 2nd Stage

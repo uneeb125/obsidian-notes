@@ -5,7 +5,7 @@
   "autoPairMarkdown": true,
   "autoPairBrackets": true,
   "readableLineLength": true,
-  "attachmentFolderPath": "./Attachments",
+  "attachmentFolderPath": "Internship/Linux Boot/Riscv Summit/Attach",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
