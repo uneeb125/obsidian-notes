@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b085e5d05c85d9cf",
+        "id": "94caadb492da12c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b18ee0f8be5a9fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6ae3d6670f3fd105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d133b2041226e0d",
+            "id": "6c69220aacf5f4e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "5d0f3034a6967600",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,21 +122,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2d133b2041226e0d",
+  "active": "6c69220aacf5f4e5",
   "lastOpenFiles": [
+    "Internship/Linux Boot/Notes Meeting 3.md",
+    "Internship/Linux Boot/Notes Meeting 2.md",
+    "Internship/Linux Boot/Notes Meeting 1.md",
+    "Internship/Linux Boot/Muhammad Tahir Meetings.md",
+    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/ARM64_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-14:36:49",
     "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-14:22:59",
     "Internship/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg",
-    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Riscv Summit/Attach/Riscv_bootflow",
     "Internship/Linux Boot/Riscv Summit/Attach",
-    "Internship/Linux Boot/Untitled.md",
-    "Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "Internship/Linux Boot/Riscv Summit",
-    "Internship/Linux Boot/Notes Meeting 1.md",
-    "Internship/Linux Boot/Notes Meeting 2.md",
     "5th Semester/Assignments/POM Presentation/Project.canvas",
     "5th Semester/Assignments/POM Presentation/My part Presentation.md",
     "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
