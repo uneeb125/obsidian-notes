@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
+                "file": "5th Semester/Aux Resources/Trig Identities.md",
                 "mode": "preview",
                 "source": false
               }
@@ -44,10 +44,10 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Product-to",
             "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
+            "explainSearch": true,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           }
@@ -62,7 +62,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fa3a1f23799f44d2",
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
+            "file": "5th Semester/Aux Resources/Trig Identities.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "c22200f0f3e4d47a",
   "lastOpenFiles": [
+    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/ARM64_bootflow.jpg",
@@ -115,7 +116,6 @@
     "/Internship/Linux Boot/Riscv Summit/Attach",
     "/5th Semester/Aux Resources",
     "Internship/Linux Boot/Notes Meeting 1.md",
-    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "/Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "Internship/Linux Boot/Riscv Summit",
