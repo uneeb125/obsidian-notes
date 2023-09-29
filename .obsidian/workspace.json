@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 3.md",
+                "file": "5th Semester/Untitled/Trig Identities.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 3.md",
+                "file": "5th Semester/Untitled/Trig Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,10 @@
   },
   "active": "6c69220aacf5f4e5",
   "lastOpenFiles": [
-    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Notes Meeting 3.md",
+    "5th Semester/Untitled/Trig Identities.md",
+    "5th Semester/Untitled",
+    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Notes Meeting 2.md",
     "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
@@ -150,7 +152,6 @@
     "5th Semester/Assignments/POM Presentation/POW Report.html",
     "5th Semester/Assignments/POM Presentation/Requirements.md",
     "push",
-    "push.sh",
     "5th Semester/Assignments/POM Presentation/Untitled 2.canvas",
     "5th Semester/Assignments/POM Presentation/Untitled 1.canvas",
     "Risc-V Bulid.md",
