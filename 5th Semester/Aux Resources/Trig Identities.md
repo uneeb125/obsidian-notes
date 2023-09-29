@@ -73,3 +73,4 @@
 3. **Sine and Cosine (SIN/COS):**
    $$\sin(A)\cos(B) = \frac{1}{2}[\sin(A + B) + \sin(A - B)]$$
 
+[[Trig Identities#Product-to-Sum Identities|Trig Reference]]

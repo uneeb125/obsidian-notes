@@ -212,10 +212,9 @@
     {
       "modifiers": [
         "Alt",
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "F"
+      "key": "="
     }
   ],
   "editor:unfold-all": [
@@ -224,7 +223,7 @@
         "Alt",
         "Mod"
       ],
-      "key": "="
+      "key": "-"
     }
   ]
 }
