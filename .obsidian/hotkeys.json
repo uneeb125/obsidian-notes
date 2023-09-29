@@ -217,5 +217,14 @@
       ],
       "key": "F"
     }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "="
+    }
   ]
 }

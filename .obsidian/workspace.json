@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5th Semester/Untitled/Trig Identities.md",
+                "file": "5th Semester/Aux Resources/Trig Identities.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Untitled/Trig Identities.md",
+                "file": "5th Semester/Aux Resources/Trig Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,8 @@
   "active": "6c69220aacf5f4e5",
   "lastOpenFiles": [
     "Internship/Linux Boot/Notes Meeting 3.md",
-    "5th Semester/Untitled/Trig Identities.md",
-    "5th Semester/Untitled",
+    "5th Semester/Aux Resources/Trig Identities.md",
+    "5th Semester/Aux Resources",
     "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Notes Meeting 2.md",
     "Internship/Linux Boot/Notes Meeting 1.md",
