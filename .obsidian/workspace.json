@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
-                "mode": "preview",
+                "file": "Internship/Linux Boot/Notes Meeting 3.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
+                "file": "Internship/Linux Boot/Notes Meeting 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,11 +124,11 @@
   },
   "active": "6c69220aacf5f4e5",
   "lastOpenFiles": [
+    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Notes Meeting 3.md",
     "Internship/Linux Boot/Notes Meeting 2.md",
     "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
-    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/ARM64_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-14:36:49",
