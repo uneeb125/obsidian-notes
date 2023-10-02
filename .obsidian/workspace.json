@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "5th Semester/Aux Resources/Trig Identities.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40cf05003bd26640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5th Semester/Aux Resources/Trig Identities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a604bde44a2229c",
@@ -122,12 +136,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c69220aacf5f4e5",
+  "active": "40cf05003bd26640",
   "lastOpenFiles": [
+    "5th Semester/Assignments/PTDU/Assignment 1.md",
+    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Notes Meeting 3.md",
     "5th Semester/Aux Resources/Trig Identities.md",
+    "5th Semester/Assignments/PTDU",
     "5th Semester/Aux Resources",
-    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "Internship/Linux Boot/Notes Meeting 2.md",
     "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
@@ -151,7 +167,6 @@
     "Internship",
     "5th Semester/Assignments/POM Presentation/POW Report.html",
     "5th Semester/Assignments/POM Presentation/Requirements.md",
-    "push",
     "5th Semester/Assignments/POM Presentation/Untitled 2.canvas",
     "5th Semester/Assignments/POM Presentation/Untitled 1.canvas",
     "Risc-V Bulid.md",
@@ -165,7 +180,6 @@
     "Assignment-26/README.md",
     "Assignment-25/README.md",
     "Assignment-22/README.md",
-    "Assignment-21/README.md",
-    "Assignment-20/README.md"
+    "Assignment-21/README.md"
   ]
 }
