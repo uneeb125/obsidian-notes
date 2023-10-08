@@ -11,12 +11,8 @@
             "id": "c22200f0f3e4d47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Linux Boot/Notes Meeting 1.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Internship/Linux Boot/Notes Meeting 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,9 +94,10 @@
   },
   "active": "c22200f0f3e4d47a",
   "lastOpenFiles": [
+    "5th Semester/Notes.md",
+    "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Notes Meeting 2.md",
     "Internship/Linux Boot/Notes Meeting 3.md",
-    "5th Semester/Notes.md",
     "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "5th Semester/Notes",
     "5th Semester/Assignments/PTDU/Assignment 1.md",
@@ -122,7 +118,6 @@
     "5th Semester/Aux Resources",
     "/Internship/Linux Boot/Riscv Summit/Attach",
     "/5th Semester/Aux Resources",
-    "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "/Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "Internship/Linux Boot/Riscv Summit",
