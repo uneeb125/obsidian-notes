@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Linux Boot/Linux Boot.md",
+                "file": "Aux Resources/Diff formulas.md",
                 "mode": "source",
                 "source": true
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Linux Boot/Linux Boot.md",
+                "file": "Aux Resources/Diff formulas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Linux Boot/Linux Boot.md",
+                "file": "Aux Resources/Diff formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +161,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "e790c4e9b740d2be",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Aux Resources/Diff formulas.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,14 +189,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "08ccdd38335b7715",
+  "active": "40cf05003bd26640",
   "lastOpenFiles": [
+    "Projects/Linux Boot/Linux Boot.md",
     "Projects/Projects.md",
     "Projects/Linux Boot/Muhammad Tahir Meetings.md",
     "Projects/Linux Boot/Device Tree.md",
     "Projects/Linux Boot/Notes Meeting 3.md",
     "Projects/Linux Boot/Types of Bootloaders.md",
-    "Projects/Linux Boot/Linux Boot.md",
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
     "Aux Resources/Integ Formulas.md",
