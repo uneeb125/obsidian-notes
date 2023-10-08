@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5th Semester/Aux Resources/Trig Identities.md",
+                "file": "Aux Resources/Trig Identities.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           },
@@ -26,9 +26,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differentiation formulas.md",
-                "mode": "source",
-                "source": false
+                "file": "Aux Resources/Aux Resources.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -46,31 +46,31 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Differentiation formulas.md",
+                "file": "Aux Resources/Aux Resources.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 4,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": true,
-                  "textFadeMultiplier": -0.3,
-                  "nodeSizeMultiplier": 0.795272727272727,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "textFadeMultiplier": -0.2,
+                  "nodeSizeMultiplier": 1.26072727272727,
+                  "lineSizeMultiplier": 3.16872727272727,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 8.91576994434137,
-                  "linkStrength": 1,
-                  "linkDistance": 190,
+                  "repelStrength": 11.5769944341373,
+                  "linkStrength": 0.578849721706865,
+                  "linkDistance": 173,
                   "scale": 0.7387214055816612,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differentiation formulas.md",
+                "file": "Aux Resources/Aux Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,9 +180,11 @@
   },
   "active": "40cf05003bd26640",
   "lastOpenFiles": [
-    "5th Semester/Aux Resources/Aux Resources.md",
-    "Differentiation formulas.md",
-    "5th Semester/Aux Resources/Trig Identities.md",
+    "Aux Resources/Differentiation formulas.md",
+    "Aux Resources/Trig Identities.md",
+    "Aux Resources/Aux Resources.md",
+    "Aux Resources/Maths.md",
+    "Aux Resources/Integration formulas.md",
     "5th Semester/Notes/Notes.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "Internship/Linux Boot/Notes Meeting 3.md",
@@ -190,7 +192,7 @@
     "5th Semester/Notes",
     "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "5th Semester/Assignments/PTDU",
-    "5th Semester/Aux Resources",
+    "Aux Resources",
     "Internship/Linux Boot/Notes Meeting 2.md",
     "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
@@ -220,8 +222,6 @@
     "VM_tasks.md",
     "Assignment-23/README.md",
     "Assignment-24/README.md",
-    "Assignment-28/README.md",
-    "Assignment-27/README.md",
-    "Assignment-26/README.md"
+    "Assignment-28/README.md"
   ]
 }
