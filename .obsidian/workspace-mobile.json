@@ -11,8 +11,12 @@
             "id": "c22200f0f3e4d47a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aux Resources/Diff formulas.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -70,6 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Aux Resources/Diff formulas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",

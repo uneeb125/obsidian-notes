@@ -1,4 +1,4 @@
-# Sine
+# Sines
 $$  
 \frac{d}{dx} \sin(u) = \cos(u) \frac{du}{dx}
 $$
