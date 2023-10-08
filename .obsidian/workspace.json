@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5th Semester/Notes/Notes.md",
+                "file": "Differentiation formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5th Semester/Notes/Notes.md",
+                "file": "Differentiation formulas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -70,7 +70,7 @@
                   "linkStrength": 1,
                   "linkDistance": 190,
                   "scale": 0.7387214055816612,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Notes/Notes.md",
+                "file": "Differentiation formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,12 +180,14 @@
   },
   "active": "40cf05003bd26640",
   "lastOpenFiles": [
+    "5th Semester/Aux Resources/Aux Resources.md",
+    "Differentiation formulas.md",
+    "5th Semester/Aux Resources/Trig Identities.md",
+    "5th Semester/Notes/Notes.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "Internship/Linux Boot/Notes Meeting 3.md",
     "5th Semester/Assignments/PTDU/Assignment 1.md",
-    "5th Semester/Notes/Notes.md",
     "5th Semester/Notes",
-    "5th Semester/Aux Resources/Trig Identities.md",
     "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "5th Semester/Assignments/PTDU",
     "5th Semester/Aux Resources",
@@ -220,7 +222,6 @@
     "Assignment-24/README.md",
     "Assignment-28/README.md",
     "Assignment-27/README.md",
-    "Assignment-26/README.md",
-    "Assignment-25/README.md"
+    "Assignment-26/README.md"
   ]
 }
