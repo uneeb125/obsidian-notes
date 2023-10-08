@@ -1,2 +1,2 @@
-[[Notes Meeting 1]]
-[[Notes Meeting 2]]
+[[Types of Bootloaders]]
+[[Device Tree]]

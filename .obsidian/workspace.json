@@ -6,7 +6,7 @@
       {
         "id": "94caadb492da12c8",
         "type": "tabs",
-        "dimension": 65.22038567493112,
+        "dimension": 52.27272727272727,
         "children": [
           {
             "id": "6c69220aacf5f4e5",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Linux Boot/Notes Meeting 1.md",
+                "file": "Projects/Linux Boot/Linux Boot.md",
                 "mode": "source",
                 "source": true
               }
@@ -38,7 +38,7 @@
       {
         "id": "4e654d3a10d1c053",
         "type": "tabs",
-        "dimension": 34.77961432506887,
+        "dimension": 47.72727272727273,
         "children": [
           {
             "id": "08ccdd38335b7715",
@@ -46,16 +46,16 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects/Linux Boot/Notes Meeting 1.md",
+                "file": "Projects/Linux Boot/Linux Boot.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 4,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": true,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -64,12 +64,12 @@
                   "textFadeMultiplier": -0.2,
                   "nodeSizeMultiplier": 1.26072727272727,
                   "lineSizeMultiplier": 3.16872727272727,
-                  "collapse-forces": true,
-                  "centerStrength": 0.479109461966605,
-                  "repelStrength": 10.1506493506494,
-                  "linkStrength": 0.764007421150278,
-                  "linkDistance": 282,
-                  "scale": 0.7387214055816612,
+                  "collapse-forces": false,
+                  "centerStrength": 0.331873840445269,
+                  "repelStrength": 12.9053803339518,
+                  "linkStrength": 0.916066790352505,
+                  "linkDistance": 99,
+                  "scale": 0.7065446424582,
                   "close": true
                 }
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Linux Boot/Notes Meeting 1.md",
+                "file": "Projects/Linux Boot/Linux Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +178,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "40cf05003bd26640",
+  "active": "08ccdd38335b7715",
   "lastOpenFiles": [
-    "Projects/Linux Boot/Linux Boot.md",
     "Projects/Projects.md",
+    "Projects/Linux Boot/Muhammad Tahir Meetings.md",
+    "Projects/Linux Boot/Device Tree.md",
+    "Projects/Linux Boot/Notes Meeting 3.md",
+    "Projects/Linux Boot/Types of Bootloaders.md",
+    "Projects/Linux Boot/Linux Boot.md",
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
     "Aux Resources/Integ Formulas.md",
@@ -190,15 +194,11 @@
     "Aux Resources/Maths.md",
     "Aux Resources/Aux Resources.md",
     "5th Semester/Notes/Notes.md",
-    "Projects/Linux Boot/Muhammad Tahir Meetings.md",
-    "Projects/Linux Boot/Notes Meeting 3.md",
     "5th Semester/Assignments/PTDU/Assignment 1.md",
     "5th Semester/Notes",
     "Projects/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "5th Semester/Assignments/PTDU",
     "Aux Resources",
-    "Projects/Linux Boot/Notes Meeting 2.md",
-    "Projects/Linux Boot/Notes Meeting 1.md",
     "Projects/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
     "Projects/Linux Boot/Riscv Summit/Attach/ARM64_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-14:36:49",
