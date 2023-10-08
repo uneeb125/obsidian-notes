@@ -14,10 +14,53 @@
               "type": "markdown",
               "state": {
                 "file": "Aux Resources/Diff formulas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "e52a0ea3dec069f9"
+          }
+        ]
+      },
+      {
+        "id": "c477e2b5138e1a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b589891956dbe19",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Aux Resources/Diff formulas.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.68058745893123,
+                  "lineSizeMultiplier": 1.91835668754037,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.3939030344204055,
+                  "close": true
+                }
+              }
+            },
+            "group": "e52a0ea3dec069f9"
           }
         ]
       }
@@ -97,8 +140,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c728da9e317891ce",
+  "active": "c22200f0f3e4d47a",
   "lastOpenFiles": [
+    "/Aux Resources/Diff formulas.md",
     "5th Semester/Notes.md",
     "Internship/Linux Boot/Notes Meeting 1.md",
     "Internship/Linux Boot/Notes Meeting 2.md",
