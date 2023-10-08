@@ -1,2 +1,0 @@
-[[POW Report]]
-[[Requirements]]

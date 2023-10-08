@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/pow test.md",
+                "file": "Projects/Linux Boot/Notes Meeting 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/pow test.md",
+                "file": "Projects/Linux Boot/Notes Meeting 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Assignments/POM Presentation/pow test.md",
+                "file": "Projects/Linux Boot/Notes Meeting 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,9 @@
   },
   "active": "40cf05003bd26640",
   "lastOpenFiles": [
+    "Projects/Linux Boot/Linux Boot.md",
+    "Projects/Projects.md",
+    "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
     "Aux Resources/Integ Formulas.md",
     "Aux Resources/Diff formulas.md",
@@ -187,32 +190,31 @@
     "Aux Resources/Maths.md",
     "Aux Resources/Aux Resources.md",
     "5th Semester/Notes/Notes.md",
-    "Internship/Linux Boot/Muhammad Tahir Meetings.md",
-    "Internship/Linux Boot/Notes Meeting 3.md",
+    "Projects/Linux Boot/Muhammad Tahir Meetings.md",
+    "Projects/Linux Boot/Notes Meeting 3.md",
     "5th Semester/Assignments/PTDU/Assignment 1.md",
     "5th Semester/Notes",
-    "Internship/Linux Boot/Riscv Summit/Risc-V Summit.md",
+    "Projects/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "5th Semester/Assignments/PTDU",
     "Aux Resources",
-    "Internship/Linux Boot/Notes Meeting 2.md",
-    "Internship/Linux Boot/Notes Meeting 1.md",
-    "Internship/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
-    "Internship/Linux Boot/Riscv Summit/Attach/ARM64_bootflow.jpg",
+    "Projects/Linux Boot/Notes Meeting 2.md",
+    "Projects/Linux Boot/Notes Meeting 1.md",
+    "Projects/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
+    "Projects/Linux Boot/Riscv Summit/Attach/ARM64_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-14:36:49",
     "Internship/Linux Boot/Riscv Summit/Attach/2023-09-28-14:22:59",
-    "Internship/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg",
+    "Projects/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/Riscv_bootflow",
-    "Internship/Linux Boot/Riscv Summit/Attach",
-    "Internship/Linux Boot/Riscv Summit",
+    "Projects/Linux Boot/Riscv Summit/Attach",
+    "Projects/Linux Boot/Riscv Summit",
     "5th Semester/Assignments/POM Presentation/Project.canvas",
     "5th Semester/Assignments/POM Presentation/My part Presentation.md",
     "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
     "README.md",
-    "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/POW Report.md",
     "5th Semester/Assignments/POM Presentation/Untitled 1.md",
-    "Internship/Linux Boot",
-    "Internship",
+    "Projects/Linux Boot",
+    "Projects",
     "5th Semester/Assignments/POM Presentation/Requirements.md",
     "5th Semester/Assignments/POM Presentation/Untitled 2.canvas",
     "5th Semester/Assignments/POM Presentation/Untitled 1.canvas",
@@ -220,8 +222,6 @@
     "To ask.md",
     "Untitled 1.canvas",
     "VM_tasks.md",
-    "Assignment-23/README.md",
-    "Assignment-24/README.md",
-    "Assignment-28/README.md"
+    "Assignment-23/README.md"
   ]
 }
