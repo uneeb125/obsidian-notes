@@ -1,3 +1,3 @@
 [[Trig Identities]]
-[[Differentiation formulas]]
-[[Integration formulas]]
+[[Diff formulas]]
+[[Integ Formulas]]

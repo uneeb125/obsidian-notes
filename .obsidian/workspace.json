@@ -6,7 +6,7 @@
       {
         "id": "94caadb492da12c8",
         "type": "tabs",
-        "dimension": 67.76859504132231,
+        "dimension": 65.22038567493112,
         "children": [
           {
             "id": "6c69220aacf5f4e5",
@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aux Resources/Aux Resources.md",
-                "mode": "preview",
+                "file": "5th Semester/Assignments/POM Presentation/pow test.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -38,7 +38,7 @@
       {
         "id": "4e654d3a10d1c053",
         "type": "tabs",
-        "dimension": 32.231404958677686,
+        "dimension": 34.77961432506887,
         "children": [
           {
             "id": "08ccdd38335b7715",
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Aux Resources.md",
+                "file": "5th Semester/Assignments/POM Presentation/pow test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -54,23 +54,23 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": -0.2,
                   "nodeSizeMultiplier": 1.26072727272727,
                   "lineSizeMultiplier": 3.16872727272727,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 11.5769944341373,
-                  "linkStrength": 0.578849721706865,
-                  "linkDistance": 173,
+                  "collapse-forces": true,
+                  "centerStrength": 0.479109461966605,
+                  "repelStrength": 10.1506493506494,
+                  "linkStrength": 0.764007421150278,
+                  "linkDistance": 282,
                   "scale": 0.7387214055816612,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aux Resources/Aux Resources.md",
+                "file": "5th Semester/Assignments/POM Presentation/pow test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,11 +180,12 @@
   },
   "active": "40cf05003bd26640",
   "lastOpenFiles": [
-    "Aux Resources/Differentiation formulas.md",
+    "5th Semester/Assignments/POM Presentation/Aux Resources.md",
+    "Aux Resources/Integ Formulas.md",
+    "Aux Resources/Diff formulas.md",
     "Aux Resources/Trig Identities.md",
-    "Aux Resources/Aux Resources.md",
     "Aux Resources/Maths.md",
-    "Aux Resources/Integration formulas.md",
+    "Aux Resources/Aux Resources.md",
     "5th Semester/Notes/Notes.md",
     "Internship/Linux Boot/Muhammad Tahir Meetings.md",
     "Internship/Linux Boot/Notes Meeting 3.md",
@@ -207,7 +208,6 @@
     "5th Semester/Assignments/POM Presentation/My part Presentation.md",
     "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
     "README.md",
-    "5th Semester/Assignments/POM Presentation/Aux Resources.md",
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/POW Report.md",
     "5th Semester/Assignments/POM Presentation/Untitled 1.md",

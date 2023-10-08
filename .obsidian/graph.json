@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path: \"5th Semester/Notes\"\"",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,15 +8,15 @@
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 1.48205128205128,
-  "lineSizeMultiplier": 5,
+  "lineSizeMultiplier": 2.26181818181818,
   "collapse-forces": false,
   "centerStrength": 0.489583333333333,
   "repelStrength": 12.6041666666667,
   "linkStrength": 0.598958333333333,
   "linkDistance": 201,
-  "scale": 2.464318299060277,
-  "close": true
+  "scale": 0.5770025135386044,
+  "close": false
 }
