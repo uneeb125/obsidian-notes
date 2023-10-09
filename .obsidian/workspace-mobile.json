@@ -11,11 +11,9 @@
             "id": "c22200f0f3e4d47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
-                "mode": "preview",
-                "source": true
+                "file": "Aux Resources/calculus-derivatives-limits.pdf"
               }
             },
             "group": "e52a0ea3dec069f9"
@@ -32,7 +30,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "Aux Resources/calculus-derivatives-limits.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -117,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aux Resources/Diff formulas.md",
+            "file": "Aux Resources/calculus-derivatives-limits.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,8 +138,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c22200f0f3e4d47a",
+  "active": "c728da9e317891ce",
   "lastOpenFiles": [
+    "Aux Resources/Diff formulas.md",
     "/Aux Resources/Diff formulas.md",
     "5th Semester/Notes.md",
     "Internship/Linux Boot/Notes Meeting 1.md",
