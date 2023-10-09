@@ -9,7 +9,7 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
-  "vimMode": true,
+  "vimMode": false,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
