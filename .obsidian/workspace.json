@@ -6,7 +6,6 @@
       {
         "id": "94caadb492da12c8",
         "type": "tabs",
-        "dimension": 52.27272727272727,
         "children": [
           {
             "id": "6c69220aacf5f4e5",
@@ -26,56 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
-                "mode": "source",
+                "file": "Aux Resources/Integ Formulas.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4e654d3a10d1c053",
-        "type": "tabs",
-        "dimension": 47.72727272727273,
-        "children": [
-          {
-            "id": "08ccdd38335b7715",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Aux Resources/Diff formulas.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 4,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.2,
-                  "nodeSizeMultiplier": 1.26072727272727,
-                  "lineSizeMultiplier": 3.16872727272727,
-                  "collapse-forces": false,
-                  "centerStrength": 0.331873840445269,
-                  "repelStrength": 12.9053803339518,
-                  "linkStrength": 0.916066790352505,
-                  "linkDistance": 99,
-                  "scale": 0.7065446424582,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -134,6 +91,7 @@
       {
         "id": "3587c3ceb1fafb27",
         "type": "tabs",
+        "dimension": 48.54771784232365,
         "children": [
           {
             "id": "ce46996462d5a5a0",
@@ -141,8 +99,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
-                "collapseAll": false,
+                "file": "Aux Resources/Integ Formulas.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -168,17 +126,57 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Aux Resources/Diff formulas.md"
+                "file": "Aux Resources/Integ Formulas.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "6e34e7bc92a5fcaa",
+        "type": "tabs",
+        "dimension": 51.45228215767634,
+        "children": [
+          {
+            "id": "08ccdd38335b7715",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Aux Resources/Integ Formulas.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 4,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.8,
+                  "nodeSizeMultiplier": 0.911636363636364,
+                  "lineSizeMultiplier": 3.16872727272727,
+                  "collapse-forces": true,
+                  "centerStrength": 0.331873840445269,
+                  "repelStrength": 12.9053803339518,
+                  "linkStrength": 0.916066790352505,
+                  "linkDistance": 99,
+                  "scale": 0.5705614725368608,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,17 +189,17 @@
   },
   "active": "40cf05003bd26640",
   "lastOpenFiles": [
-    "Projects/Linux Boot/Linux Boot.md",
     "Projects/Projects.md",
+    "Aux Resources/Trig Identities.md",
+    "Aux Resources/Integ Formulas.md",
+    "Aux Resources/Diff formulas.md",
+    "Projects/Linux Boot/Linux Boot.md",
     "Projects/Linux Boot/Muhammad Tahir Meetings.md",
     "Projects/Linux Boot/Device Tree.md",
     "Projects/Linux Boot/Notes Meeting 3.md",
     "Projects/Linux Boot/Types of Bootloaders.md",
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
-    "Aux Resources/Integ Formulas.md",
-    "Aux Resources/Diff formulas.md",
-    "Aux Resources/Trig Identities.md",
     "Aux Resources/Maths.md",
     "Aux Resources/Aux Resources.md",
     "5th Semester/Notes/Notes.md",

@@ -1,5 +1,7 @@
 {
   "baseFontSize": 21,
   "cssTheme": "Dekurai",
-  "accentColor": "#6b86ef"
+  "accentColor": "#6b86ef",
+  "monospaceFontFamily": "DejaVu Sans Mono",
+  "nativeMenus": false
 }
