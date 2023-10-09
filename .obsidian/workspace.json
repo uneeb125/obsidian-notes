@@ -15,7 +15,7 @@
               "state": {
                 "file": "Aux Resources/Trig Identities.md",
                 "mode": "preview",
-                "backlinks": true,
+                "backlinks": false,
                 "source": true
               }
             }
@@ -24,9 +24,12 @@
             "id": "40cf05003bd26640",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Aux Resources/calculus-derivatives-limits.pdf"
+                "file": "Aux Resources/Diff formulas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -93,23 +96,6 @@
         "dimension": 48.54771784232365,
         "children": [
           {
-            "id": "ce46996462d5a5a0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Aux Resources/calculus-derivatives-limits.pdf",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a009ea671f1f21f6",
             "type": "leaf",
             "state": {
@@ -125,7 +111,24 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Aux Resources/calculus-derivatives-limits.pdf"
+                "file": "Aux Resources/Diff formulas.md"
+              }
+            }
+          },
+          {
+            "id": "bfde081c26305180",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aux Resources/Diff formulas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -142,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/calculus-derivatives-limits.pdf",
+                "file": "Aux Resources/Diff formulas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,11 +191,12 @@
   },
   "active": "40cf05003bd26640",
   "lastOpenFiles": [
-    "Aux Resources/Integ Formulas.md",
+    "Aux Resources/Maths.md",
+    "Aux Resources/Diff formulas.md",
     "Aux Resources/calculus-derivatives-limits.pdf",
+    "Aux Resources/Integ Formulas.md",
     "Projects/Projects.md",
     "Aux Resources/Trig Identities.md",
-    "Aux Resources/Diff formulas.md",
     "Projects/Linux Boot/Linux Boot.md",
     "Projects/Linux Boot/Muhammad Tahir Meetings.md",
     "Projects/Linux Boot/Device Tree.md",
@@ -200,7 +204,6 @@
     "Projects/Linux Boot/Types of Bootloaders.md",
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
-    "Aux Resources/Maths.md",
     "Aux Resources/Aux Resources.md",
     "5th Semester/Notes/Notes.md",
     "5th Semester/Assignments/PTDU/Assignment 1.md",
