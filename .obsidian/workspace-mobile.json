@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "Aux Resources/Integ Formulas.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "Aux Resources/Integ Formulas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "Aux Resources/Integ Formulas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aux Resources/Diff formulas.md",
+            "file": "Aux Resources/Integ Formulas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,8 +185,8 @@
   },
   "active": "c22200f0f3e4d47a",
   "lastOpenFiles": [
-    "Aux Resources/Trig Identities.md",
     "Aux Resources/Diff formulas.md",
+    "Aux Resources/Trig Identities.md",
     "/Aux Resources/Diff formulas.md",
     "Aux Resources/calculus-derivatives-limits.pdf",
     "5th Semester/Notes.md",
