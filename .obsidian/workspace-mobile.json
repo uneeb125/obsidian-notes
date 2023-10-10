@@ -15,6 +15,7 @@
               "state": {
                 "file": "Aux Resources/Diff formulas.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             },
