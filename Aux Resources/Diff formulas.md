@@ -58,8 +58,8 @@ $$
 \frac{d}{dx} \sin(x) = \cos(x)
 $$
 
-$$  
-\frac{d}{dx} \cos(x) = -\sin(x) 
+$$
+\frac{d}{dx} \cos(x) = -\sin(x)
 $$
 
 $$
