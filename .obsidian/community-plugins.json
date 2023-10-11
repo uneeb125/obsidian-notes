@@ -1,5 +1,14 @@
 [
   "obsidian-pandoc",
   "obsidian-git",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-outliner",
+  "obsidian-mind-map",
+  "obsidian-linter",
+  "obsidian-kanban",
+  "heading-level-indent",
+  "obsidian-excalidraw-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-day-planner",
+  "table-editor-obsidian"
 ]
