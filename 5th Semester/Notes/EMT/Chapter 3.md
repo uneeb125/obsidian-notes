@@ -18,7 +18,7 @@ $$\textbf{E} =\int_{vol} \frac{\rho_{v}dv}{4\pi \epsilon_{0}R^{2}} \textbf{a}_R$
 $$\oint_{S}\textbf{D}_{s}\cdot d\textbf{S} = \int_{vol}\rho_{v}dv$$
 ## Application on symmetrical charge distribution
 
-### Spherical
+### Spherical Cover (Point Charge)
 $$
 \begin{align}
 Q &= \oint_{S} \textbf{D}_{s}\cdot d\textbf{S}\\
@@ -29,12 +29,13 @@ $$
 $$\textbf{D} = \frac{Q}{4\pi r^{2}} \textbf{a}_r$$
 #### Electric Charge intensity
 $$\textbf{E}= \frac{Q}{4\pi \epsilon_{0}r^{2}}\textbf{a}_r$$
-### Cylindrical
+### Cylindrical Cover (Line Charge)
+- Ideal for line charge density.
 #### Electric Flux density
 $$\mathbf{D_\rho} = \frac{\rho_{L}}{2\pi  \rho}a_{\rho}$$
 #### Electric Charge intensity
 $$\mathbf{E_{\rho}} = \frac{\rho_{L}}{2\pi \epsilon_{0} \rho}a_{\rho}$$
-### Coaxial
+### Coaxial ()
 ## Application on Volume Element
 # Divergence and Maxwell's First Equation
 # The Vector Operation and Divergence Theorem
