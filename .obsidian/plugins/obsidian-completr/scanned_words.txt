@@ -2,7 +2,9 @@ Coulomb
 Charge
 Cylindrical
 Coaxial
+Cover
 law
+line
 Electric
 Element
 Equation
@@ -11,6 +13,7 @@ Flux
 For
 First
 Intensity
+Ideal
 Volume
 Vector
 Density
@@ -23,6 +26,7 @@ Sketches
 Spherical
 and
 flux
+for
 produced
 plugin
 by
