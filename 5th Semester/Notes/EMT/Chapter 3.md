@@ -25,11 +25,15 @@ Q &= \oint_{S} \textbf{D}_{s}\cdot d\textbf{S}\\
 &= 4 \pi r^{2}D_{s}
 \end{align}
 $$
-#### Electric flux Density
+#### Electric Flux Density
 $$\textbf{D} = \frac{Q}{4\pi r^{2}} \textbf{a}_r$$
-#### Electric charge intensity
+#### Electric Charge intensity
 $$\textbf{E}= \frac{Q}{4\pi \epsilon_{0}r^{2}}\textbf{a}_r$$
 ### Cylindrical
+#### Electric Flux density
+$$\mathbf{D_\rho} = \frac{\rho_{L}}{2\pi  \rho}a_{\rho}$$
+#### Electric Charge intensity
+$$\mathbf{E_{\rho}} = \frac{\rho_{L}}{2\pi \epsilon_{0} \rho}a_{\rho}$$
 ### Coaxial
 ## Application on Volume Element
 # Divergence and Maxwell's First Equation
