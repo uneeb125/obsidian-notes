@@ -34,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5th Semester/Notes/EMT/Chapter 3.md"
+                "file": "5th Semester/Notes/EMT/Chapter 2.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Notes/EMT/Chapter 3.md",
+                "file": "5th Semester/Notes/EMT/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5th Semester/Notes/EMT/Chapter 3.md",
+                "file": "5th Semester/Notes/EMT/Chapter 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,10 +194,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d07a9c66143f5a51",
+  "active": "40cf05003bd26640",
   "lastOpenFiles": [
-    "5th Semester/Notes/EMT/Chapter 2.md",
     "5th Semester/Notes/EMT/Chapter 3.md",
+    "5th Semester/Notes/EMT/Chapter 2.md",
     "Aux Resources/Trig Identities.md",
     "5th Semester/Notes/EMT.md",
     "5th Semester/Notes/Notes.md",
