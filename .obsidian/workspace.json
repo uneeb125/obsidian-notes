@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
-                "mode": "preview",
+                "file": "5th Semester/Notes/EMT/Chapter 2.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Aux Resources/Diff formulas.md"
+                "file": "5th Semester/Notes/EMT/Chapter 2.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "5th Semester/Notes/EMT/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "5th Semester/Notes/EMT/Chapter 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,8 +191,12 @@
   },
   "active": "40cf05003bd26640",
   "lastOpenFiles": [
-    "Aux Resources/Maths.md",
+    "5th Semester/Notes/EMT.md",
+    "5th Semester/Notes/EMT/Chapter 2.md",
+    "5th Semester/Notes/Notes.md",
+    "5th Semester/Notes/EMT",
     "Aux Resources/Diff formulas.md",
+    "Aux Resources/Maths.md",
     "Aux Resources/calculus-derivatives-limits.pdf",
     "Aux Resources/Integ Formulas.md",
     "Projects/Projects.md",
@@ -205,7 +209,6 @@
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
     "Aux Resources/Aux Resources.md",
-    "5th Semester/Notes/Notes.md",
     "5th Semester/Assignments/PTDU/Assignment 1.md",
     "5th Semester/Notes",
     "Projects/Linux Boot/Riscv Summit/Risc-V Summit.md",
@@ -225,13 +228,11 @@
     "README.md",
     "5th Semester/Assignments/POM Presentation/POW Report.md",
     "5th Semester/Assignments/POM Presentation/Untitled 1.md",
-    "Projects/Linux Boot",
     "5th Semester/Assignments/POM Presentation/Requirements.md",
     "5th Semester/Assignments/POM Presentation/Untitled 2.canvas",
     "5th Semester/Assignments/POM Presentation/Untitled 1.canvas",
     "Risc-V Bulid.md",
     "To ask.md",
-    "Untitled 1.canvas",
-    "VM_tasks.md"
+    "Untitled 1.canvas"
   ]
 }
