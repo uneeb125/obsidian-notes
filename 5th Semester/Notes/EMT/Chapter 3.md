@@ -39,6 +39,9 @@ $$\mathbf{E_{\rho}} = \frac{\rho_{L}}{2\pi \epsilon_{0} \rho}a_{\rho}$$
 $$\oint_{S}\mathbf{D}\cdot d \mathbf{S}= \int_{front} +  \int_{back} + \int_{left} + \int_{right} + \int_{top} + \int_{bottom} $$
 $$\oint_{S}\mathbf{D}\cdot d \mathbf{S}= \left(\frac{\partial D_{x}}{\partial x} + \frac{\partial D_{y}}{\partial y} + \frac{\partial D_{z}}{\partial z} \right) \Delta v $$
 # Divergence and Maxwell's First Equation
-$$\text{Divergence of } \mathbf{A} = \text{div } \mathbf{A} = \lim_{\Delta v \rightarrow 0} \frac{\oint_{S}\mathbf{A}\cdot d \mathbf{S}}{\Delta v}$$
-
+$$\text{Divergence of } \mathbf{A} = \text{div } \mathbf{A} = \lim_{\Delta v \rightarrow 0} \frac{\oint_{S}\mathbf{A}\cdot d \mathbf{S}}{\Delta v} = \rho_{v}$$
 # The Vector Operation and Divergence Theorem
+## The Del Operator (nabla)
+$$\nabla = \frac{\partial}{\partial x}\mathbf{a}_x + \frac{\partial}{\partial y}\mathbf{a}_y + \frac{\partial}{\partial z}\mathbf{a}_z$$
+## The Divergence Theorem
+$$\oint_{S}\mathbf{D} \cdot d \mathbf{S} = \int_{vol} \nabla \cdot \mathbf{D} dv$$
