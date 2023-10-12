@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aux Resources/Integ Formulas.md",
+                "file": "Aux Resources/Diff formulas.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Integ Formulas.md",
+                "file": "Aux Resources/Diff formulas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Integ Formulas.md",
+                "file": "Aux Resources/Diff formulas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aux Resources/Integ Formulas.md",
+            "file": "Aux Resources/Diff formulas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "c22200f0f3e4d47a",
   "lastOpenFiles": [
+    "Aux Resources/Integ Formulas.md",
     "Aux Resources/Diff formulas.md",
     "Aux Resources/Trig Identities.md",
     "/Aux Resources/Diff formulas.md",
@@ -225,7 +226,6 @@
     "Assignment-25/README.md",
     "Assignment-23/README.md",
     "Assignment-22/README.md",
-    "Assignment-21/README.md",
-    "Assignment-20/README.md"
+    "Assignment-21/README.md"
   ]
 }
