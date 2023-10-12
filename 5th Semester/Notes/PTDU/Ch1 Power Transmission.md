@@ -43,6 +43,9 @@ Pure CO2 and water vapor produced.
 6. Steam goes to re-heating tubes, then sent to MP turbines, then to LP turbines.
 7. Steam moves to condenser.
 8. Condensate pump drives water through reheater, sends to feed water pump, then loop again.
-9. Heat in cooling water removed by natural, forced or induced draft cooling towers. Some use 
+9. Heat in cooling water removed by natural, forced or induced draft cooling towers. Some use river or lake water.
+10. Products of combustion moved towards stack scrubbers and antipollution apparatus, then exhausted.
+ 
+-  
 
 ### Gas Powered
