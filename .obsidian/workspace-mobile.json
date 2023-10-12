@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "5th Semester/Notes/EMT.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "5th Semester/Notes/EMT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aux Resources/Diff formulas.md",
+                "file": "5th Semester/Notes/EMT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aux Resources/Diff formulas.md",
+            "file": "5th Semester/Notes/EMT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,6 +176,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Week plan": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -185,8 +188,8 @@
   },
   "active": "c22200f0f3e4d47a",
   "lastOpenFiles": [
-    "Aux Resources/Integ Formulas.md",
     "Aux Resources/Diff formulas.md",
+    "Aux Resources/Integ Formulas.md",
     "Aux Resources/Trig Identities.md",
     "/Aux Resources/Diff formulas.md",
     "Aux Resources/calculus-derivatives-limits.pdf",
