@@ -46,6 +46,7 @@ Pure CO2 and water vapor produced.
 8. Condensate pump drives water through reheater, sends to feed water pump, then loop again.
 9. Heat in cooling water removed by natural, forced or induced draft cooling towers. Some use river or lake water.
 10. Products of combustion moved towards stack scrubbers and antipollution apparatus, then exhausted.
+
 #### Key Points
 -  Operates on Rankine cycle.
 - Major CO2 producer.
@@ -53,12 +54,14 @@ Pure CO2 and water vapor produced.
 - Lignite coal increases efficiency.
 
 ### Gas Powered
+#### Process
 1. Compressor used to compress the inlet air.
 2. Compressed air preheated in a regenerator by exhaust gas. 
 3. This added to combustor.
 4. Combustor has natural gas inlet, combusting to give high pressure.
 5. HP passed onto gas turbine, expands and does work.
 
+#### Key Points
 - Operates on Braton cycle
 - Simpler and lower cost of construction and operation.
 - Less water.
@@ -66,3 +69,14 @@ Pure CO2 and water vapor produced.
 - Modern large plants have 35-40% thermal efficiency.
 - Entry gas temp increases efficiency.
 - Max 46% efficient.
+- Supply power minutes after startup.
+- During peak loads and as stand-by for hydro-electric.
+- For low base loads, used as primary source.
+- Used in combination with heat recovery system generator for combined cycle.
+
+### Combined Cycle
+1. In Gas, flue gas tem 900F to 1200F.
+2. This can be used to generate steam by passing through HRSG.
+3. 
+
+- Combined Brayton and Rankine
