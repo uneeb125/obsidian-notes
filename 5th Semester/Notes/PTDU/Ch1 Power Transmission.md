@@ -77,6 +77,6 @@ Pure CO2 and water vapor produced.
 ### Combined Cycle
 1. In Gas, flue gas tem 900F to 1200F.
 2. This can be used to generate steam by passing through HRSG.
-3. 
+3. Gas used as input heat for steam turbine.
 
 - Combined Brayton and Rankine
