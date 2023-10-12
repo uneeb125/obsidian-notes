@@ -14,14 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "5th Semester/Notes/PTDU/Ch1 Power Transmission.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a704b3b7397cac0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5th Semester/Notes/PTDU/Drawing 2023-10-12 16.20.32.excalidraw.md"
+              }
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,16 +44,6 @@
         "id": "462f91d940df46f7",
         "type": "tabs",
         "children": [
-          {
-            "id": "af2cac44b48b9331",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "3ac09c9f16d4fed0",
             "type": "leaf",
@@ -66,12 +66,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e1614c81fcd2b105",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 260.51103591918945
   },
   "right": {
     "id": "3a604bde44a2229c",
@@ -98,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Ch1 Power Transmission.md"
+                "file": "5th Semester/Notes/PTDU/Drawing 2023-10-12 16.20.32.excalidraw.md"
               }
             }
           },
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Ch1 Power Transmission.md",
+                "file": "5th Semester/Notes/PTDU/Drawing 2023-10-12 16.20.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Ch1 Power Transmission.md",
+                "file": "5th Semester/Notes/PTDU/Drawing 2023-10-12 16.20.32.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,10 +191,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b2a6f652228ae043",
+  "active": "4a704b3b7397cac0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-12 16.10.15.excalidraw.md",
     "5th Semester/Notes/PTDU/Ch1 Power Transmission.md",
+    "5th Semester/Notes/PTDU/Drawing 2023-10-12 16.20.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 16.24.08.excalidraw.md",
+    "Untitled Diagram.svg",
+    "5th Semester/Notes/PTDU/Untitled Diagram.svg.md",
+    "5th Semester/Notes/PTDU/Untitled Diagram.svg",
+    "Excalidraw/Drawing 2023-10-12 16.10.15.excalidraw.md",
     "Excalidraw",
     "5th Semester/Notes/EMT/Chapter 4.md",
     "5th Semester/Notes/EMT/Chapter 3.md",
@@ -208,9 +224,7 @@
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
     "Aux Resources/Aux Resources.md",
-    "5th Semester/Assignments/PTDU/Assignment 1.md",
     "5th Semester/Notes",
-    "Projects/Linux Boot/Riscv Summit/Risc-V Summit.md",
     "5th Semester/Assignments/PTDU",
     "Aux Resources",
     "Projects/Linux Boot/Riscv Summit/Attach/RISC-V_bootflow.jpg",
@@ -220,8 +234,6 @@
     "Projects/Linux Boot/Riscv Summit/Attach/Common_bootflow.jpg",
     "Internship/Linux Boot/Riscv Summit/Attach/Riscv_bootflow",
     "5th Semester/Assignments/POM Presentation/Project.canvas",
-    "5th Semester/Assignments/POM Presentation/My part Presentation.md",
-    "5th Semester/Assignments/POM Presentation/0 POW Presentation.md",
     "5th Semester/Assignments/POM Presentation/Untitled 2.canvas",
     "5th Semester/Assignments/POM Presentation/Untitled 1.canvas",
     "Untitled 1.canvas"
