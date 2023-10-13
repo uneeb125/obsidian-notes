@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fc67a5789d8b44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Incomplete.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945,
-    "collapsed": true
+    "width": 260.51103591918945
   },
   "right": {
     "id": "3a604bde44a2229c",
@@ -113,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5th Semester/Notes/EMT/Chapter 3.md"
+                "file": "Incomplete.md"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Notes/EMT/Chapter 3.md",
+                "file": "Incomplete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5th Semester/Notes/EMT/Chapter 3.md",
+                "file": "Incomplete.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,8 +215,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "646cd0029dcc581f",
+  "active": "5fc67a5789d8b44e",
   "lastOpenFiles": [
+    "5th Semester/Notes/EMT/Chapter 3.md",
+    "Incomplete.md",
     "5th Semester/Notes/EMT/Chapter 2.md",
     "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
     "5th Semester/Notes/PTDU/Ch1 Power Transmission.md",
@@ -217,7 +231,6 @@
     "Excalidraw/Drawing 2023-10-12 16.10.15.excalidraw.md",
     "Excalidraw",
     "5th Semester/Notes/EMT/Chapter 4.md",
-    "5th Semester/Notes/EMT/Chapter 3.md",
     "5th Semester/Notes/EMT.md",
     "5th Semester/Notes/PTDU",
     "5th Semester/Notes/EMT/Untitled Kanban.md",
@@ -236,7 +249,6 @@
     "Projects/Linux Boot/Types of Bootloaders.md",
     "5th Semester/Assignments/POM Presentation/pow test.md",
     "5th Semester/Assignments/POM Presentation/Aux Resources.md",
-    "Aux Resources/Aux Resources.md",
     "5th Semester/Notes",
     "5th Semester/Assignments/PTDU",
     "Aux Resources",
