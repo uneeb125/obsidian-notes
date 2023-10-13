@@ -20,6 +20,7 @@ Cycle
 Components
 Coolant
 Capital
+Capacitive
 law
 line
 lt
@@ -53,6 +54,8 @@ Intensity
 Ideal
 Integral
 In
+Instantaneous
+Inductive
 Volume
 Vector
 VIEW
@@ -259,6 +262,8 @@ Points
 Powered
 Pressurized
 PWR
+Phasor
+Purely
 density
 distribution
 dklsfs
@@ -278,6 +283,7 @@ Generated
 Geothermal
 Generator
 Gas
+General
 Application
 on
 of
@@ -350,6 +356,9 @@ Removal
 Rankine
 Reactor
 Rods
+Representation
+Resistive
+RLC
 hlkdf
 height
 html
