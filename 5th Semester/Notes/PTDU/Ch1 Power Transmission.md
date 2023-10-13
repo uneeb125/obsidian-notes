@@ -75,8 +75,40 @@ Pure CO2 and water vapor produced.
 - Used in combination with heat recovery system generator for combined cycle.
 
 ### Combined Cycle
+#### Process
 1. In Gas, flue gas tem 900F to 1200F.
 2. This can be used to generate steam by passing through HRSG.
-3. Gas used as input heat for steam turbine.
+3. Gas used as input heat for steam turbine. 
 
+#### Key Points
 - Combined Brayton and Rankine
+- 65% produced by gas turbine 35% from steam turbine.
+- A Large set produces 600 MW, 2 to 6 sets per plant.
+- Efficiency more than 60%
+
+### Nuclear Power
+#### 2 types:
+- Boiling water reactor (BWR)
+- Pressurized-water reactor (PWR)
+
+| BWR                                 | PWR                                                                |
+| ----------------------------------- | ------------------------------------------------------------------ |
+| - Water Boils inside reactor        | - Superheated water in primary is used to heat up a secondary loop |
+| - Steam Directly drives the turbine | - Secondary loop used for creation of steam                        |
+
+#### Components
+- Reactor core contains
+	- Fuel rods and assemblies
+	- Control Rods
+	- Moderator
+	- Coolant
+- Fuel is Uranium oxide pellets, sealed in metal tubes
+- Control rods placed among fuel assemblies, controlling reaction speed by sliding
+- Moderator slows down neutrons to cause more fission.
+- Coolant circulates in and out of the reactor core. (Primary Loop)
+	- This exchanges heat with the secondary to produce steam.
+#### Key Points
+- Capital cost greater than coal-fired. But are cost competitive, even with waste disposal accounted.
+- Efficiency limited to 33%
+	- Limit to how high you can heat water.
+	- Only a certain amount of heat can be extracted from the water.
