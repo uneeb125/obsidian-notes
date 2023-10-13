@@ -1,5 +1,4 @@
-# Phasors
-## Phasor Representation
+# Phasor Representation
 $$v(t) = V_{max}\cos(wt+\delta)$$
 $$V = \frac{V_{max}}{\sqrt{2}}$$
 $$
@@ -9,5 +8,14 @@ v(t) &= \Re{[V_{max}e^{j(wt+\delta)}]}\\
 \end{align}
 $$
 $$\tilde{V} = Ve^{j\delta}= V\angle \delta$$
-# Power
+# Instantaneous Power
 $$p(t) = v(t)i(t)$$
+## Purely Resistive 
+$$p_{R}(t)=VI_{R}\{1+\cos[2(wt+\delta)]\}$$
+## Purely Inductive
+$$p_{L}(t)=VI_{L}\sin[2(wt+\delta)]$$
+## Purely Capacitive
+$$p_{C}(t)=-VI_{C}\sin[2(wt+\delta)]$$
+## General RLC
+$$p(t)=VI_{R}\{1+\cos[2(wt+\delta)]\} + VI_{x}sin[2(wt+\delta)]$$
+$$p(t) = p_{R}(t) +p_{X}(t)$$
