@@ -1,3 +1,3 @@
 ## 164
-### P2B
-- Incorrect eq
+### P3a
+- 
