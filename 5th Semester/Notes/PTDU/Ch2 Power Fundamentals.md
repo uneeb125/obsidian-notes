@@ -54,3 +54,4 @@ $$I_{a}= \sqrt{3}I_{AB}\angle-30\degree$$
 ## $\Delta$-Y Conversion
 ### Impedance
 $$Z_{Y}=\frac{Z_{\Delta}}{3}$$
+## Power in 3-Phase
