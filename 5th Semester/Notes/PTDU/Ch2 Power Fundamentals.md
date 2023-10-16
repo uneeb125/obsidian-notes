@@ -50,3 +50,7 @@ $$I_{a}= \sqrt{3}I_{AB}\angle-30\degree$$
 - The **sum of the $\Delta$-Load** currents is **zero if balanced**.
 - The **sum of the Line** currents is **always zero**, due to no neutral line.
  ![[Delta_Current_Phasorts.png]]
+
+## $\Delta$-Y Conversion
+### Impedance
+$$Z_{Y}=\frac{Z_{\Delta}}{3}$$
