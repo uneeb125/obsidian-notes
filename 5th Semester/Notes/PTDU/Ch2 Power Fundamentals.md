@@ -21,3 +21,8 @@ $$p(t)=VI_{R}\{1+\cos[2(wt+\delta)]\} + VI_{x}sin[2(wt+\delta)]$$
 $$p(t) = p_{R}(t) +p_{X}(t)$$
 # Complex power
 $$S = VI^{*}= [V\angle \delta][I\angle \delta]^{*} = VI\angle \delta - \beta$$
+
+# Balanced 3-Phase
+## Y-Connections
+- **Balanced** if load impedance on each line is equal.
+- 
