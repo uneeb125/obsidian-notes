@@ -44,6 +44,7 @@ CvJ
 Czz
 CQi
 CX
+Currents
 law
 line
 lt
@@ -200,6 +201,7 @@ VG
 Vw
 VcY
 VPP
+Voltages
 Density
 Divergence
 Del
@@ -302,6 +304,7 @@ SQ
 SKK
 SW
 SRR
+Since
 and
 arrows
 as
@@ -343,6 +346,8 @@ af
 avN
 auD
 aL
+arrangement
+always
 flux
 for
 fold
@@ -380,6 +385,7 @@ fqS
 fyy
 fc
 fff
+form
 produced
 plugin
 parsed
@@ -431,6 +437,7 @@ pWGA
 pX
 pg
 pJ
+positive
 by
 basic
 before
@@ -501,6 +508,8 @@ co
 cc
 cRSS
 cE
+clockwise
+closed
 is
 intensity
 in
@@ -533,6 +542,7 @@ it
 iv
 iZQQ
 inn
+indicates
 equal
 enclosed
 excalidraw
@@ -611,6 +621,10 @@ tyy
 tS
 tx
 tZ
+triangle
+their
+true
+title
 Point
 Potential
 PF
@@ -746,6 +760,7 @@ ommm
 od
 oU
 oO
+only
 symmetrical
 sdfsdf
 settings
@@ -787,6 +802,8 @@ sF
 sgggg
 sf
 sP
+sum
+sdklfjsdf
 Maxwell
 MORE
 Mangla
@@ -1076,6 +1093,9 @@ vIII
 vmeee
 vln
 vJ
+voltages
+voltage
+vectors
 width
 whiteSpace
 wrap
@@ -1223,6 +1243,7 @@ uG
 uUU
 uD
 un
+unbalanced
 Biomass
 Braton
 Brayton
@@ -1483,4 +1504,5 @@ zmm
 zk
 zGGG
 zp
+zero
 ÜB

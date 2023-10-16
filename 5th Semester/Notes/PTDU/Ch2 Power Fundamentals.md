@@ -7,7 +7,7 @@ v(t) &= \Re{[V_{max}e^{j(wt+\delta)}]}\\
 &=\Re{[\sqrt{2}(Ve^{j\delta})e^{jwt}]}
 \end{align}
 $$
-- $$\tilde{V} = Ve^{j\delta}= V\angle \delta$$
+$$\tilde{V} = Ve^{j\delta}= V\angle \delta$$
 # Instantaneous Power
 $$p(t) = v(t)i(t)$$
 ## Purely Resistive 

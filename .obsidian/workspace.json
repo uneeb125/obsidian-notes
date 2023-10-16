@@ -10,14 +10,20 @@
           {
             "id": "59efa62176df104f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Untitled mindmap.md"
-              }
+                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -95,7 +101,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Untitled mindmap.md"
+                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md"
               }
             }
           },
@@ -105,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Untitled mindmap.md",
+                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Untitled mindmap.md",
+                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,9 +193,9 @@
   },
   "active": "59efa62176df104f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-16 11.41.24.excalidraw.md",
     "5th Semester/Notes/PTDU/Untitled mindmap.md",
     "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
+    "Excalidraw/Drawing 2023-10-16 11.41.24.excalidraw.md",
     "5th Semester/Notes/PTDU/Ch1 Power Transmission.md",
     "5th Semester/Notes/PTDU/Attachements",
     "5th Semester/Notes/PTDU/Attachements/Wye_Phasor_and Voltage_Triangle.png",
