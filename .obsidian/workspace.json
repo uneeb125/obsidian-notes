@@ -15,11 +15,26 @@
               "type": "markdown",
               "state": {
                 "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "568c6bdd2483f527",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "5th Semester/Notes/PTDU/Untitled.canvas",
+                "viewState": {
+                  "x": -495.5560217445445,
+                  "y": 658.2468309122282,
+                  "zoom": -0.720521113077798
+                }
+              }
             }
           }
         ],
@@ -102,7 +117,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md"
+                "file": "5th Semester/Notes/PTDU/Untitled.canvas"
               }
             }
           },
@@ -112,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
+                "file": "5th Semester/Notes/PTDU/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
+                "file": "5th Semester/Notes/PTDU/Untitled.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,10 +207,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "59efa62176df104f",
+  "active": "568c6bdd2483f527",
   "lastOpenFiles": [
-    "5th Semester/Notes/PTDU/Attachements/Y-delta Load.png",
     "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
+    "5th Semester/Notes/PTDU/Untitled.canvas",
+    "5th Semester/Notes/PTDU/Attachements/Y-delta Load.png",
     "5th Semester/Notes/PTDU/Untitled mindmap.md",
     "Excalidraw/Drawing 2023-10-16 11.41.24.excalidraw.md",
     "5th Semester/Notes/PTDU/Ch1 Power Transmission.md",

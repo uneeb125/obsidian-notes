@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"25e805d2d1ebd3bb","x":-13,"y":-300,"width":250,"height":172,"type":"text","text":"kjsdlfkjsdlf\nsdfsdfsdf\nsd\nf\n"},
+		{"id":"70cb5e441826eb37","x":381,"y":-304,"width":400,"height":400,"type":"file","file":"5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md"}
+	],
+	"edges":[
+		{"id":"24d8d2b20e1322aa","fromNode":"25e805d2d1ebd3bb","fromSide":"right","toNode":"70cb5e441826eb37","toSide":"left"}
+	]
+}
