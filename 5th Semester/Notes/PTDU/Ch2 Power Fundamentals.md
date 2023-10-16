@@ -40,7 +40,12 @@ $$I_{n}= I_{a}+ I_{b}+ I_{c}$$
 ## $\Delta$-Delta Connections
 
 ### Load Currents
-#### Load Currents
+#### $\Delta$-Load Currents
 $$I_{AB}=\frac{E_{ab}}{Z_{\Delta}}$$
 ![[Y-delta Load.png]]
 #### Line Currents
+$$I_{a}= I_{AB}-I_{CA}$$
+$$I_{a}= \sqrt{3}I_{AB}\angle-30\degree$$
+#### Properties
+- The **sum of the $\Delta$-Load** currents is **zero if balanced**.
+- The **sum of the Line** currents is **always zero**.
