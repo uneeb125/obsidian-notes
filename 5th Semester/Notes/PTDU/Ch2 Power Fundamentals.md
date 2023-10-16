@@ -59,7 +59,7 @@ $$Z_{Y}=\frac{Z_{\Delta}}{3}$$
 $$p_{a}(t)=V_{LN}I_{L}\cos(\delta - \beta) + V_{LN}I_{L}\cos(2wt+\delta+\beta)$$
 $$p_{3\phi}(t)= p_{a}(t) + p_{b}(t) + p_{c}(t)$$
 - The $\cos$ terms get eliminated as they represent **balanced** phasors so they add up to **zero**
-$$p_{3\phi}(t)= V_{LN}I_{L}\cos(\delta - \beta)$$
+$$p_{3\phi}(t)= 3V_{LN}I_{L}\cos(\delta - \beta)$$
 ### For Y-Connection
 $$V_{LN}= \frac{V_{LL}}{\sqrt{3}}$$
 $$p_{3\phi}(t)= \sqrt{3}V_{LL}I_{L}\cos(\delta - \beta)$$
