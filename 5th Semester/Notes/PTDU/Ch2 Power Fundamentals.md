@@ -45,3 +45,4 @@ $$I_{n}= I_{a}+ I_{b}+ I_{c}$$
 
 ### Load Currents
 $$I_{AB}=\frac{E_{ab}}{Z_{\Delta}}$$
+![[Y-delta Load.png]]
