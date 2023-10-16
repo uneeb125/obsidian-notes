@@ -24,5 +24,10 @@ $$S = VI^{*}= [V\angle \delta][I\angle \delta]^{*} = VI\angle \delta - \beta$$
 
 # Balanced 3-Phase
 ## Y-Connections
+### Line to Neutral
+#### Properties
 - **Balanced** if load impedance on each line is equal.
-- 
+- **Positive sequence or abc sequence** when $E_{an}$ leads $E_{bn}$ by $120\degree$ and $E_{bn}$ leads $E_{cn}$ by $120\degree$. 
+- **Negative sequence or acb sequence** when $E_{an}$ leads $E_{cn}$ by $120\degree$ and $E_{cn}$ leads $E_{bn}$ by $120\degree$.
+### Line to Line.
+$$E_{ab}= E_{an}- E_{bn}$$
