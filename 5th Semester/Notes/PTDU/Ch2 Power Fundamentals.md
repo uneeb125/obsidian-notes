@@ -37,3 +37,6 @@ $$E_{ab}= E_{an}- E_{bn}$$
 ![[Wye_Phasor_and Voltage_Triangle.png]]
 
 ### Line Currents
+$$I_{a}= \frac{E_{an}}{Z_{Y}}$$
+$$I_{n}= I_{a}+ I_{b}+ I_{c}$$
+- If **balanced this neutral current is zero**
