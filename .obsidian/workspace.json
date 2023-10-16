@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "94caadb492da12c8",
-        "type": "tabs",
+        "id": "c62ebbac170b7d55",
+        "type": "split",
         "children": [
           {
-            "id": "59efa62176df104f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "94caadb492da12c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59efa62176df104f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5th Semester/Notes/PTDU/Ch2 Power Fundamentals.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "76c45d1a1b33ce97",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e8445dd6697b8eb",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
