@@ -1028,6 +1028,7 @@ mx
 mCC
 mmmee
 mH
+mindmap
 xml
 xmlns
 xlink
