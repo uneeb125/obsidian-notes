@@ -32,11 +32,16 @@ $$S = VI^{*}= [V\angle \delta][I\angle \delta]^{*} = VI\angle \delta - \beta$$
 ### Line to Line Voltages
 $$E_{ab}= E_{an}- E_{bn}$$
 - The **clockwise** arrangement of the line to line voltages indicates a **positive sequence**.
-- Since a line to line voltage vectors form a closed triangle their sum is always zero, *even in unbalanced*. $$E_{ab} + E_{bc} + E_{ca} = 0$$
+- Since a **line to line** voltage vectors form a closed triangle their **sum is always zero**, *even in unbalanced*. $$E_{ab} + E_{bc} + E_{ca} = 0$$
 - But for Line to Neutral voltages this is only true for **Balanced**. $$E_{an} + E_{bn} + E_{cn} = 0$$
 ![[Wye_Phasor_and Voltage_Triangle.png]]
 
 ### Line Currents
 $$I_{a}= \frac{E_{an}}{Z_{Y}}$$
 $$I_{n}= I_{a}+ I_{b}+ I_{c}$$
-- If **balanced this neutral current is zero**
+- If **balanced this neutral current is zero**, because of closed phasor triangle.
+
+## $\Delta$-Delta Connections
+
+### Load Currents
+$$I_{AB}=\frac{E_{ab}}{Z_{\Delta}}$$
