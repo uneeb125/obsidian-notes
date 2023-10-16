@@ -19,3 +19,5 @@ $$p_{C}(t)=-VI_{C}\sin[2(wt+\delta)]$$
 ## General RLC
 $$p(t)=VI_{R}\{1+\cos[2(wt+\delta)]\} + VI_{x}sin[2(wt+\delta)]$$
 $$p(t) = p_{R}(t) +p_{X}(t)$$
+# Complex power
+$$S = VI^{*}= [V\angle \delta][I\angle \delta]^{*} = VI\angle \delta - \beta$$
