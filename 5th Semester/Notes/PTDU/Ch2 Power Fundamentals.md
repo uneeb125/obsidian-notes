@@ -48,4 +48,5 @@ $$I_{a}= I_{AB}-I_{CA}$$
 $$I_{a}= \sqrt{3}I_{AB}\angle-30\degree$$
 #### Properties
 - The **sum of the $\Delta$-Load** currents is **zero if balanced**.
-- The **sum of the Line** currents is **always zero**.
+- The **sum of the Line** currents is **always zero**, due to no neutral line.
+ ![[Delta_Current_Phasorts.png]]
