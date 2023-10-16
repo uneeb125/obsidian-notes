@@ -40,5 +40,7 @@ $$I_{n}= I_{a}+ I_{b}+ I_{c}$$
 ## $\Delta$-Delta Connections
 
 ### Load Currents
+#### Load Currents
 $$I_{AB}=\frac{E_{ab}}{Z_{\Delta}}$$
 ![[Y-delta Load.png]]
+#### Line Currents
