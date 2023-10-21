@@ -70,5 +70,5 @@ The **external factors** not in control of the mangers are responsible for much 
 - Patterns of behavior
 ## Technological
 ### Examples
-- Scientific Inovations
-- Industrial
+- Scientific Innovations
+- Industrial Innovations
