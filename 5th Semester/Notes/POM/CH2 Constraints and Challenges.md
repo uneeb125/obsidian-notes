@@ -34,3 +34,41 @@ The **external factors** not in control of the mangers are responsible for much 
 | External  | Environment |
 | Internal  | Company Culture            |
 
+# External Environment
+![[External Factors]]
+## Economic
+### Examples
+- interest rates
+- inflation
+- changes in disposable income
+- stock market fluctuations
+- business cycle stages
+## Demographics
+### Examples
+- age
+- race
+- gender
+- education level
+- geographic location
+- income
+- family composition
+## Political
+### Examples
+- Federal Laws
+- Local Laws
+- Global Laws
+- Country Stability
+## Socio-cultural
+### Examples
+- Values 
+- Attitudes
+- Trends
+- Traditions
+- Lifestyles
+- Beliefs
+- Tastes
+- Patterns of behavior
+## Technological
+### Examples
+- Scientific Inovations
+- Industrial
