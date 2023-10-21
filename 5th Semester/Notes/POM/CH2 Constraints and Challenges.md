@@ -27,5 +27,10 @@ The **managers** are directly responsible for  an organization's success or fail
 ### Definition
 The **external factors** not in control of the mangers are responsible for much of an organizations success.
 ### Key Points
+- Performance affected by economy, customers, governmental policies, competitors’ actions, industry conditions, and decisions made by previous managers.
 
+| Contraint | Source      |
+| --------- | ----------- |
+| External  | Environment |
+| Internal  | Company Culture            |
 
