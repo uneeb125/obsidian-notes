@@ -38,18 +38,18 @@ The **external factors** not in control of the mangers are responsible for much 
 ![[External Factors]]
 ## Economic
 ### Examples
-- interest rates
-- inflation
-- changes in disposable income
-- stock market fluctuations
-- business cycle stages
+- Interest rates
+- Inflation
+- Changes in disposable income
+- Stock market fluctuations
+- Business cycle stages
 ## Demographics
 ### Examples
-- age
-- race
-- gender
-- education level
-- geographic location
+- Age
+- Race
+- Gender
+- Education level
+- Geographic location
 - Income
 - Family composition
 ## Political
