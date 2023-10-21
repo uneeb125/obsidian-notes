@@ -50,8 +50,8 @@ The **external factors** not in control of the mangers are responsible for much 
 - gender
 - education level
 - geographic location
-- income
-- family composition
+- Income
+- Family composition
 ## Political
 ### Examples
 - Federal Laws
