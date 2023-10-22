@@ -168,4 +168,23 @@ The key values are deeply held and widely shared—have a greater influence on e
 ### Disadvantages
 - No risk taking, leading to little innovation.
 ### Maintenance
-- During Employee Selection: pick those who will also fit well into the organization.
+- **During Employee Selection:** pick those who will also fit well into the organization.
+- **Socialization with employees:** Extensive training to instill company culture.
+- This prevents the new employees from disrupting the current beliefs and customs.
+
+## Learning culture
+- Stories 
+- Rituals
+- Material symbols
+- Language
+### Stories
+- Narrative of significant events 
+	- Founders rule breaking
+	- Reactions to past mistakes
+	- Examples of heroic employees
+- Anchor the present in the past.
+- Provide legitimacy for current practices
+- Exemplify organization's goals.
+### Rituals
+Repetitive sequences of activities that express and reinforce the importance values and goals of the organization.
+
