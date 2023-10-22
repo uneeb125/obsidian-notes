@@ -72,3 +72,8 @@ The **external factors** not in control of the mangers are responsible for much 
 ### Examples
 - Scientific Innovations
 - Industrial Innovations
+## Global
+### Examples
+- Globalization 
+- World economy
+- 
