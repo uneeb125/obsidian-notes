@@ -102,4 +102,27 @@ The **external factors** not in control of the mangers are responsible for much 
 - Some Employers use **flexible work arrangements** to meet work output
 - **Freelances** or **Temporary Employees** hired on a per need basis
 ## Uncertainty
+- Managers can make the **most impact** on an organization that has a **stable, low complexity External Environment**
+### Dimensions
+- Change 
+- Complexity
+#### Change 
+- **Stable** 
+	- No newly forming competitors (hard to enter markets)
+	- Little Technological change
+	- The change if does occur, is **predictable**.
+#### Complexity
+- **Simple**
+	- Fewer competitors
+	- Fewer Customers 
+	- Fewer Suppliers
+	- Fewer Government agencies
+ - **Simplification**
+	 - Acquire competitors.
 ## Stakeholder Relations
+### Stakeholders
+- Viewers
+- Music celebrities
+- Advertisers
+- Affiliate TV stations
+- Public service groups
