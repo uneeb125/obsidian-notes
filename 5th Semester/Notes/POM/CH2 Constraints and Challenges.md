@@ -53,6 +53,15 @@ The **external factors** not in control of the mangers are responsible for much 
 - Business cycle stages
 
 ## Demographics
+- **Baby Boomers** _(1946-1964)_ 
+	- Major aspect of external environment due to their numbers.
+- **Gen Y / Millennials** _(1978-1994)_ 
+	- Children of baby Boomers
+	- Major impact from Clothing styles to Work attiturdes
+- **Post-Millennials** 
+	- Teens and middle schoolars
+	- The igeneration, because of growing with customized technology.
+ 
 ### Examples
 - Age
 - Race
