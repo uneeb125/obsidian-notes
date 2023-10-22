@@ -100,5 +100,6 @@ The **external factors** not in control of the mangers are responsible for much 
 - Both good and bad conditions lead to constraint
 - Balancing available jobs and types with the available workforce
 - Some Employers use **flexible work arrangements** to meet work output
+- **Freelances** or **Temporary Employees** hired on a per need basis
 ## Uncertainty
 ## Stakeholder Relations
