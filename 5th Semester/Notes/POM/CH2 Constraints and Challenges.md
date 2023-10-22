@@ -144,6 +144,13 @@ The shared values, principles, traditions, and ways of doing things that influen
 - **Organizational culture is descriptive**. It’s concerned with how members perceive the culture and describe it, not with whether they like it. And only the **shared aspect** is described.
 ## Dimensions to describe culture
 ![[Dimensions of Culture.png]]
+1. Attention to detail
+2. Outcome orientation
+3. People orientation
+4. Team orientation
+5. Aggressiveness
+6. Stability
+7. Innovation and Risk taking
 ## Principle of JetBlue
 1. Fairness to one another and everyone you come in contact with.
 2. Freedom to encourage, help, and allow other associates to grow in knowledge, skill, and scope of responsibility
