@@ -37,12 +37,20 @@ The **external factors** not in control of the mangers are responsible for much 
 # External Environment
 ![[External Factors]]
 ## Economic
+- Toxic Assets
+- Collateralized debt obligations
+- TARP
+- Bailouts
+- Economic stabilization
+- Wraparound mortgages
+- Stress tests
 ### Examples
 - Interest rates
 - Inflation
 - Changes in disposable income
 - Stock market fluctuations
 - Business cycle stages
+
 ## Demographics
 ### Examples
 - Age
