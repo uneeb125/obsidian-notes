@@ -152,4 +152,5 @@ The shared values, principles, traditions, and ways of doing things that influen
 
 ## Strong Cultures
 The key values are deeply held and widely shared—have a greater influence on employees than do weaker cultures.
+- The more **employees accept** the organization’s **key values** and the greater their **commitment** to those values, the **stronger the culture** is.
 
