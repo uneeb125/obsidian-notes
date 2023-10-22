@@ -121,6 +121,7 @@ The **external factors** not in control of the mangers are responsible for much 
 	 - Acquire competitors.
 ## Stakeholder Relations
 ### Stakeholders
+![[Stackholders.png]]
 - Viewers
 - Music celebrities
 - Advertisers
@@ -131,3 +132,10 @@ The **external factors** not in control of the mangers are responsible for much 
 - More successful innovations 
 - Greater degree of trust among stakeholders 
 - Greater organizational flexibility to reduce the impact of change
+
+# Culture 
+## Principle of JetBlue
+1. Fairness to one another and everyone you come in contact with.
+2. Freedom to encourage, help, and allow other associates to grow in knowledge, skill, and scope of responsibility
+3. The ability to make your own commitments and keep them
+4. Consulting other associates before taking actions that could affect the company’s reputation.
