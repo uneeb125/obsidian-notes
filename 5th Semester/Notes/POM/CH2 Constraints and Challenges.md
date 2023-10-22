@@ -154,3 +154,18 @@ The shared values, principles, traditions, and ways of doing things that influen
 The key values are deeply held and widely shared—have a greater influence on employees than do weaker cultures.
 - The more **employees accept** the organization’s **key values** and the greater their **commitment** to those values, the **stronger the culture** is.
 
+| Strong Cultures                         | Weak Cultures                             |
+| --------------------------------------- | ----------------------------------------- |
+| Values **widely** shared                    | Values **limited** to few top management  |
+| **Consistent** message of importance        | **Contradictory** messages of Importance  |
+| Stories of **history** and **heroes**           | **Little** knowledge of history and heros |
+| Identify with the culture               | Little identification                 |
+| Strong connection between shared values | Little connection                     |
+
+### Advantages
+- More loyal employees.
+- High organizational performance.
+### Disadvantages
+- No risk taking, leading to little innovation.
+### Maintenance
+- During Employee Selection: pick those who will also fit well into the organization.
