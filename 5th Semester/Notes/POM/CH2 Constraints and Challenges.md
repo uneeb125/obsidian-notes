@@ -94,3 +94,9 @@ The **external factors** not in control of the mangers are responsible for much 
 ### Examples
 - Globalization 
 - World economy
+
+# Mode of External impact
+## Jobs
+- Both good and bad conditions lead to constraint
+## Uncertainty
+## Stakeholder Relations
