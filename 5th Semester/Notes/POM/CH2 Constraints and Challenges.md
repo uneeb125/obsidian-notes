@@ -37,6 +37,7 @@ The **external factors** not in control of the mangers are responsible for much 
 # External Environment
 ![[External Factors]]
 ## Economic
+### Terms
 - Toxic Assets
 - Collateralized debt obligations
 - TARP
