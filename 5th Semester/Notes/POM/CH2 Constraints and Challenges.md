@@ -210,6 +210,24 @@ Risk taking, conservative, authoritarian, participative, individualistic
 Catch phrases and unique terminology that instill organizations goal.
 ## Effect on managers
 - Decides what an organization can an can not do. 
+- Low trust culture in employees leads to authoritarian leadership.
+### Effects on Goals
+#### Planning
+- Degree of risk
+- Individual or team planning
+- Degree of environment scanning.
+#### Organizing
+- Amount of autonomy designed into employee jobs
+- Tasks don by individuals or teams
+- Degree of manager interaction
+#### Leading
+- Degree of concern with increasing employee job satisfaction
+- Appropriate leadership styles
+- Dismissal of disagreements (even constructive ones)
+#### Controlling
+- Impose extra control or allow autonomy
+- Criteria to emphasize in performance evaluations
+- Repercussions for exceeding budget
 ### Example unspoken values
 - Look busy even if you’re not.
 - If you take risks and fail around here, you’ll pay dearly for it.
@@ -223,3 +241,29 @@ Catch phrases and unique terminology that instill organizations goal.
 ### Profit from cost cutting
 - Slow quarterly earnings.
 - Mangers significantly less like to innovate, take risk, or take long term expansionary projects.
+
+## Cultural Requirements
+### Innovative culture
+#### Characteristics
+- **Challenge and involvement:** Employee involvement in company goals
+- **Freedom:** Employee independence and initiative
+- **Trust and openness:** Supportive and respectfull
+- **Idea time:** Time given to elaborate on idea before action
+- **Playfulness:** Spontaneous and fun workspace
+- **Conflict resolution:** Resolution according to good of organization, than personal interest
+- **Debates:** Allowed to express opinions and reviews
+- **Risk-taking:** Managerial tolerance of uncertainty and employee reward for risk-taking
+### Customer responsive culture
+#### Characteristics
+- **Type of employee:** Hire friendly, attentive, enthusiastic, patient, good listening skills having emplyees
+- **Type of job environment:** Design jobs to employees are allowed to bend rules to satisfy the customers
+- **Empowerment:** Give service-contact employees discretion to make day-to-day decisions
+- **Role clarity:** Reduce uncertainty on what can and can not be done by employees. 
+- **Desire to satisfy customers:** Clarify the need to go outside of the job description to satisfy the customer.
+### Spirituality and Organizational culture
+#### Definition
+A culture in which organization values promote a sense of purpose through meaningful work in the context of a community.
+- Recognize that people have a mind and a spirit.
+#### Advantages
+- Coping with Stress
+- 
