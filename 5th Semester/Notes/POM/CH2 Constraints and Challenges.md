@@ -121,6 +121,10 @@ The **external factors** not in control of the mangers are responsible for much 
 	 - Acquire competitors.
 ## Stakeholder Relations
 ### Stakeholders
+#### Definition
+Any constituencies in the organization’s environment that are affected by an organization’s decisions and actions
+
+#### Examples
 ![[Stackholders.png]]
 - Viewers
 - Music celebrities
@@ -134,8 +138,18 @@ The **external factors** not in control of the mangers are responsible for much 
 - Greater organizational flexibility to reduce the impact of change
 
 # Culture 
+## Definition
+The shared values, principles, traditions, and ways of doing things that influence the way organizational members act. _"How things are done around here"_
+- **Culture is a perception**. It’s not something that can be physically touched or seen, but employees perceive it on the basis of what they experience within the organization.
+- **Organizational culture is descriptive**. It’s concerned with how members perceive the culture and describe it, not with whether they like it. And only the **shared aspect** is described.
+## Dimensions to describe culture
+![[Dimensions of Culture.png]]
 ## Principle of JetBlue
 1. Fairness to one another and everyone you come in contact with.
 2. Freedom to encourage, help, and allow other associates to grow in knowledge, skill, and scope of responsibility
 3. The ability to make your own commitments and keep them
 4. Consulting other associates before taking actions that could affect the company’s reputation.
+
+## Strong Cultures
+The key values are deeply held and widely shared—have a greater influence on employees than do weaker cultures.
+
