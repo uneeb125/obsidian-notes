@@ -174,8 +174,9 @@ The key values are deeply held and widely shared—have a greater influence on e
 - High organizational performance.
 ### Disadvantages
 - No risk taking, leading to little innovation.
-### Maintenance
+## Maintenance of Culture
 - **During Employee Selection:** pick those who will also fit well into the organization.
+- **Actions of top managers:**
 - **Socialization with employees:** Extensive training to instill company culture.
 - This prevents the new employees from disrupting the current beliefs and customs.
 
@@ -271,6 +272,12 @@ Catch phrases and unique terminology that instill organizations goal.
 #### Definition
 A culture in which organization values promote a sense of purpose through meaningful work in the context of a community.
 - Recognize that people have a mind and a spirit.
+#### Characteristics
+- Strong sense of purpose
+- Focus on individual development
+- Trust and openness
+- Employee empowerment 
+- Toleration of employee expression
 #### Advantages
 - Coping with Stress
-- 
+- Baby boomers are looking for something meaningful, a connection.
