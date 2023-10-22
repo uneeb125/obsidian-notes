@@ -76,4 +76,3 @@ The **external factors** not in control of the mangers are responsible for much 
 ### Examples
 - Globalization 
 - World economy
-- 
