@@ -6,5 +6,6 @@ nmap [[ :pHead
 nmap ]] :nHead
 
 inoremap jk <Esc>
+vmap jk <Esc>
 vmap j gj
 vmap k gk
