@@ -98,5 +98,6 @@ The **external factors** not in control of the mangers are responsible for much 
 # Mode of External impact
 ## Jobs
 - Both good and bad conditions lead to constraint
+- Balancing available jobs with the available workforce.
 ## Uncertainty
 ## Stakeholder Relations
