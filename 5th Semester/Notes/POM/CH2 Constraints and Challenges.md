@@ -126,3 +126,8 @@ The **external factors** not in control of the mangers are responsible for much 
 - Advertisers
 - Affiliate TV stations
 - Public service groups
+### Benefits
+- Improved predictability of environmental changes 
+- More successful innovations 
+- Greater degree of trust among stakeholders 
+- Greater organizational flexibility to reduce the impact of change
