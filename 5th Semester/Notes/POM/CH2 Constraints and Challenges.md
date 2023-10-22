@@ -187,4 +187,39 @@ The key values are deeply held and widely shared—have a greater influence on e
 - Exemplify organization's goals.
 ### Rituals
 Repetitive sequences of activities that express and reinforce the importance values and goals of the organization.
+#### Examples
+- Mark Zuckerberg's fist pump in the air.
+- Mary Kay's beauty pageant like award ceremony.
 
+### Material Artifacts and Symbols
+Presence of material object that upon entering an organization convey its general vibe.
+#### Examples
+- Icon
+- Layout of facilities
+- Employee dressing
+- Automobiles provided to top executives
+- Corporate Aircraft
+- Office sizes
+- Furnishing
+- Executive perks
+- Fitness centers
+
+Risk taking, conservative, authoritarian, participative, individualistic
+
+### Language
+Catch phrases and unique terminology that instill organizations goal.
+## Effect on managers
+- Decides what an organization can an can not do. 
+### Example unspoken values
+- Look busy even if you’re not.
+- If you take risks and fail around here, you’ll pay dearly for it.
+- Before you make a decision, run it by your boss so that he or she is never surprised.
+- We make our product only as good as the competition forces us to.
+- What made us successful in the past will make us successful in the future.
+- If you want to get to the top here, you have to be a team player.
+### Ready Aim Fire vs Ready Fire Aim
+- **Ready Aim Fire:** managers will study and analyze proposed projects endlessly before committing to them
+- **Ready Fire Aim:** managers take action and then analyze what has been done
+### Profit from cost cutting
+- Slow quarterly earnings.
+- Mangers significantly less like to innovate, take risk, or take long term expansionary projects.
