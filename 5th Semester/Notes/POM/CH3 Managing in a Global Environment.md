@@ -46,9 +46,9 @@
 ## Rights sale
 ### Licensing
 - A specific product rights are sold
-- Little control over the licensee.
-- No support outside of selling the intellectual property.
+- Little control over the licensee
+- No support outside of selling the intellectual property
 ### Franchising
 - Rights to the name and likeness are sold
-- Franchisee must adhere to the guidelines provided by the franchiser.
-- 
+- Franchisee must adhere to the guidelines provided by the franchiser
+- Franchiser provides ongoing support, training and marketing assist
