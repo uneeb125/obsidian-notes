@@ -75,8 +75,23 @@
 - Tax poilicies
 ## Cultural
 ### Dimensions for accessing culture
+#### Geert Hofstede
 1. Individualism-collectivism
 2. Power distance
 3. Uncertainty avoidance
 4. Achievement-nurturing
 5. Long-term/short-term orientation
+#### GLOBE
+1. Power distance
+2. Uncertainty avoidance
+3. Assertiveness
+4. Humane orientation
+5. Future orientation
+6. Institutional collectivism
+7. Gender differentiation
+8. In-group collectivism
+9. And performance orientation
+
+# Challenges for Global business
+1. The openness associated with globalization and the significant cultural differences between countries.
+2. Managing a global workforce, which requires cultural intelligence and a global mind-set
