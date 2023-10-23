@@ -45,6 +45,10 @@
 # Combined Efforts
 ## Rights sale
 ### Licensing
-- To make or sell another company's products and give the organization the right to use the company's brand name, technology or product specifications.
+- A specific product rights are sold
+- Little control over the licensee.
+- No support outside of selling the intellectual property.
 ### Franchising
-- Used by service organization that want to use another organization's name and operating methods.
+- Rights to the name and likeness are sold
+- Franchisee must adhere to the guidelines provided by the franchiser.
+- 
