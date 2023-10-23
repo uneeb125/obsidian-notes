@@ -26,8 +26,10 @@
 - Will continue to see benefits of the alliance
 ## WTO
 - Monitors and promotes trad relations worldwide.
+- 153 countries
 ## IMF & World Bank Group 
 - Provide monetary support and advice.
+- WBG 5 association.
 ## Organization for Economic Cooperation and development
 - Assists its member countries with financial support to achieve sustainable economic growth.
 
@@ -40,7 +42,7 @@
 ### Multidomestic 
 - An MNC that decentralizes management and other decisions to the local country (polycentric). 
 ### Transnational
-- An MNC that eliminates artificial geographical barriers and uses the best work practices and approaches from wherever.
+- An MNC that eliminates artificial geographical barriers and uses the best work practices and approaches from wherever (geocentric).
 
 # Combined Efforts
 ## Rights sale
