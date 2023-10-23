@@ -70,4 +70,13 @@
 # Relevance of Environment 
 ## Political
 ## Economic
+- Currency exchange rates
+- Inflation rates
+- Tax poilicies
 ## Cultural
+### Dimensions for accessing culture
+1. Individualism-collectivism
+2. Power distance
+3. Uncertainty avoidance
+4. Achievement-nurturing
+5. Long-term/short-term orientation
