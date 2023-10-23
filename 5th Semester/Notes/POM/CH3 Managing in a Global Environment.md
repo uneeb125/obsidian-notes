@@ -45,10 +45,18 @@
 # Combined Efforts
 ## Rights sale
 ### Licensing
-- A specific product rights are sold
-- Little control over the licensee
-- No support outside of selling the intellectual property
+- A **specific intellectual property** rights are sold
+- **Little control** over the licensee
+- **No ongoing support** outside of selling the intellectual property
+- Termination is typically based on **contractual provisions**. Renewal may be perpetual.
 ### Franchising
-- Rights to the name and likeness are sold
-- Franchisee must adhere to the guidelines provided by the franchiser
-- Franchiser provides ongoing support, training and marketing assist
+- Rights to **brand, trade secrets, business processes, and operational know-how**
+- Franchisee must **adhere to the guidelines** provided by the franchiser
+- Franchiser provides **ongoing support**, training and marketing assist
+- Termination and renewal is typically based on **meet performance standards**
+- Disclosure of Financial statements.
+
+## Strategic Alliance
+- A partnership between two organization in which original selves are retained
+- They pool resources that helps them in their own non-self competitive fields.
+## Joint Venture
