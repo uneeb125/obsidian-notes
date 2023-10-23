@@ -28,6 +28,7 @@
 - Monitors and promotes trad relations worldwide.
 - 153 countries
 ## IMF & World Bank Group 
+- 185 countries.
 - Provide monetary support and advice.
 - WBG 5 association.
 ## Organization for Economic Cooperation and development
@@ -55,7 +56,8 @@
 - Rights to **brand, trade secrets, business processes, and operational know-how**
 - Franchisee must **adhere to the guidelines** provided by the franchiser
 - Franchiser provides **ongoing support**, training and marketing assist
-- Termination and renewal is typically based on **meet performance standards**
+- TProvide monetary support and advice.
+ermination and renewal is typically based on **meet performance standards**
 - Disclosure of Financial statements.
 
 ## Strategic Alliance
