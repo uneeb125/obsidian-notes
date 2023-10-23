@@ -12,6 +12,7 @@
 - 27 democratic countries (3 more applied)
 - 16 countries have adopted euro (all new member must also)
 ## NAFTA
+- 3 Countries
 - Continues to help Canada, Mexico and the United States.
 ## U.S.-CAFTA
 - Trying to get off the ground
@@ -20,13 +21,14 @@
 ## Mercosur (Southern Common Market)
 - Likely to take new importance due to the delay in U.S-CAFTA & FTAA
 ## ASEAN
+- 10 Countries
 - A trading alliance of ten Southeast Asian nations
 ## African Union and SAARC
 - Relatively new
 - Will continue to see benefits of the alliance
 ## WTO
-- Monitors and promotes trad relations worldwide.
 - 153 countries
+- Monitors and promotes trad relations worldwide.
 ## IMF & World Bank Group 
 - 185 countries.
 - Provide monetary support and advice.
