@@ -35,10 +35,10 @@
 ## Multinational Company
 - A company that maintains operations in multiple countries.
 - **Global Sourcing:** to purchase material or labor from around the world (likely for cheap).
-### Multidomestic 
-- An MNC that decentralizes management and other decisions to the local country (polycentric). 
 ### Global 
 - An MNC that centralizes management and other decisions in the home country (ethnocentric).
+### Multidomestic 
+- An MNC that decentralizes management and other decisions to the local country (polycentric). 
 ### Transnational
 - An MNC that eliminates artificial geographical barriers and uses the best work practices and approaches from wherever.
 
