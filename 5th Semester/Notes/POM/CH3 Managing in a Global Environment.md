@@ -57,6 +57,17 @@
 - Disclosure of Financial statements.
 
 ## Strategic Alliance
-- A partnership between two organization in which original selves are retained
+- A partnership between two organization in which new entity is formed.
 - They pool resources that helps them in their own non-self competitive fields.
 ## Joint Venture
+- A type of strategic alliance in which partners agree to form a separate, independent organization for a business purpose.
+- A new business entity is formed, likely to penetrate a new market segment.
+
+## Subsidiary 
+- A separate and independent facility or office.
+- It is also a direct investment.
+
+# Relevance of Environment 
+## Political
+## Economic
+## Cultural
