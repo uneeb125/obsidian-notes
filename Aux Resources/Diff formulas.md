@@ -54,6 +54,7 @@ $$
 $$
 
 # Common Derivatives
+## Trignometric
 $$
 \frac{d}{dx} \sin(x) = \cos(x)
 $$
@@ -77,7 +78,18 @@ $$
 $$
 \frac{d}{dx} \csc(x) = -\csc(x)\cot(x)
 $$
+$$
+\frac{d}{dx} \sin^{-1}(x) = \frac{1}{\sqrt{1-x^2}} 
+$$
 
+$$
+\frac{d}{dx} \cos^{-1}(x) = -\frac{1}{\sqrt{1-x^2}}
+$$
+
+$$ 
+\frac{d}{dx} \tan^{-1}(x) = \frac{1}{1+x^2} 
+$$
+## Exponent and Logs
 $$
 \frac{d}{dx} e^x = e^x
 $$
@@ -102,17 +114,6 @@ $$
 \frac{d}{dx} x^n = nx^{n-1}
 $$
 
-$$
-\frac{d}{dx} \sin^{-1}(x) = \frac{1}{\sqrt{1-x^2}} 
-$$
-
-$$
-\frac{d}{dx} \cos^{-1}(x) = -\frac{1}{\sqrt{1-x^2}}
-$$
-
-$$ 
-\frac{d}{dx} \tan^{-1}(x) = \frac{1}{1+x^2} 
-$$
 
 
 [[Integ Formulas]]
