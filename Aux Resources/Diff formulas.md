@@ -89,6 +89,59 @@ $$
 $$ 
 \frac{d}{dx} \tan^{-1}(x) = \frac{1}{1+x^2} 
 $$
+## Hyperbolic
+# Hyperbolic Functions
+
+Hyperbolic functions are analogs of trigonometric functions that are based on the hyperbola. The primary hyperbolic functions are the hyperbolic sine ($$ \sinh $$), hyperbolic cosine ($$ \cosh $$), hyperbolic tangent ($$ \tanh $$), hyperbolic cosecant ($$ \csch $$), hyperbolic secant ($$ \sech $$), and hyperbolic cotangent ($$ \coth $$).
+
+## Formulas
+
+The hyperbolic functions are defined as follows:
+
+1. Hyperbolic Sine:
+   - Formula: $$ \sinh(x) = \frac{e^x - e^{-x}}{2} $$
+
+2. Hyperbolic Cosine:
+   - Formula: $$ \cosh(x) = \frac{e^x + e^{-x}}{2} $$
+
+3. Hyperbolic Tangent:
+   - Formula: $$ \tanh (x) = \frac{\sinh (x)}{\cosh (x)} = \frac{e^x - e^{-x}}{e^x + e^{-x}} $$
+
+4. Hyperbolic Cosecant (Reciprocal of Hyperbolic Sine):
+   - Formula: $$ \csch (x) = \frac{1}{\sinh (x)} $$
+
+5. Hyperbolic Secant (Reciprocal of Hyperbolic Cosine):
+   - Formula: $$ \asech (x) = \frac{1}{\cosh (x)} $$
+
+6. Hyperbolic Cotangent (Reciprocal of Hyperbolic Tangent):
+   - Formula: $$ \coth (x) = \frac{1}{\tanh (x)} $$
+
+## Differentiation Formulas
+
+The differentiation formulas for hyperbolic functions are as follows:
+
+1. Derivative of $$ \sinh (x) $$:
+   - $$ \frac{d}{dx}\sinh (x) = \cosh (x) $$
+
+2. Derivative of $$ \cosh (x) $$:
+   - $$ \frac{d}{dx}\cosh (x) = \sinh (x) $$
+
+3. Derivative of $$ \tanh (x) $$:
+   - $$ \frac{d}{dx}\tanh (x) = \sech^2 (x) $$
+
+## Integration Formulas
+
+The integration formulas for hyperbolic functions are as follows:
+
+1. Integral of $$ \sinh (x) $$
+   $$ \int \sinh (x) dx = \cosh (x) + C $$
+
+2. Integral of $$ \cosh (x) $$
+   $$ \int \cosh (x) dx = \sinh (x) + C $$
+
+3. Integral of $$ \tanh (x) $$
+   $$ \int \tanh (x) dx = \ln|\cosh (x)| + C $$
+
 ## Exponent and Logs
 $$
 \frac{d}{dx} e^x = e^x
