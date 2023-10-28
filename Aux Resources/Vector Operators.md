@@ -13,13 +13,13 @@ $$\nabla \cdot \mathbf{F} = \frac{1}{r^2} \frac{\partial}{\partial r} (r^2 F_r) 
 # Grad
 
 ## Cartesian Coordinates
-$$\nabla \phi = \frac{\partial \phi}{\partial x} \mathbf{e}_x + \frac{\partial \phi}{\partial y} \mathbf{e}_y + \frac{\partial \phi}{\partial z} \mathbf{e}_z$$
+$$\nabla \phi = \frac{\partial \phi}{\partial x} \mathbf{a}_x + \frac{\partial \phi}{\partial y} \mathbf{a}_y + \frac{\partial \phi}{\partial z} \mathbf{a}_z$$
 
 ## Cylindrical Coordinates
-$$\nabla \phi = \frac{\partial \phi}{\partial \rho} \mathbf{e}_\rho + \frac{1}{\rho} \frac{\partial \phi}{\partial \phi} \mathbf{e}_\phi + \frac{\partial \phi}{\partial z} \mathbf{e}_z$$
+$$\nabla \phi = \frac{\partial \phi}{\partial \rho} \mathbf{a}_\rho + \frac{1}{\rho} \frac{\partial \phi}{\partial \phi} \mathbf{a}_\phi + \frac{\partial \phi}{\partial z} \mathbf{a}_z$$
 
 ## Spherical Coordinates
-$$\nabla \phi = \frac{\partial \phi}{\partial r} \mathbf{e}_r + \frac{1}{r} \frac{\partial \phi}{\partial \theta} \mathbf{e}_\theta + \frac{1}{r \sin \theta} \frac{\partial \phi}{\partial \phi} \mathbf{e}_\phi$$
+$$\nabla \phi = \frac{\partial \phi}{\partial r} \mathbf{a}_r + \frac{1}{r} \frac{\partial \phi}{\partial \theta} \mathbf{a}_\theta + \frac{1}{r \sin \theta} \frac{\partial \phi}{\partial \phi} \mathbf{a}_\phi$$
 
 # Laplacian
 ## Cartesian Coordinates
