@@ -8,7 +8,10 @@ $$
 $$ 
 \int \cos(u) \,du = \sin(u) + C
 $$
-
+### Csc
+$$
+\int{\frac{1}{\sin(x)}dx = ln(tan\frac{\theta}{2})}
+$$
 ## Hyperbolic
 ### Integral of Hyperbolic Sine
 $$ \int \sinh (x) dx = \cosh (x) + C $$
