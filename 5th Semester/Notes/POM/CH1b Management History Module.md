@@ -31,7 +31,17 @@ Weber described ideal organization, bureaucracy.
 
 # Behavioral Approach
 - 3 early advocates Chester, Robert and Hugo.
-Hawthorn Sudies checked effects of various lighting intensity, No conclusion.
+Hawthorn Studies checked effects of various lighting intensity, No conclusion.
 
 # Quatitative Approach
-
+Use of quantitative techniques to improve decision making. Also know as management science.
+- **Linear programming** used for improved resource allocation.
+- **Critical Path scheduling** analysis for better scheduling.
+- **Economic order quantity model** helps inventory.
+## Total quality management
+1. Intense focus on the customer. 
+2. Concern for continual improvement. 
+3. Process focused. 
+4. Improvement in the quality of everything the organization does. 
+5. Accurate measurement. 
+6. Empowerment of employees. 
