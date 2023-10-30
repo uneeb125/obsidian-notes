@@ -38,3 +38,20 @@ Coordinating and overseeing the efficient and effective completion of others' wo
 - Monitoring
 - Comparing
 - Correcting work performance
+
+## Mintzberg's Managerial roles
+### Interpersonal
+Involving people and other ceremonial symbolic duties
+- Figurehead
+- Leader
+- Liaison
+### Information
+Involving receiving, collecting and disseminating information
+- Monitor
+- Disseminator
+- Spokesperson
+### Decisional
+Involving making choices
+- Entrepreneur
+- Disturbance
+- Handler
