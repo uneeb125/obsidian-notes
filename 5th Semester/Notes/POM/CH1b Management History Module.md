@@ -1,7 +1,9 @@
 Dom Smith's *Wealth of Nations* in which he argued the benefits of division of labor and job specialization.
 
+# Classical Approach
 Fredrick W. Taylor, known as the "father" of scientific management, studied manual work using scientific principles to improve production efficiency. 
 
+# 
 Frank Gilberths' found efficient hand and body motion sand designed proper tools and equipement. Bricks external 18 to 5 internal 18 to 2. Made microchronometer to track small time taken for each motion. Made therbligs 17 basic hand motions.
 
 #### General administrative Theory
