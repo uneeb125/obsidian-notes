@@ -45,3 +45,24 @@ Use of quantitative techniques to improve decision making. Also know as manageme
 4. Improvement in the quality of everything the organization does. 
 5. Accurate measurement. 
 6. Empowerment of employees. 
+
+# Contemporary Approach
+Take external environment into account.
+- Systems approach
+- Contingency
+## Systems approach
+- **System** is a set of interrelated and interdependent parts arranged in a manner that produces a unified.
+Whole
+-  Organization is a system composed of Inter dependent factors
+	- Individuals
+	- Groups 
+	- Attitudes
+	- Motives
+	- Formal structure
+	- Interactions
+	- Goals status
+	- Authority
+- No matter how much production department works if the marketing department does not anticipate the customer demand an tastes. The organization suffers 
+- Organization affected by environment, regulations, supplier relations.
+## Contingency approach
+- Organizations are different and face different situations, hence require different ways of management.
