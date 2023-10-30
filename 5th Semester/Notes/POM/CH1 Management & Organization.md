@@ -9,7 +9,6 @@
 - **Coordinate** and **oversee** the work of the other people so that **organizational goals** can be accomplished.
 ## Distinguish
 - They have people working under them
-
 ## Categories
 ### First line
 ### Middle
@@ -101,6 +100,20 @@ Involving making choices
 - You either **manage or be managed**
 ### The awareness of significant rewards and challenges
 #### Rewards
-
+- **Create a work environment** in which organizational members can work to the best of their ability
+- Have opportunities to **think creatively** and use **imagination**
+- Help others find **meaning** and **fulfillment** in work
+- **Support**, **coach**, and **nurture** others
+- Work with a **variety of people**
+- Receive **recognition** and **status** in the organization and community
+- Play a role in **influencing** organizational outcomes
+- Receive appropriate **compensation** in the form of **salaries**, **bonuses**, and **stock options**
+- Good managers are **needed** by organizations
 #### Challenges
-
+- Do **hard work**
+- May have duties that are **more clerical** than managerial
+- Have to **deal with a variety of personalities**
+- Often have to make do with **limited resources**
+- **Motivate workers** in chaotic and uncertain situations
+- **Blend** knowledge, skills, ambitions, and experiences of a diverse work group
+- Success **depends on others'** work performance
