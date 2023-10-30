@@ -33,3 +33,5 @@ Weber described ideal organization, bureaucracy.
 - 3 early advocates Chester, Robert and Hugo.
 Hawthorn Sudies checked effects of various lighting intensity, No conclusion.
 
+# Quatitative Approach
+
