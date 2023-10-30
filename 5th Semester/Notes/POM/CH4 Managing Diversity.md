@@ -16,9 +16,24 @@ The ways in which people in an organization different from and similar to one an
 ### 5. Diversity and inclusion for business success `New Millennium`
 - Diversity see as a core issue, important to business success, profitability, and growth
 
-## Levels of Diverity
+## Levels of Diversity
 - Surface level diversity (looks, qualities of stereotypes)
 - Deep-level diversity (values, personality and work preferences)
 
-#
+## Why Diversity?
 
+### People Management
+- Better use of employee talent
+- Increased quality of team problem-solving efforts
+- Ability to attract and retain employees of diverse backgrounds
+### Organizational Performance
+- Reduced costs associated with high turnover, absenteeism, and lawsuits
+- Enhanced problem-solving ability
+- Improved system flexibility
+### Strategic
+- Increased understanding of the marketplace, which improves ability 
+- To better market to diverse consumers
+- Potential to improve sales growth and increase market share
+- Potential source of competitive advantage because of improved 
+- Innovation efforts
+- Viewed as moral and ethical; the “right” thing to do
