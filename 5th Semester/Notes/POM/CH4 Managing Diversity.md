@@ -88,5 +88,6 @@ The ways in which people in an organization different from and similar to one an
 - Uncertainty over how to take potential disciplinary action with a worker with disabilities
 - High costs associated with accommodating disabled employees
 ## Religion
+
 ## LGBT
 ## Other
