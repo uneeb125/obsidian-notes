@@ -81,7 +81,12 @@ The ways in which people in an organization different from and similar to one an
 - Individuals favor colleagues of their own race in performance evaluations, promotion decisions, and pay raises 
 - African Americans receive lower job ratings, pay and promotion frequency. Despite no difference in absenteeism, applied social skills or accident rates.
 ## Disability
-
+- Americans with Disabilities Act (ADA)
+#### Misconceptions
+- Hiring people with disabilities leads to higher employment costs and lower profit margins
+- Workers with disabilities lack job skills and experience necessary to perform as well as their able counterparts
+- Uncertainty over how to take potential disciplinary action with a worker with disabilities
+- High costs associated with accommodating disabled employees
 ## Religion
 ## LGBT
 ## Other
