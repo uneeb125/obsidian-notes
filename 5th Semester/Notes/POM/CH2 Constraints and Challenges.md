@@ -176,8 +176,8 @@ The key values are deeply held and widely shared—have a greater influence on e
 - No risk taking, leading to little innovation.
 ## Maintenance of Culture
 - **During Employee Selection:** pick those who will also fit well into the organization.
-- **Actions of top managers:**
 - **Socialization with employees:** Extensive training to instill company culture.
+- **Actions of top managers:**
 - This prevents the new employees from disrupting the current beliefs and customs.
 
 ## Learning culture
