@@ -90,4 +90,5 @@ The ways in which people in an organization different from and similar to one an
 ## Religion
 
 ## LGBT
+- Discrimination is not federally enforced
 ## Other
