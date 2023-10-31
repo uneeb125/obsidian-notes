@@ -60,7 +60,23 @@ The ways in which people in an organization different from and similar to one an
 ## Gender
 - Men move up faster
 - Misconception that men do their jobs 
+- Women tend to be more agreeable and willing to conform to authority
+- Men are aggressive, having strong expectations of success
+- Women prefer flexible hours and good work-life balance
+### Styles of management
+- **Masculine**
+	- Directive
+	- Authoritative
+	- Leading by example
+- **Feminine**
+	- Nurturing
+	- Inclusive
+	- Collaborative
+- Women in management tend to utilize masculine and Feminine styles of management.
+- Men only employ masculine
+- Women tend to develop others and to create more committed
 ## Race and Ethnicity
+
 ## Disability
 ## Religion
 ## LGBT
