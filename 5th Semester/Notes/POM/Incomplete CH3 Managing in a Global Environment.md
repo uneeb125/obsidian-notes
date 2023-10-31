@@ -97,7 +97,7 @@ ermination and renewal is typically based on **meet performance standards**
 6. Institutional collectivism
 7. Gender differentiation
 8. In-group collectivism
-9. And performance orientation
+9. performance orientation
 
 # Challenges for Global business
 1. The openness associated with globalization and the significant cultural differences between countries.
