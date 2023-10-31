@@ -92,3 +92,17 @@ The ways in which people in an organization different from and similar to one an
 ## LGBT
 - Discrimination is not federally enforced
 ## Other
+
+# Challenges to Diversity
+- Discriminating policies
+- Sexual Harassment
+- Intimidation
+- Mockery
+- Exclusion
+- Incivility
+## Personal Biases
+## Stereotyping
+## Discrimination
+
+## Glass Ceiling
+## Legal Aspects
