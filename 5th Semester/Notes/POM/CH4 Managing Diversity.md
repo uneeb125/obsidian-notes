@@ -74,10 +74,14 @@ The ways in which people in an organization different from and similar to one an
 	- Collaborative
 - Women in management tend to utilize masculine and Feminine styles of management.
 - Men only employ masculine
-- Women tend to develop others and to create more committed
+- Women tend to develop others and to create more committed work environment
 ## Race and Ethnicity
-
+- **Race** is the biological heritage ( skin color and traits) people use to identify themselves
+- **Ethnicity** is the social traits ( such cultural background or allegiance) that are shared by a human population
+- Individuals favor colleagues of their own race in performance evaluations, promotion decisions, and pay raises 
+- African Americans receive lower job ratings, pay and promotion frequency. Despite no difference in absenteeism, applied social skills or accident rates.
 ## Disability
+
 ## Religion
 ## LGBT
 ## Other
