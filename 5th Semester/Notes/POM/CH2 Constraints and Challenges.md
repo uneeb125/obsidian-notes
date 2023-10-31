@@ -216,7 +216,7 @@ Risk taking, conservative, authoritarian, participative, individualistic
 
 ### Language
 Catch phrases and unique terminology that instill organizations goal.
-## Effect on managers
+## Effect won managers
 - Decides what an organization can an can not do. 
 - Low trust culture in employees leads to authoritarian leadership.
 ### Effects on Goals
