@@ -1,7 +1,7 @@
 # Types of Business Attitudes
 - **Parochialism** means to view the world solely through you own eyes and perspectives and not recognizing that others have different ways of living and working.
 ## Ethnocentric
-- The parochialistic belief that the best work approaches and practices are thos of the home country.
+- The parochialistic belief that the best work approaches and practices are those of the home country.
 ## Polycentric
 - The managers in the host country know the best approach and practices for running their business.
 ## Geocentric
