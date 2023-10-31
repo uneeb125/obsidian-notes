@@ -35,7 +35,7 @@ Weber described ideal organization, bureaucracy.
 - Clearly defined hierarchy
 - Detailed rules and regulations
 - Impersonal relationships
-
+- Career Orientation
 # Behavioral Approach
 - 3 early advocates Chester, Robert and Hugo.
 Hawthorn Studies checked effects of various lighting intensity, No conclusion.
