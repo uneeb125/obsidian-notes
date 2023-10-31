@@ -78,3 +78,9 @@ Whole
 - Routiness of Task Technology
 - Environmental uncertainty
 - Individual difference
+
+
+
+
+I F T I P C D R
+PICTIFDR
