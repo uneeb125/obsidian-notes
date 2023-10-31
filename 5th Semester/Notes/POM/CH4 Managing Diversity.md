@@ -56,8 +56,10 @@ The ways in which people in an organization different from and similar to one an
 # Types of Diversity
 ## Age
 - Title VII of the Civil Rights Act of 1964 and the Age Discrimination in Employment Act of 1967 prohibit age discrimination
-- 
+- Baby boomers retire leading to lack of expertise
 ## Gender
+- Men move up faster
+- Misconception that men do their jobs 
 ## Race and Ethnicity
 ## Disability
 ## Religion
