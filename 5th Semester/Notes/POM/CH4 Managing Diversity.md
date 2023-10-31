@@ -37,3 +37,29 @@ The ways in which people in an organization different from and similar to one an
 - Potential source of competitive advantage because of improved 
 - Innovation efforts
 - Viewed as moral and ethical; the “right” thing to do
+
+# The Changing Workplace
+- Immigration leading to changing population compositions.
+## Global Changes
+### Total world population
+- Population stabilizing at 9 billion due to falling birth rates
+- Birthrates in developing countries not falling, sources of young workforce.
+### The aging problem
+- Older people will out number young in less than 10 years
+- Order from highest percentage of old people
+	1. Japan 22%
+	2. Caribbean 7.8%
+	3. Latin America 6.4%
+	4. Asia (excluding Japan)
+	5. Africa 3.3%
+	
+# Types of Diversity
+## Age
+- Title VII of the Civil Rights Act of 1964 and the Age Discrimination in Employment Act of 1967 prohibit age discrimination
+- 
+## Gender
+## Race and Ethnicity
+## Disability
+## Religion
+## LGBT
+## Other
