@@ -84,3 +84,11 @@ Whole
 
 I F T I P C D R
 PICTIFDR
+Play
+Involve
+Conflidt
+Trust
+Idea time
+Freedom
+Debate
+Risk
