@@ -1,5 +1,5 @@
 [[CH1 Management & Organization]]
 [[CH1b Management History Module]]
 [[CH2 Constraints and Challenges]]
-[[Incomplete CH3 Managing in a Global Environment]]
+[[CH3 Managing in a Global Environment]]
 [[CH4 Managing Diversity]]
