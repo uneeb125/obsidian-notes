@@ -1,2 +1,0 @@
-# Obsidian
-oh high mark
