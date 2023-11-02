@@ -1,5 +1,5 @@
 # Corona
-If suface potential gradient of a conductor exceeds the dielectric strength of surronding air. Partial ionization is known as coronoa.
+If surface potential gradient of a conductor exceeds the dielectric strength of surrounding air. Partial ionization is known as corona.
 
 - Air dielectric at NTP ($25\degree C\space and\space 76\space cm\space of\space Hg$) 30 kV/cm
 
