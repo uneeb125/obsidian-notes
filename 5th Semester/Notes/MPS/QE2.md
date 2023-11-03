@@ -86,7 +86,7 @@ An AHB interconnection network, allowing data and instruction code transfer simu
 	Bus interface at processor converts to aligned
 #### System
 - AHB-Lite
-- Instruction and data access 0 x 20000000 to 0 x DFFFFFFF
+- Instruction and data access 0 x 20000000 to 0 x DFFFFFFF 
 #### AHB-AP
 #### PPB
 
