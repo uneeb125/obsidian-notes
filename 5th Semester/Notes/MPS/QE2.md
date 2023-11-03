@@ -7,6 +7,7 @@ In Thumb2 mode, most instructions are 32-bit wide, with some 16-bit wide instruc
 
 ### Thumb 2 perf
 Thumb2 provides better performance in terms of both speed and code density compared to Thumb and ARM. It has 16 and 32-bit instructions to optimize code density and performance.
+![[Thumb2 comparision.png]]
 
 ### 16-bit higher reg access
 No, 16-bit Thumb instructions cannot access high registers R8-R12 directly. Only 32-bit Thumb2 instructions can do that.
@@ -66,8 +67,10 @@ The main function is called from within reset interrupt service routine.
 	- Memory access
 	- Register file rightback
 
+### Memory Map
+![[Memory map.png]]
+- SRAM used for data
 
-The default code region is 0x00000000-0x1FFFFFFFF. The default data region is 0x20000000-0x3FFFFFFF.
 
 No, endianness does not matter if all accesses are byte sized. It only matters for larger data types like halfword, word etc.
 
