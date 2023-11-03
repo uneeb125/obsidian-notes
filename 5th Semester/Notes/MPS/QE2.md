@@ -154,10 +154,12 @@ Address bus
 Max memory size = 2^20 = 1 MB
 
 
-
+### Pipelined
 Non-pipelined: 200 cycles. Pipelined: 100 * (2/4) = 50 cycles.
 
-Exceptions, interrupts, MSR instruction to modify control bits.
+### User (unprivileged) to handler
+Exceptions
+
 
 CONTROL = 0x01.
 
