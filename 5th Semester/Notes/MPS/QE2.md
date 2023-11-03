@@ -123,7 +123,10 @@ To use the process stack (PSP) in thread mode
 • 0 x 22000000 − 0 x 23FFFFFF (SRAM bit-band alias region, 32 MB)
 • 0 x 42000000 − 0 x 43FFFFFF (peripheral bit-band alias region, 32 MB)
 #### Formula
-
+$$
+y = ((0\text{x}F0000000\space \text{\&}\space x)\space |\space 0\text{x}02000000) + ((0\text{x}000FFFFF\space \text{F}\space x))
+$$
+y = ((0xF0000000 & x) | 0x02000000 + ((0x000FFFFF &x) << 5) + (c << 2)
 ### Advantages and Disadvantages of Bit banding
 **Advantages:** Allows atomic read-modify-write on single bits. 
 **Disadvantage:** Wastes memory as each bit requires a 32-bit word.
@@ -131,9 +134,12 @@ To use the process stack (PSP) in thread mode
 ### M-3 debug interfaces
 Debug interfaces on Cortex-M: JTAG, SWD, ETB, DAP. SWD is used for debugging, breakpoint management, and memory access.
 
+### State of bits at reset
 On reset, T=1, F=1, I=1.
 
+### ARM with Thumb2
 All ARMv7 processors
+
 
 Bit band alias address = 0x02000000 + (byte_offset_32) + (bit_number_4)
 
