@@ -81,8 +81,11 @@ The DCode bus is used to access the data memory region.
 The stack is used to store temporary data, function parameters, return addresses, local variables etc.
 
 ### Pre-requisites to using a stack
-To use the process stack (PSP) in thread mode, the CONTROL register needs to be configured to use PSP, and the process stack pointer (PSP) register needs to be initialized to point to a valid region of memory to be used as the stack.
+To use the process stack (PSP) in thread mode
+- CONTROL register needs to be configured to use PSP (bit-1 set to 1)
+- The process stack pointer (PSP) register needs to be initialized to point to a valid region of memory to be used as the stack.
 
+### 
 Advantages of bit banding: Allows atomic read-modify-write on single bits. Disadvantage: Wastes memory as each bit requires a 32-bit word.
 
 Debug interfaces on Cortex-M: JTAG, SWD, ETB, DAP. SWD is used for debugging, breakpoint management, and memory access.
