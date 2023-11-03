@@ -48,3 +48,17 @@ Linker combines multiple object files and libraries and resolves references betw
 | Cpu, Memory & other peripherals | Only CPU (external components required) |
 | Compact and Efficient           | Powerful and Flexible                   |
 | Used in embedded Devices        | Used in personal computers              |
+
+# Exercise 
+### RISC to CISC
+With CISC, the instruction set will be more complex with multi-cycle variable length instructions. Overall performance may be lower.
+
+### Processor Architecture Usage
+Microprocessors are designed for performance and flexibility hence use von Neumann. Microcontrollers are designed for real-time control tasks hence use Harvard.
+
+### 
+CISC is economical as hardware is cheaper than software. RISC would require implementing more functions in software which is more expensive.
+
+Simulator models the processor software execution. Emulator models the complete hardware including I/O.
+
+8-bit address bus and 32-bit data bus is not possible, as the address bus limits the memory space accessible. 32-bit address bus and 16-bit data bus is possible - the processor will just not utilize the full width of the data bus.
