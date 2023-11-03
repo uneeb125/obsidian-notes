@@ -20,6 +20,7 @@ The SP (R13) register has two physical copies SP_process and SP_main, access con
 If LR is modified inside a subroutine, it will corrupt the return address of the calling function. This will lead to a crash or unexpected behavior.
 Push it to stack at subroutine start so that it can be restored before subroutine exit.
 
+
 No, in thread mode with unprivileged access, the processor cannot directly modify PC or LR. It can only modify PC by performing a branch instruction.
 
 The first two operations after reset are: 1) Fetch the value of the vector table offset register. 2) Load the PC with the address pointed by the reset vector (offset 0x00).
