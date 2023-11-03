@@ -86,9 +86,20 @@ An AHB interconnection network, allowing data and instruction code transfer simu
 	Bus interface at processor converts to aligned
 #### System
 - AHB-Lite
-- Instruction and data access 0 x 20000000 to 0 x DFFFFFFF 
+- Instruction and data access 0 x 20000000 to 0 x DFFFFFFF and 0 x E 01000000 to 0 x FFFFFFFF
+- All transfers are aligned
 #### AHB-AP
+- 3 implementations
+	- SWJ-DP (Serial wire and JTAG)
+	- SW-DP
+	- no DP
+- DP and AP together know as DAP
 #### PPB
+- 0 x E 0040000 to 0 x E00FFFFF
+- Some already used so actual is 0 x E 0042000  to 0 x E00FF000
+- Transfer is word aligned
+
+![[Bus System.png]]
 
 ### Effect of Endianess
 No, endianness does not matter if all accesses are byte sized. It only matters for larger data types like halfword, word etc.
