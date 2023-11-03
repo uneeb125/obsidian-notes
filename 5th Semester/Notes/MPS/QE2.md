@@ -20,9 +20,14 @@ The SP (R13) register has two physical copies SP_process and SP_main, access con
 If LR is modified inside a subroutine, it will corrupt the return address of the calling function. This will lead to a crash or unexpected behavior.
 Push it to stack at subroutine start so that it can be restored before subroutine exit.
 
+### Operation mode
+- **Thread mode**: 
+	- Privileged or Unprivileged
+- **Handler mode**
+	- Privileged (only)
 ### Control bit
-- Bit 0 controls the privilage mode (thread)
-- Bit 1 controls which stack pointer (MSP or PSP) is used
+- **Bit 0** controls the **privilege level** (privileged or unprevileged) in thread mode.
+- **Bit 1** controls which **stack pointer** (MSP or PSP) is used.
 
 | Control Bit | Description |
 |:-----------:| ----------- |
