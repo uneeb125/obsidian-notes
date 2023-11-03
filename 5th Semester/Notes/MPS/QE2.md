@@ -26,13 +26,17 @@ Push it to stack at subroutine start so that it can be restored before subroutin
 - **Handler mode**
 	- Privileged (only)
 ### Control bit
-- **Bit 0** controls the **privilege level** (privileged or unprevileged) in thread mode.
+- **Bit 0** controls the **privilege level** (privileged or unprivileged) in thread mode.
 - **Bit 1** controls which **stack pointer** (MSP or PSP) is used.
 
-| Control Bit | Description |
-|:-----------:| ----------- |
-|   0    1    |             |
+| Control Bit | Description      |
+|:-----------:| ---------------- |
+|   0    0    | Privileged   MSP |
+|   0    1    | Privileged   PSP |
+|   1    0    | Unprivileged MSP |
+|   1    1    | Unprivileged PSP | 
 
+### 
 No, in thread mode with unprivileged access, the processor cannot directly modify PC or LR. It can only modify PC by performing a branch instruction.
 
 The first two operations after reset are: 1) Fetch the value of the vector table offset register. 2) Load the PC with the address pointed by the reset vector (offset 0x00).
