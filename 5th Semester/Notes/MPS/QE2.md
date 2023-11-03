@@ -115,7 +115,7 @@ To use the process stack (PSP) in thread mode
 - CONTROL register needs to be configured to use PSP (bit-1 set to 1)
 - The process stack pointer (PSP) register needs to be initialized to point to a valid region of memory to be used as the stack.
 
-### Bit Banding
+## Bit Banding
 #### Actual Location
 0 x 20000000 − 0 x 200FFFFF (SRAM bit-band region, 1 MB)
 • 0 x 40000000 − 0 x 400FFFFF (peripheral bit-band region, 1 MB)
