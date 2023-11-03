@@ -38,3 +38,6 @@ Assembler converts assembly code to machine code. The object code from assembler
 ### Linker
 Linker combines multiple object files and libraries and resolves references between them to create an executable. 
 
+### Debugging tools
+![[Debugging tools.png]]
+
