@@ -71,6 +71,25 @@ The main function is called from within reset interrupt service routine.
 ![[Memory map.png]]
 - SRAM used for data
 
+### Bus Matrix
+An AHB interconnection network, allowing data and instruction code transfer simultaneously unless both buses are trying to access the same memory region
+
+### Buses
+#### ICode
+- AHB-Lite
+- Instruction fetch 0 x 000 00000 - 0 x 1FFFFFFF
+- Fetches only in word size, (2 Thumb fetch)
+#### DCode
+- AHB-Lite
+- Data access 0 x 000 00000 - 0 x 1FFFFFFF
+- No unaligned access
+	Bus interface at processor converts to aligned
+#### System
+- AHB-Lite
+- Instruction and data access 0 x 20000000 to 0 x DFFFFFFF
+#### AHB-AP
+#### PPB
+
 ### Effect of Endianess
 No, endianness does not matter if all accesses are byte sized. It only matters for larger data types like halfword, word etc.
 
