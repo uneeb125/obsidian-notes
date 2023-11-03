@@ -160,11 +160,11 @@ Non-pipelined: 200 cycles. Pipelined: 100 * (2/4) = 50 cycles.
 ### User (unprivileged) to handler
 Exceptions
 
-
-CONTROL = 0x01.
-
+### Poison for pipeline 
 Code with lots of branches which cause frequent pipeline flushes.
 
+### Little endian from lower address to higher address
 Little endian value: 0x78563412
+
 
 Bit band alias address = 0x22000008
