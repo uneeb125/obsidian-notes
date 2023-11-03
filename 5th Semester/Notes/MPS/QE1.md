@@ -56,9 +56,14 @@ With CISC, the instruction set will be more complex with multi-cycle variable le
 ### Processor Architecture Usage
 Microprocessors are designed for performance and flexibility hence use von Neumann. Microcontrollers are designed for real-time control tasks hence use Harvard.
 
-### 
-CISC is economical as hardware is cheaper than software. RISC would require implementing more functions in software which is more expensive.
+### CISC vs RISC (Cost)
+RISC is economical as hardware is cheaper than software. CISC would require implementing more functions in software which is more expensive. 
 
+### Simulator vs Emulator
 Simulator models the processor software execution. Emulator models the complete hardware including I/O.
 
+**Simulators** mimic the basic behaviors of a real device but doesn’t necessarily follow all the rules of the real environment. Speed and convenience given precedence over accuracy.  
+**Emulator** attempts to mimic all of the hardware features of a production environment and software features.
+
+### Data bus >> Address bus allowed?
 8-bit address bus and 32-bit data bus is not possible, as the address bus limits the memory space accessible. 32-bit address bus and 16-bit data bus is possible - the processor will just not utilize the full width of the data bus.
