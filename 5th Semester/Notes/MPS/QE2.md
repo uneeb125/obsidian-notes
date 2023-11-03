@@ -20,6 +20,13 @@ The SP (R13) register has two physical copies SP_process and SP_main, access con
 If LR is modified inside a subroutine, it will corrupt the return address of the calling function. This will lead to a crash or unexpected behavior.
 Push it to stack at subroutine start so that it can be restored before subroutine exit.
 
+### Control bit
+- Bit 0 controls the privilage mode (thread)
+- Bit 1 controls which stack pointer (MSP or PSP) is used
+
+| Control Bit | Description |
+|:-----------:| ----------- |
+|   0    1    |             |
 
 No, in thread mode with unprivileged access, the processor cannot directly modify PC or LR. It can only modify PC by performing a branch instruction.
 
