@@ -11,10 +11,14 @@ Thumb2 provides better performance in terms of both speed and code density compa
 ### 16-bit higher reg access
 No, 16-bit Thumb instructions cannot access high registers R8-R12 directly. Only 32-bit Thumb2 instructions can do that.
 
-### 
-The LR (R14) register has two physical copies - LR and LR_irq. The SP and PC have only one copy each.
+### Banked Register
+The SP (R13) register has two physical copies SP_process and SP_main, access controlled by a privileged control bit. The SP and PC have only one copy each.
 
+![[Register map (M3).png]]
+
+### LR mod in subroutine
 If LR is modified inside a subroutine, it will corrupt the return address of the calling function. This will lead to a crash or unexpected behavior.
+Push it to stack at subroutine start so that it can be restored before subroutine exit.
 
 No, in thread mode with unprivileged access, the processor cannot directly modify PC or LR. It can only modify PC by performing a branch instruction.
 
