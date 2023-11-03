@@ -85,7 +85,9 @@ To use the process stack (PSP) in thread mode
 - CONTROL register needs to be configured to use PSP (bit-1 set to 1)
 - The process stack pointer (PSP) register needs to be initialized to point to a valid region of memory to be used as the stack.
 
-### 
-Advantages of bit banding: Allows atomic read-modify-write on single bits. Disadvantage: Wastes memory as each bit requires a 32-bit word.
+### Advantages and Disadvantages of Bit banding
+**Advantages:** Allows atomic read-modify-write on single bits. 
+**Disadvantage:** Wastes memory as each bit requires a 32-bit word.
 
+### M-3 debug interfaces
 Debug interfaces on Cortex-M: JTAG, SWD, ETB, DAP. SWD is used for debugging, breakpoint management, and memory access.
