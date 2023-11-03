@@ -140,16 +140,20 @@ On reset, T=1, F=1, I=1.
 ### ARM with Thumb2
 All ARMv7 processors
 
-
+### Bit band reverse
 Bit band alias address = 0x02000000 + (byte_offset_32) + (bit_number_4)
 
+### Using MSP & PSP (not simultaneously)
 Yes it is possible if PSP is used for one stack and MSP for another.
 
+### Thumb2 no switch delay
 Using more 32-bit Thumb2 instructions instead of 16-bit Thumb instructions.
 
+### Max addressable memory 
+Address bus
 Max memory size = 2^20 = 1 MB
 
-Max memory size = 2^32 bytes = 4 GB
+
 
 Non-pipelined: 200 cycles. Pipelined: 100 * (2/4) = 50 cycles.
 
