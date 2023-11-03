@@ -71,13 +71,16 @@ The main function is called from within reset interrupt service routine.
 ![[Memory map.png]]
 - SRAM used for data
 
-
+### Effect of Endianess
 No, endianness does not matter if all accesses are byte sized. It only matters for larger data types like halfword, word etc.
 
+### Which bus is used to access Data
 The DCode bus is used to access the data memory region.
 
+### Uses of the stack
 The stack is used to store temporary data, function parameters, return addresses, local variables etc.
 
+### Pre-requisites to using a stack
 To use the process stack (PSP) in thread mode, the CONTROL register needs to be configured to use PSP, and the process stack pointer (PSP) register needs to be initialized to point to a valid region of memory to be used as the stack.
 
 Advantages of bit banding: Allows atomic read-modify-write on single bits. Disadvantage: Wastes memory as each bit requires a 32-bit word.
