@@ -100,7 +100,7 @@ An AHB interconnection network, allowing data and instruction code transfer simu
 - Transfer is word aligned
 
 ![[Bus System.png]]
-
+![[Memory and Peripherials.png]]
 ### Effect of Endianess
 No, endianness does not matter if all accesses are byte sized. It only matters for larger data types like halfword, word etc.
 
@@ -115,9 +115,44 @@ To use the process stack (PSP) in thread mode
 - CONTROL register needs to be configured to use PSP (bit-1 set to 1)
 - The process stack pointer (PSP) register needs to be initialized to point to a valid region of memory to be used as the stack.
 
+### Bit Banding
+#### Actual Location
+0 x 20000000 − 0 x 200FFFFF (SRAM bit-band region, 1 MB)
+• 0 x 40000000 − 0 x 400FFFFF (peripheral bit-band region, 1 MB)
+#### Alias Location
+• 0 x 22000000 − 0 x 23FFFFFF (SRAM bit-band alias region, 32 MB)
+• 0 x 42000000 − 0 x 43FFFFFF (peripheral bit-band alias region, 32 MB)
+#### Formula
+
 ### Advantages and Disadvantages of Bit banding
 **Advantages:** Allows atomic read-modify-write on single bits. 
 **Disadvantage:** Wastes memory as each bit requires a 32-bit word.
 
 ### M-3 debug interfaces
 Debug interfaces on Cortex-M: JTAG, SWD, ETB, DAP. SWD is used for debugging, breakpoint management, and memory access.
+
+On reset, T=1, F=1, I=1.
+
+All ARMv7 processors
+
+Bit band alias address = 0x02000000 + (byte_offset_32) + (bit_number_4)
+
+Yes it is possible if PSP is used for one stack and MSP for another.
+
+Using more 32-bit Thumb2 instructions instead of 16-bit Thumb instructions.
+
+Max memory size = 2^20 = 1 MB
+
+Max memory size = 2^32 bytes = 4 GB
+
+Non-pipelined: 200 cycles. Pipelined: 100 * (2/4) = 50 cycles.
+
+Exceptions, interrupts, MSR instruction to modify control bits.
+
+CONTROL = 0x01.
+
+Code with lots of branches which cause frequent pipeline flushes.
+
+Little endian value: 0x78563412
+
+Bit band alias address = 0x22000008
