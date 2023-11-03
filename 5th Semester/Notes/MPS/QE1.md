@@ -41,3 +41,10 @@ Linker combines multiple object files and libraries and resolves references betw
 ### Debugging tools
 ![[Debugging tools.png]]
 
+
+### Microcontroller vs Microprocessor
+| Microcontroller                 | Microprocessor                          |
+| ------------------------------- | --------------------------------------- |
+| Cpu, Memory & other peripherals | Only CPU (external components required) |
+| Compact and Efficient           | Powerful and Flexible                   |
+| Used in embedded Devices        | Used in personal computers              |
