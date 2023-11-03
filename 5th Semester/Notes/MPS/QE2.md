@@ -15,8 +15,13 @@ No, 16-bit Thumb instructions cannot access high registers R8-R12 directly. Only
 The SP (R13) register has two physical copies SP_process and SP_main, access controlled by a privileged control bit. The SP and PC have only one copy each.
 
 ![[Register map (M3).png]]
-
-### LR mod in subroutine
+### Special Purpose Registers
+- Program Status Registers:
+	- Application Program Status Register
+	- Interrupt  Program Status Register
+	- Execution Program Status Register
+- Control Register
+### LR modify in subroutine
 If LR is modified inside a subroutine, it will corrupt the return address of the calling function. This will lead to a crash or unexpected behavior.
 Push it to stack at subroutine start so that it can be restored before subroutine exit.
 
@@ -39,10 +44,22 @@ Push it to stack at subroutine start so that it can be restored before subroutin
 ### Unprivileged Thread mode access
 No, in thread mode with unprivileged access, the processor cannot directly modify PC or LR. It can only modify PC by performing a branch instruction.
 
+### Reset Sequence
+- **Address 0 x 00000000:** This address in the code memory (most likely a Flash memory) contains the starting value that is loaded to the **main stack pointer, MSP (R 13).**
+- **Address 0 x 00000004:** **Reset vector** is contained at this address and the program counter is loaded with this value to jump to the reset interrupt service routine.
+The main function is called from within reset interrupt service routine.
 
-The first two operations after reset are: 1) Fetch the value of the vector table offset register. 2) Load the PC with the address pointed by the reset vector (offset 0x00).
-
-The three phases are - Fetch, Decode, and Execute.
+### Stages in Processor
+- **Common 3 stage:** 
+	- Fetch
+	- Decode
+	- Execute.
+- **RISC 5-stage:** 
+	- Instruction Fetch
+	- Decode
+	- Execute
+	- Memory access
+	- Register file rightback
 
 The default code region is 0x00000000-0x1FFFFFFFF. The default data region is 0x20000000-0x3FFFFFFF.
 
