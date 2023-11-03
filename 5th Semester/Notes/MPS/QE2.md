@@ -16,11 +16,16 @@ The SP (R13) register has two physical copies SP_process and SP_main, access con
 
 ![[Register map (M3).png]]
 ### Special Purpose Registers
-- Program Status Registers:
-	- Application Program Status Register
-	- Interrupt  Program Status Register
-	- Execution Program Status Register
-- Control Register
+- **Program Status Registers:**
+	- Application 
+	- Interrupt  
+	- Execution 
+- **Interrupt Mask Registers:**
+	- *PRIMASK*: All except NMI and Hardfault masked
+	- *FAULTMASK*: All except NMI masked
+	- *BASEPRI*: All at or below a certain set value masked
+- **Control Register**
+
 ### LR modify in subroutine
 If LR is modified inside a subroutine, it will corrupt the return address of the calling function. This will lead to a crash or unexpected behavior.
 Push it to stack at subroutine start so that it can be restored before subroutine exit.
@@ -60,6 +65,7 @@ The main function is called from within reset interrupt service routine.
 	- Execute
 	- Memory access
 	- Register file rightback
+
 
 The default code region is 0x00000000-0x1FFFFFFFF. The default data region is 0x20000000-0x3FFFFFFF.
 
