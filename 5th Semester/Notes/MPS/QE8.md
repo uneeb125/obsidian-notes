@@ -37,3 +37,83 @@ A common cathode seven-segment display would be preferred in this case.
 
 ### We are interested in using a keypad interface with the option of multiple simultaneous key presses. Among the three different types of keypad interfaces discussed in this chapter, which one is more suitable for this case?
 The matrix keypad interface can detect multiple simultaneous key presses and would be suitable in this case.
+
+
+Exercise 8.1. If any of the other three configuration steps (pin direction, alternate function, or GPIO port clock enable) are done before the system clock configuration, the GPIO registers will be inaccessible and the configuration writes will have no effect. The system clock must be configured first to enable access to the GPIO registers.
+
+Exercise 8.2. 
+(a) To update pins 0, 2, and 7 as outputs without affecting other pins, the DATA register address should be 0x40006010. This will access pins 0, 2, and 7 directly.
+
+(b) To read pins 1 and 4 as inputs without read-modify-write, the DATA register address should be 0x40006014. This will access only pins 1 and 4. 
+
+Exercise 8.3. The 4-digit 7-segment display can be interfaced using 10 GPIOs as follows:
+
+- Use 7 GPIOs for the 7-segments and 1 GPIO for decimal point. Drive them low to turn on the segments.
+
+- Use 1 GPIO connected to a demultiplexer like 74HC138. The demultiplexer output will connect to the common cathode of each digit. 
+
+- Use 1 GPIO to control the demultiplexer select lines to enable one digit at a time.
+
+Exercise 8.4. Here is the outline for an efficient matrix keypad scanning algorithm using two scans:
+
+1. Set all column pins as outputs, drive high
+2. Set all row pins as inputs 
+3. Read row pins, save status
+
+4. Set all row pins as outputs, drive high
+5. Set all column pins as inputs
+6. Read column pins, save status 
+
+7. Combine saved row and column status to detect key press
+
+Exercise 8.5. Here is the code to configure and write to a 4-bit LCD:
+
+```c
+// LCD in 4-bit mode
+// Configure LCD for 4-bit mode  
+LCD_Command(0x02u); // 4-bit mode
+LCD_Command(0x28u); // 2 line, 5x8 font
+
+// Write text 
+LCD_Write4bits(0x20u); // Write 'H'
+LCD_Write4bits(0x65u); // Write 'e'
+LCD_Write4bits(0x6Cu); // Write 'l' 
+LCD_Write4bits(0x6Cu); // Write 'l'
+LCD_Write4bits(0x6Fu); // Write 'o'
+```
+
+Exercise 8.6. Here is the code outline to toggle LEDs using switches with interrupts:
+
+```c
+// GPIO and interrupt initialization
+
+void PORTF_Handler() {
+  if (SW1 pressed) {
+     Toggle PF1 
+  }
+  if (SW2 pressed) {
+     Toggle PF2
+  }
+}
+
+int main() {
+
+  Enable interrupts
+  
+  while(1) {
+    // Do nothing    
+  }
+
+}
+```
+
+Exercise 8.7. For a 4-digit display with 2 common anode and 2 common cathode digits:
+
+- For common anode: Anode to Vcc, cathode to GPIO through resistor 
+- For common cathode: Cathode to GND, anode to GPIO through resistor
+
+Exercise 8.8. For an n-digit multiplexed 7-segment display, n + 4 GPIOs are required minimum. 
+
+- 7 GPIOs for 7-segments + decimal point
+- n GPIOs to enable one digit at a time
+- Total = n + 7 GPIOs
