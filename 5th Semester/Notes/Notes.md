@@ -1,4 +1,8 @@
-[[EMT]]
-[[PTDU]]
-[[POM]]
-[[MPS]]
+%% Begin Waypoint %%
+- **[[EMT]]**
+- **[[MPS]]**
+- [[Notes]]
+- **[[POM]]**
+- **[[PTDU]]**
+
+%% End Waypoint %%
