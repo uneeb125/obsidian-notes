@@ -10,6 +10,7 @@ kanban-plugin: basic
 
 ## Pending
 
+- [ ] ESP01 Config mode how
 
 
 ## Done
