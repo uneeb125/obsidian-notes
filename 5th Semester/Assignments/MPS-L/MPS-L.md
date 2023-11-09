@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
 - [[MPS-L]]
-- [[OEL UART Wifi module]]
+- **[[OEL WIFI]]**
 
 %% End Waypoint %%
