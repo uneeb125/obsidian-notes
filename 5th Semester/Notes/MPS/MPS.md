@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **Attachments**
-	- [[Pipline visual]]
+
 - [[MPS MIDS]]
 - [[MPS]]
 - [[QE1]]

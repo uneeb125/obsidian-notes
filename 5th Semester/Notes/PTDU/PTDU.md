@@ -1,9 +1,9 @@
 %% Begin Waypoint %%
 - **Attachements**
 
-- [[Ch1 Power Transmission]]
-- [[Ch2 Power Fundamentals]]
-- [[CH4 Inductuctance and Capacitance]]
+- [[5th Semester/Notes/PTDU/Ch1]]
+- [[5th Semester/Notes/PTDU/Ch2]]
+- [[5th Semester/Notes/PTDU/CH4]]
 - [[PTDU]]
 
 %% End Waypoint %%

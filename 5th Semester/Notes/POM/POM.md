@@ -1,11 +1,11 @@
 %% Begin Waypoint %%
 - **Attachments**
 
-- [[CH1 Management & Organization]]
-- [[CH1b Management History Module]]
-- [[CH2 Constraints and Challenges]]
-- [[CH3 Managing in a Global Environment]]
-- [[CH4 Managing Diversity]]
+- [[CH1]]
+- [[CH1b]]
+- [[CH2]]
+- [[CH3]]
+- [[CH4]]
 - [[POM]]
 
 %% End Waypoint %%
