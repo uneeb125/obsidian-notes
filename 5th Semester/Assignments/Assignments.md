@@ -1,7 +1,6 @@
 %% Begin Waypoint %%
 - [[Assignments]]
-- **MPS-L**
-	- [[OEL UART Wifi module]]
+- **[[MPS-L]]**
 - **PTDU**
 
 %% End Waypoint %%

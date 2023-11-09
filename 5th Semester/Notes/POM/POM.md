@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **Attachments**
-	- [[External Factors]]
+
 - [[CH1 Management & Organization]]
 - [[CH1b Management History Module]]
 - [[CH2 Constraints and Challenges]]

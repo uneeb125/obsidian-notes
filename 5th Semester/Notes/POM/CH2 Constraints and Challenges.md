@@ -35,7 +35,7 @@ The **external factors** not in control of the mangers are responsible for much 
 | Internal  | Company Culture            |
 
 # External Environment
-![[External Factors]]
+![[External Factors.png]]
 ## Economic
 ### Terms
 - Toxic Assets
