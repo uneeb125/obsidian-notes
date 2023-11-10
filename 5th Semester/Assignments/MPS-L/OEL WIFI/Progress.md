@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Issues
 
+- [ ] Both TX and TX of 2 UARTs must be configured seperately
 
 
 ## Pending
