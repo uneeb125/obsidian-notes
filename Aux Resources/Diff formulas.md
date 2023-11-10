@@ -78,6 +78,7 @@ $$
 $$
 \frac{d}{dx} \csc(x) = -\csc(x)\cot(x)
 $$
+## Inverse Trigonometric
 $$
 \frac{d}{dx} \sin^{-1}(x) = \frac{1}{\sqrt{1-x^2}} 
 $$
