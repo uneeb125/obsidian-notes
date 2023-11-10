@@ -16,13 +16,14 @@ kanban-plugin: basic
 
 ## Possible Changes
 
-- [ ] Setup addresses for UART6
 - [ ] Change from uart2 to uart6
+- [ ] Change pin config to use UART6
 
 
 ## Done
 
 **Complete**
+- [x] Setup addresses for UART6
 
 
 
