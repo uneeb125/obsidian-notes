@@ -3,6 +3,6 @@
 - **[[MPS]]**
 - [[Notes]]
 - **[[POM]]**
-- **[[PTDU]]**
+- **[[5th Semester/Notes/PTDU/PTDU]]**
 
 %% End Waypoint %%

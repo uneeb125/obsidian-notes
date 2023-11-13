@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - [[Assignments]]
 - **[[MPS-L]]**
-- **PTDU**
+- **[[PTDU]]**
 
 %% End Waypoint %%
