@@ -1,5 +1,7 @@
 {
 	"nodes":[
+		{"id":"185e942909e5b6a6","x":-2560,"y":1133,"width":2533,"height":365,"color":"1","type":"group","label":"Problems"},
+		{"id":"2781e9f757933b44","x":-1782,"y":1652,"width":1755,"height":133,"color":"2","type":"group","label":"Solutions"},
 		{"id":"c646a7c68f56667c","type":"text","text":"## Mass Lay-offs","x":-1598,"y":1183,"width":253,"height":56},
 		{"id":"766040270f81a323","type":"text","text":"## Misinformation","x":-1598,"y":1418,"width":253,"height":60},
 		{"id":"dbffa377a0a8929b","x":-2047,"y":1183,"width":346,"height":60,"type":"text","text":"## Discriminatory Firings"},
@@ -30,6 +32,7 @@
 		{"id":"76a9e0d8a10123c2","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"58d3c307d2663521","toSide":"top"},
 		{"id":"009bbbe8b5dd98c1","fromNode":"766040270f81a323","fromSide":"bottom","toNode":"293903266fd3dbe3","toSide":"top"},
 		{"id":"d25959834549996d","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"bea641cf0f402aa8","toSide":"top"},
-		{"id":"9fee50e40d1f6cc0","fromNode":"bea641cf0f402aa8","fromSide":"bottom","toNode":"3ab27475b4f61864","toSide":"top"}
+		{"id":"9fee50e40d1f6cc0","fromNode":"bea641cf0f402aa8","fromSide":"bottom","toNode":"3ab27475b4f61864","toSide":"top"},
+		{"id":"17a40fc1d2868d87","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"881a61e0336cfd1e","toSide":"top"}
 	]
 }
