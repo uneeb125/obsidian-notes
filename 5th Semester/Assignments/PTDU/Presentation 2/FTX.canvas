@@ -8,8 +8,8 @@
 		{"id":"3ab27475b4f61864","type":"text","text":"## Twitter Blue Verification\n","x":-1221,"y":1094,"width":376,"height":60},
 		{"id":"766040270f81a323","type":"text","text":"## Misinformation","x":-1209,"y":1255,"width":352,"height":60},
 		{"id":"4a736de7d7f4be1a","type":"text","text":"## API Limitations","x":-819,"y":1094,"width":352,"height":60},
-		{"id":"8e5fea6a9df9adfe","type":"text","text":"## Request Throttle","x":-819,"y":1255,"width":352,"height":60},
-		{"id":"c646a7c68f56667c","type":"text","text":"## Mass Lay-offs","x":-1598,"y":1094,"width":286,"height":66}
+		{"id":"c646a7c68f56667c","type":"text","text":"## Mass Lay-offs","x":-1598,"y":1094,"width":286,"height":66},
+		{"id":"8e5fea6a9df9adfe","type":"text","text":"## Request Throttle","x":-819,"y":1390,"width":352,"height":60}
 	],
 	"edges":[
 		{"id":"e4e50a1205a4cc5d","fromNode":"3ab27475b4f61864","fromSide":"bottom","toNode":"766040270f81a323","toSide":"top"},
