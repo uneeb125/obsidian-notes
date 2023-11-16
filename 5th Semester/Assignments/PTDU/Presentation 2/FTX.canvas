@@ -5,14 +5,17 @@
 		{"id":"c8dc01b6a8bb6598","type":"text","text":"## Pushing a Particular Ideology While Suppressing Another\n\nTwitter has faced accusations of promoting a particular ideological viewpoint while suppressing opposing views. This has been particularly evident in the context of political discourse and the spread of misinformation.\n\n- In 2018, Twitter was accused of shadowbanning prominent conservatives, reducing the visibility of their tweets and limiting their reach. The company denied the allegations, but the incident raised concerns about potential manipulation of the platform's algorithms.\n    \n- In 2020, Twitter was criticized for its handling of the COVID-19 pandemic, accused of selectively removing tweets that contradicted its own narrative on the virus and its treatment. This led to accusations of censorship and stifling scientific debate.","x":-2814,"y":1508,"width":392,"height":391},
 		{"id":"d4228415a05755c5","type":"text","text":"## Pushing a Particular Ideology While Suppressing Another\n\nTwitter has faced accusations of promoting a particular ideological viewpoint while suppressing opposing views. This has been particularly evident in the context of political discourse and the spread of misinformation.\n\n- In 2018, Twitter was accused of shadowbanning prominent conservatives, reducing the visibility of their tweets and limiting their reach. The company denied the allegations, but the incident raised concerns about potential manipulation of the platform's algorithms.\n    \n- In 2020, Twitter was criticized for its handling of the COVID-19 pandemic, accused of selectively removing tweets that contradicted its own narrative on the virus and its treatment. This led to accusations of censorship and stifling scientific debate.","x":-2814,"y":1996,"width":392,"height":391},
 		{"id":"8d45f3e2c3e2a087","type":"text","text":"## Lawsuits and Fines\n\nTwitter has been involved in several lawsuits related to its moderation practices and data privacy issues. Some notable cases include:\n\n- In 2019, the American Civil Liberties Union (ACLU) sued Twitter over its suspension of the account of a Syrian activist, alleging that the company had violated his First Amendment rights. The ACLU settled the lawsuit with Twitter in 2021, securing agreement from the company to review its suspension policies.\n    \n- In 2020, the Federal Trade Commission (FTC) fined Twitter $150 million for violating a 2011 consent decree related to data privacy practices. The FTC alleged that Twitter had collected phone numbers and email addresses from users for advertising purposes without their explicit consent.","x":-2301,"y":1059,"width":392,"height":391},
-		{"id":"3ab27475b4f61864","type":"text","text":"## Twitter Blue Verification\n","x":-1217,"y":1060,"width":376,"height":60},
-		{"id":"4a736de7d7f4be1a","type":"text","text":"## API Limitations","x":-815,"y":1060,"width":352,"height":60},
-		{"id":"c646a7c68f56667c","type":"text","text":"## Mass Lay-offs","x":-1594,"y":1060,"width":286,"height":66},
-		{"id":"766040270f81a323","type":"text","text":"## Misinformation","x":-1205,"y":1221,"width":352,"height":60},
-		{"id":"8e5fea6a9df9adfe","type":"text","text":"## Request Throttle","x":-815,"y":1221,"width":352,"height":60}
+		{"id":"3ab27475b4f61864","type":"text","text":"## Twitter Blue Verification\n","x":-1221,"y":1094,"width":376,"height":60},
+		{"id":"766040270f81a323","type":"text","text":"## Misinformation","x":-1209,"y":1255,"width":352,"height":60},
+		{"id":"4a736de7d7f4be1a","type":"text","text":"## API Limitations","x":-819,"y":1094,"width":352,"height":60},
+		{"id":"8e5fea6a9df9adfe","type":"text","text":"## Request Throttle","x":-819,"y":1255,"width":352,"height":60},
+		{"id":"c646a7c68f56667c","type":"text","text":"## Mass Lay-offs","x":-1598,"y":1094,"width":286,"height":66}
 	],
 	"edges":[
 		{"id":"e4e50a1205a4cc5d","fromNode":"3ab27475b4f61864","fromSide":"bottom","toNode":"766040270f81a323","toSide":"top"},
-		{"id":"cc6e11db647eb738","fromNode":"4a736de7d7f4be1a","fromSide":"bottom","toNode":"8e5fea6a9df9adfe","toSide":"top"}
+		{"id":"cc6e11db647eb738","fromNode":"4a736de7d7f4be1a","fromSide":"bottom","toNode":"8e5fea6a9df9adfe","toSide":"top"},
+		{"id":"622b2b2f1c06e7a0","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"c646a7c68f56667c","toSide":"top"},
+		{"id":"58c4401be8e1ed6c","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"3ab27475b4f61864","toSide":"top"},
+		{"id":"ef9548d27bc16b85","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"4a736de7d7f4be1a","toSide":"top"}
 	]
 }
