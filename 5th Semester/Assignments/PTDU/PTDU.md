@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **Presentation 2**
-	- [[FTX Full]]
+	- [[Script]]
 - [[PTDU]]
 
 %% End Waypoint %%
