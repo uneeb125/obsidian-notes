@@ -1,1 +1,1 @@
-Hello there I will be outlining some of the problems at 
+Hello there I will be outlining some of the problems faced by twitter. E
