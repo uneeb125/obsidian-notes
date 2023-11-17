@@ -33,5 +33,13 @@ Twitter is a vast source of human generated content and hence is the target of m
 - There is also concern of Artist's work being used without permission.
 
 ### Web Scrapping
-- 
+- Apart from API requests we also see a large resource load from web scraper, where computer of organization are sent onto the internet to gather information.
+- They request posts comments and post meta data.
+
+### The Rebrand
+- The rebrand of twitter to X made people feel completely disconnected from platform.
+- Most users are completely against the rebrand, this is quite apparent still use the word twitter not X. Just like I have referred to it as twitter throughout my presentation
+
+
+Now I hand over 
 
