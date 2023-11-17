@@ -10,4 +10,11 @@ First on the chopping block was the large workforce. Elon brought forward multip
 Reasonably this lead to accusations of labor law violations. And many lawsuits.
 
 ### Discriminatory Firing
-These firings were mean as a cost-cutting measure, its no wonder that certain groups would likely be unfairly targeted. An investigation the Department of Economics at Retgurs university showed that 60% of over 50 and 54% of under 50.
+These firings were mean as a cost-cutting measure, its no wonder that certain groups would likely be unfairly targeted. An investigation the Department of Economics at Retgurs university showed that 
+- 60% of over 50 and 54% of under 50.
+- 57% of females and 47% of males.
+
+Lastly is the case of the twitter employee that disagreed with one of Elon's decision in a private slack group and subsiquently got fired.
+
+
+### Misinformation
