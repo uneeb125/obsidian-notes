@@ -32,6 +32,6 @@ Twitter is a vast source of human generated content and hence is the target of m
 - This scrapping of data causes significant load of twitter's server
 - There is also concern of Artist's work being used without permission.
 
-
-
+### Web Scrapping
+- 
 
