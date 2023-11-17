@@ -29,7 +29,9 @@ Although it has had serious consequences for other companies as well a tweet an 
 
 ### API access
 Twitter is a vast source of human generated content and hence is the target of many AI companies looking or training data.
-This scrapping of data causes significant load of twitter's server
+- This scrapping of data causes significant load of twitter's server
+- There is also concern of Artist's work being used without permission.
+
 
 
 
