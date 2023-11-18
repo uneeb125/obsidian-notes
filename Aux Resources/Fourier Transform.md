@@ -1,6 +1,4 @@
-Here is the table with LaTeX math expressions in a code block:
-
-
+# Fourier Transforms
 | Time Domain (x(t)) | Frequency Domain (X(f)) |
 |-|-|
 | $\delta(t)$ | 1 |  
@@ -23,3 +21,39 @@ Here is the table with LaTeX math expressions in a code block:
 | $\delta^{(n)}(t)$ | $(j2\pi f)^n$ |
 | $\frac{1}{t}$ | $-j\pi \mathrm{sgn}(f)$ |
 | $\sum\limits_{n=-\infty}^{\infty} \delta(t - nT_0)$ | $\frac{1}{T_0}\sum\limits_{n=-\infty}^{\infty} \delta(f - \frac{n}{T_0})$ |
+
+# Properties of Fourier transform
+
+### Time Shift Property
+$$\mathcal{F}\{x(t-t_0)\} = e^{-j2\pi ft_0}\mathcal{F}\{x(t)\}$$
+
+### Frequency Shift Property
+$$\mathcal{F}\{x(-t)\} = X(-f)$$  
+
+### Scaling Property
+$$\mathcal{F}\{x(at)\} = \frac{1}{|a|}X\left(\frac{f}{a}\right)$$
+
+### Convolution Property 
+$$\mathcal{F}\{x(t)*y(t)\} = \mathcal{F}\{x(t)\}\cdot \mathcal{F}\{y(t)\} = X(f)Y(f)$$
+
+### Modulation Property
+$$\mathcal{F}\{x(t)e^{j2\pi f_0 t}\} = X(f-f_0)$$
+
+### Parseval's Property
+$$\int_{-\infty}^\infty x(t)y^*(t)dt = \int_{-\infty}^\infty X(f)Y^*(f)df$$
+
+### Rayleigh's Property
+$$\int_{-\infty}^\infty |x(t)|^2 dt = \int_{-\infty}^\infty |X(f)|^2 df$$
+
+### Autocorrelation Property
+$$\mathcal{F}\{R_x(\tau)\} = |X(f)|^2$$ 
+where $R_x(\tau) = \int_{-\infty}^\infty x(t)x^*(t-\tau)dt$
+
+### Differentiation Property
+$$\mathcal{F}\{\frac{d}{dt}x(t)\} = j2\pi fX(f)$$
+
+### Integration Property  
+$$\mathcal{F}\{\int_{-\infty}^t x(\tau)d\tau\} = \frac{X(f)}{j2\pi f} + \frac{1}{2}X(0)\delta(f)$$
+
+### Moments Property
+$$\int_{-\infty}^\infty t^n x(t)dt = (j2\pi)^n \frac{d^n}{df^n}X(f)\bigg|_{f=0}$$
