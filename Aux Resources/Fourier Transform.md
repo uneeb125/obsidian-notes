@@ -36,6 +36,7 @@ $$\mathcal{F}\{x(at)\} = \frac{1}{|a|}X\left(\frac{f}{a}\right)$$
 ### Convolution Property 
 $$\mathcal{F}\{x(t)*y(t)\} = \mathcal{F}\{x(t)\}\cdot \mathcal{F}\{y(t)\} = X(f)Y(f)$$
 
+
 ### Modulation Property
 $$\mathcal{F}\{x(t)e^{j2\pi f_0 t}\} = X(f-f_0)$$
 
