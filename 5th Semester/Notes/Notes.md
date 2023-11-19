@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[ADC]]
+- **[[ADC]]**
 - **[[EMT]]**
 - **[[MPS]]**
 - [[Notes]]

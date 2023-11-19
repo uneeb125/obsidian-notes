@@ -33,9 +33,14 @@ $$
 ## Narrow Band modulation
 $$
 \begin{align}u_{t}&= A_{c}cos2\pi f_{c}t\space cos\phi(t) -A_{c}sin2\pi f_{c}t\space sin\phi(t), \\
-&\approx A_{c}cos2\pi f_{c}t\space cos\phi(t) -A_{c}sin2\pi f_{c}t\space sin\phi(t), \\
+&\approx A_{c}cos2\pi f_{c}t\space -A_{c}\phi(t)sin2\pi f_{c}t\space , \\
 \end{align}
 $$
+- This is just like AM modulated signal except that it modulated with sine.
+- Provides no advantage over AM modulation:
+	- Same double m(t) bandwidth
+	- Same susceptibility to noise.
+![[Narroband FM Phasor.png]]
 
 ## Spectral Analysis
 
