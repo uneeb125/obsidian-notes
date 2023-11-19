@@ -1,5 +1,15 @@
 # Angle Modulation Systems
 
+### Angle modulation
+Generally represented by
+$$
+u(t)=A_{c}{cos(2\pi}f_{c}t + \phi(t))
+$$
+The **Instantaneous Frequency is given by**
+$$
+f_{i}(t)=f_{c}+\frac{1}{2\pi}\frac{d}{dt}\phi(t)
+$$
+
 ## Types
 
 ### Frequency Modulation (FM)
