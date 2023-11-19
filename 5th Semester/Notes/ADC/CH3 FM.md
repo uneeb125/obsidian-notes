@@ -79,7 +79,11 @@ The output of angle modulator introduces frequencies not present in the input si
 - used a **varactor diode**
 - using a **reactance tube**
 #### (Indirect) Narrowband Gen $\rightarrow$ Wideband signal
-
+- Generate narrowband by implementing its equation [[#Narrow Band modulation|Narrowband]].
+- Frequency multiplier:
+	-  Pass through **non-linear element** 
+	- Pass through **band-pass**
+	
 ## Applications
 
 FM and PM are used in radio broadcasting and communications when high noise immunity is required. Narrowband FM is used to sacrifice bandwidth for noise performance.
