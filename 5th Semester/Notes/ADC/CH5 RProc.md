@@ -1,5 +1,13 @@
 - **Realization of a function or Sample function**: The deterministic time function $x(t;\omega_{i})$ given when you pick an $\omega_{i}$. 
 - At any time instance the value of a random process is a random variable predicated on $\omega_{i}$ 
+- The Random process can be described as a vector of random variables. 
+	- if we pick a **t** we just get a random variable 
+	- if we pick a value for random variable 
+$$
+\begin{bmatrix}
+X(t_1) \\ X(t_2) \\ X(t_3) \\ . \\ X(t_{n})
+\end{bmatrix}
+$$
 
 ## Statistical Averages
 ### Mean
@@ -30,6 +38,9 @@ $$
 \bar{R}_{X}(\tau) = \frac{1}{T_{0}}\int^{T_{0}}_{0}R_{X}(t+\tau,t)dt
 $$
 ## Multiple Random Processes
+This means if one input can result in many Random variables
+- If random process input into an LTI then output y also random process of random variable Y(t). So now we have 2 Random processes.
+### Independance
 ## Random Processes and Linear Systems
 ## Power Spectral Density of Stationary Processes
 ## Power Spectra of LTI
