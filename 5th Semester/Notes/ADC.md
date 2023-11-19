@@ -24,6 +24,19 @@ $$
 $$\phi(t) = \begin{cases}k_{p}m(t),          &\text{PM} \\
 \\ 2\pi k_{f}\int^{t}_{-\infty}m(\tau)d\tau, &\text{FM} 
  & \end{cases}$$
+### Modulation Index
+$$
+\begin{align}\beta_{p}&= k_{p}\max[\lvert{m(t)\rvert}], \\
+\beta_{f}&= \frac{k_{f}\max[\lvert{m(t)\rvert}}{W}]
+\end{align}
+$$
+## Narrow Band modulation
+$$
+\begin{align}u_{t}&= A_{c}cos2\pi f_{c}t\space cos\phi(t) -A_{c}sin2\pi f_{c}t\space sin\phi(t), \\
+&\approx A_{c}cos2\pi f_{c}t\space cos\phi(t) -A_{c}sin2\pi f_{c}t\space sin\phi(t), \\
+\end{align}
+$$
+
 ## Spectral Analysis
 
 Using Fourier analysis, it can be shown that the spectrum of an angle-modulated signal contains an infinite number of sidebands spaced at multiples of the message frequency.
