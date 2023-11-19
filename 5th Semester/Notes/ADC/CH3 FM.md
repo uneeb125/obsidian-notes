@@ -43,9 +43,15 @@ $$
 ![[Narroband FM Phasor.png]]
 
 ## Spectral Analysis
-
-Using Fourier analysis, it can be shown that the spectrum of an angle-modulated signal contains an infinite number of sidebands spaced at multiples of the message frequency.
-
+- u (t) can be represented as:
+$$
+u(t)= \sum^{\infty}_{-\infty}A_{c}J_{n}(\beta)cos(2\pi(f_{c}+nf_{m})t)
+$$
+- where $J_{n}(\beta)$ is represented as:
+$$
+J_{n}(\beta)\approx \frac{\beta^{n}}{2^{n}n!}
+$$
+Here we have used the approximation of _finite effective bandwidth_ so for small $\beta$ 
 For small modulation indices:
 
 - Bandwidth of FM signal ≈ 2 (Δf + f_m) 
