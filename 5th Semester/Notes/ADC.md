@@ -1,6 +1,6 @@
 # Angle Modulation Systems
 
-### Angle modulation
+## Angle modulation and Types
 Generally represented by
 $$
 u(t)=A_{c}{cos(2\pi}f_{c}t + \phi(t))
@@ -9,33 +9,21 @@ The **Instantaneous Frequency is given by**
 $$
 f_{i}(t)=f_{c}+\frac{1}{2\pi}\frac{d}{dt}\phi(t)
 $$
-
-## Types
-
-### Frequency Modulation (FM)
-
-The instantaneous frequency f (t) of the angle-modulated signal is varied proportional to the message signal m (t):
-
-$$ f(t) = f_c + K_f m(t) $$
-
-where $f_c$ is the carrier frequency and $K_f$ is the frequency deviation constant. 
-
-The angle-modulated FM signal can be expressed as:
-
-$$ s(t) = A_c \cos\left(2\pi \int_0^t f(\tau) d\tau \right) $$
-
-### Phase Modulation (PM)  
-
-The instantaneous phase $\phi(t)$ of the angle-modulated signal is varied proportional to the message signal: 
-
-$$ \phi(t) = K_p m(t) $$
-
-where $K_p$ is the phase deviation constant.
-
-The angle-modulated PM signal can be written as: 
-
-$$ s(t) = A_c \cos(2\pi f_c t + K_p m(t)) $$
-
+$$
+f_{i}(t)-f_{c}=\frac{1}{2\pi}\frac{d}{dt}\phi(t)
+$$
+### For **PM** we have $m(t)\propto \phi(t)$ 
+$$
+\phi(t)=k_{p}m(t)
+$$
+### For **FM** we have $m(t)\propto f_{i}(t)-f_{c}$
+$$
+f_{i}(t)-f_{c}=k_{f}m(t)=\frac{1}{2\pi}\frac{d}{dt}\phi(t)
+$$
+### $\phi (t)$ Definition 
+$$\phi(t) = \begin{cases}k_{p}m(t), &\text{PM} \\
+\\ 2\pi k_{f}\int^{t}_{-\infty}m(\tau)d\tau, & FM 
+ & \end{cases}$$
 ## Spectral Analysis
 
 Using Fourier analysis, it can be shown that the spectrum of an angle-modulated signal contains an infinite number of sidebands spaced at multiples of the message frequency.
