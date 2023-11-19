@@ -11,5 +11,9 @@ $$
 R_{X}(t_{1},t_{2}) = E[X(t_1)X(t_2)]
 $$
 $$
-
+R_{X}(t_{1},t_{2}) = \int^{\infty}_{-\infty}x_{1}x_{2}f_{X(t_1)}f_{X(t_2)}(x_1,x_2)dx_{1}dx_{2}
 $$
+## Wide-Sense Stationary
+- WWS has teh following properties
+	1. $m_{X}(t)=E[X(t)]$ is independent of t
+	2. $R_{X}(t_{1}, t_{2})$ depends only on the difference $t_1 - t_2$ not $t_1$ and $t_2$ individually.
