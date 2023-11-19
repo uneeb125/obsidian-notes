@@ -83,7 +83,27 @@ The output of angle modulator introduces frequencies not present in the input si
 - Frequency multiplier:
 	-  Pass through **non-linear element** 
 	- Pass through **band-pass**
-	
+	Output is $y(t) = A_{c}\cos(2\pi n f_{c}t + n\phi(t))$ 
+- Go through mixer that performs up/down conversion then Band-pass
+	Output is $y(t) = A_{c}\cos(2\pi(n f_{c}-f_{LO})t + n\phi(t))$ 
+
+### Angle Demodulator
+Generate AM signal, whose amplitude is proportional to the instantaneous frequency of FM signal, then use AM demodulators.
+#### FM $\rightarrow$ AM
+- Pass FM through an LTI system having frequency response having straight line in the frequency band of the FM.
+$$
+\begin{align}
+\lvert H(f)\rvert = V_{0}+k(f-f_{c}) \qquad for \lvert f-f_{c}\rvert <\frac{B_{c}}{2}
+\end{align}
+$$
+##### Differentiator
+##### Rising/Falling edge of bandpass.
+- Use 2 right next to each other to get larger range
+
+#### AM Demodulate
+
+
+
 ## Applications
 
 FM and PM are used in radio broadcasting and communications when high noise immunity is required. Narrowband FM is used to sacrifice bandwidth for noise performance.
