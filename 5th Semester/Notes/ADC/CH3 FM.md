@@ -52,27 +52,30 @@ $$
 J_{n}(\beta)\approx \frac{\beta^{n}}{2^{n}n!}
 $$
 Here we have used the approximation of _finite effective bandwidth_ so for small $\beta$ 
-For small modulation indices:
+### Solution
+- Find the modulation index $\beta$ by putting in $m (t)$  into the std expression.
+- Use this $\beta$ in spectral $u (t)$ above.
+- Then find power which is of the form $\frac{A_{c}J_{n}^{2}(\beta)}{2}$ because of the $cos$ 
 
-- Bandwidth of FM signal ≈ 2 (Δf + f_m) 
-    - where Δf is the peak frequency deviation and f_m is the highest frequency in the modulating signal
-
-- Bandwidth of PM signal ≈ 2Δf
-
-## Effect of Modulation Parameters
-
-Increasing the message amplitude increases the bandwidth of both FM and PM signals by increasing the deviation Δf.
-
-Increasing the message frequency f_m:
-
-- Increases FM signal bandwidth proportionally
-- Has little effect on PM signal bandwidth
-
+## Carson's rule
+### Effective Bandwidth
+$$
+B_{c}=2(\beta+1)W
+$$
+$$
+\beta=\begin{cases}
+k_{p}max[\lvert m(t)\rvert] & \text{PM} \\ 
+\frac{k_{f}max[\lvert m(t)\rvert]}{W} & \text{FM}
+\end{cases}
+$$
+### Number of Harmonics
+$$
+M_{c}= 2(\lfloor\beta\rfloor+1)+1=2\lfloor\beta\rfloor+3
+$$
 ## Implementation
-
-Narrowband FM signals can be generated using a voltage-controlled oscillator (VCO) in a phase-locked loop (PLL). 
-
-FM demodulation can be performed using a PLL with a frequency discriminator.
+### Angle Modulator
+The output of angle modulator introduces frequencies not present in the input signal hence they can not be LTI systems, they must be non-linear.
+#### 
 
 ## Applications
 
