@@ -17,3 +17,20 @@ $$
 - WWS has teh following properties
 	1. $m_{X}(t)=E[X(t)]$ is independent of t
 	2. $R_{X}(t_{1}, t_{2})$ depends only on the difference $t_1 - t_2$ not $t_1$ and $t_2$ individually.
+- If process is stationary then $R_X (\tau) = R_X (-\tau)$ 
+### Cyclostationary
+$$
+m_{X}(t+T_{0})=m_{X}(t)
+$$
+$$
+R_{X}(t+\tau+T_{0}, t+T_{0}) = R_{X}(t+\tau,t)
+$$
+## Multiple Random Processes
+## Random Processes and Linear Systems
+## Power Spectral Density of Stationary Processes
+## Power Spectra of LTI
+## Power Spectral Density of a Sum process
+## Gaussian Processes
+## White Processes
+## Filtered Noise Processes
+## Noise Equivalent Bandwidth
