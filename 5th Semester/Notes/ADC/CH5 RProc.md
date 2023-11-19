@@ -1,0 +1,2 @@
+- **Realization of a function or Sample function**: The deterministic time function $x(t;\omega_{i})$ given when you pick an $\omega_{i}$. 
+- At any time instance the value of a random process is a random variable predicated on $\omega_{i}$ 
