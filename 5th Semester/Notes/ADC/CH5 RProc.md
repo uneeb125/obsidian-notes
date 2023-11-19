@@ -25,6 +25,10 @@ $$
 $$
 R_{X}(t+\tau+T_{0}, t+T_{0}) = R_{X}(t+\tau,t)
 $$
+- **Average autocorrelation function** $\bar{R}_{X}(\tau)$ as average of over one period
+$$
+\bar{R}_{X}(\tau) = \frac{1}{T_{0}}\int^{T_{0}}_{0}R_{X}(t+\tau,t)dt
+$$
 ## Multiple Random Processes
 ## Random Processes and Linear Systems
 ## Power Spectral Density of Stationary Processes
