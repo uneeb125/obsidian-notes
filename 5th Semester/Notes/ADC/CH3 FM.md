@@ -76,7 +76,9 @@ $$
 ### Angle Modulator
 The output of angle modulator introduces frequencies not present in the input signal hence they can not be LTI systems, they must be non-linear.
 #### Voltage-controlled oscillator
-- used a varactor diode
+- used a **varactor diode**
+- using a **reactance tube**
+#### (Indirect) Narrowband Gen $\rightarrow$ Wideband signal
 
 ## Applications
 
