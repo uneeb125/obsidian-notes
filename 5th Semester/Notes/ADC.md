@@ -21,8 +21,8 @@ $$
 f_{i}(t)-f_{c}=k_{f}m(t)=\frac{1}{2\pi}\frac{d}{dt}\phi(t)
 $$
 ### $\phi (t)$ Definition 
-$$\phi(t) = \begin{cases}k_{p}m(t), &\text{PM} \\
-\\ 2\pi k_{f}\int^{t}_{-\infty}m(\tau)d\tau, & FM 
+$$\phi(t) = \begin{cases}k_{p}m(t),          &\text{PM} \\
+\\ 2\pi k_{f}\int^{t}_{-\infty}m(\tau)d\tau, &\text{FM} 
  & \end{cases}$$
 ## Spectral Analysis
 
