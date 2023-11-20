@@ -60,10 +60,16 @@ $$
 - Power as a function of frequency
 ### Stationary
 $$
-S_{X}(f) = \
+S_{X}(f) = \mathcal{F}[R_{X}(\tau)]
 $$
 ### Cyclostationary
+$$
+S_{X}(f) = \mathcal{F}[\bar{R}_{X}(\tau)]
+$$
 ## Power Spectra of LTI
+$$
+m_{Y}= m_{X} \int^{\infty}_{#}
+$$
 ## Power Spectral Density of a Sum process
 ## Gaussian Processes
 ## White Processes
