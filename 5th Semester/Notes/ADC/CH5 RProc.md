@@ -88,6 +88,17 @@ $$
 S_{Y}(f) = S_{X}(f)\lvert H(f) \rvert ^2
 $$
 ## Power Spectral Density of a Sum process
+Additive noise added to the transmitter signal
+$$
+R_{Z}(\tau) = R_{X}(\tau) + R_{Y}(\tau) + R_{XY}(\tau) + R_{YX}(\tau)
+$$
+$$
+S_{Z}(\tau) = S_{X}(\tau) + S_{Y}(\tau) + S_{XY}(\tau) + S_{YX}(\tau)
+$$
+$$
+S_{YX}(\tau) = S^*_{YX}(\tau)
+$$
+
 ## Gaussian Processes
 ## White Processes
 ## Filtered Noise Processes
