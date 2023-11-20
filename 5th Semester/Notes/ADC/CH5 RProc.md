@@ -107,6 +107,13 @@ $$
 S_{Z}(f) = S_{X}(f) +S_{Y}(f)
 $$
 ## Gaussian Processes
+- A random process X (t) is a Gaussian process if for all n all (t1, t2 , . . . , tn), the random variables have a jointly Gaussian density function.
+### Jointly Gaussian
+- $X (t)$ and $Y(t)$ are jointly Gaussion if for all m and n for t1, t2, .... ,tn and similarly tau. the random vectors is distributed according to an n+m dimensions jointly Gaussian distributions. 
+
+### Properties
+1. If Gaussian process X (t) is passed through an LTI system then out put is a Gaussian process. Also they are jointly Gaussian processes.
+2. For jointly Gaussian processes, uncorrelatedness and independence are equivalent.
 ## White Processes
 ## Filtered Noise Processes
 ## Noise Equivalent Bandwidth
