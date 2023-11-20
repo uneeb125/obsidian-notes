@@ -125,5 +125,10 @@ $$
 - h is the Plank's constant
 - k is Boltzmann's constant
 - T is temperature in Kelvins
+It gets its max value at $f=0$ having value $\frac{kT}{2}$ 
+- say $kT=N_0$ so in general $S_n(f)$ 
+
+
+
 ## Filtered Noise Processes
 ## Noise Equivalent Bandwidth
