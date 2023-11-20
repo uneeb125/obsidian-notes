@@ -147,3 +147,19 @@ Noise from one stage can get filtered by another stage.
 ## Noise Equivalent Bandwidth
 - Gaussian White noise after filter in still Gaussian but not white
 	The filter characteristics change the spectral properties.
+$$
+S_{y}(f) = S_{X}(f) \lvert H(f) \rvert^{2}= \frac{N_{0}}{2} \lvert H(f) \rvert^{2}
+$$
+$$
+P_{y} = \int^{\infty}_{-\infty}S_{Y}df = \frac{N_{0}}{2}\int^{\infty}_{-\infty} \lvert H(f) \rvert^{2}df
+$$
+$$
+B_{neq}= \frac{\int^{\infty}_{-\infty}\lvert H(f)\rvert ^2df}{2H_{max}^{2}}
+$$
+$$
+\begin{align}
+P_{y} &= \frac{N_{0}}{2}\int^{\infty}_{-\infty} \lvert H(f) \rvert^{2}df \\
+&= \frac{N_{0}}{2} \times 2B_{neq}H_{max}^{2}\\
+&= N_{0}B_{neq}H_{max}^{2}
+\end{align}
+$$
