@@ -67,8 +67,25 @@ $$
 S_{X}(f) = \mathcal{F}[\bar{R}_{X}(\tau)]
 $$
 ## Power Spectra of LTI
+- Input stationary output stationary
 $$
-m_{Y}= m_{X} \int^{\infty}_{#}
+m_{Y}= m_{X} \int^{\infty}_{-\infty}h(t)dt
+$$
+$$
+R_{Y}(\tau) = R_{X(\tau)}\star h(\tau)\star h(-\tau)
+$$
+- Jointly stationary with cross-correlation
+$$
+R_{XY}(\tau)= R_{X}(\tau)\star h(-\tau)
+$$
+- In **Frequency Domain** 
+- Since Mean of random process is its DC value, so mean of reponse only depends on $H (f)$ at $f=0$ 
+$$
+m_{Y}= m_{X} H(0)dt
+$$
+- For power spectrum the phase of $H (f)$ is irrelevant
+$$
+S_{Y}(f) = S_{X}(f)\lvert H(f) \rvert ^2
 $$
 ## Power Spectral Density of a Sum process
 ## Gaussian Processes
