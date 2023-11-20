@@ -17,16 +17,6 @@
     $$\sec\left(\frac{\pi}{2} - \theta\right) = \csc(\theta)$$
     $$\csc\left(\frac{\pi}{2} - \theta\right) = \sec(\theta)$$
 
-## Angle Sum and Difference Identities
-1. **Sine (SIN):**
-    $$\sin(A + B) = \sin(A)\cos(B) + \cos(A)\sin(B)$$
-
-2. **Cosine (COS):**
-    $$\cos(A + B) = \cos(A)\cos(B) - \sin(A)\sin(B)$$
-
-3. **Tangent (TAN):**
-    $$\tan(A + B) = \frac{\tan(A) + \tan(B)}{1 - \tan(A)\tan(B)}$$
-
 ## Double Angle Identities
 1. **Sine (SIN):**
     $$\sin(2\theta) = 2\sin(\theta)\cos(\theta)$$
@@ -46,6 +36,16 @@
 
 3. **Tangent (TAN):**
     $$\tan\left(\frac{\theta}{2}\right) = \frac{\sin(\theta)}{1 + \cos(\theta)}$$
+
+## Angle Sum and Difference Identities
+1. **Sine (SIN):**
+    $$\sin(A + B) = \sin(A)\cos(B) + \cos(A)\sin(B)$$
+
+2. **Cosine (COS):**
+    $$\cos(A + B) = \cos(A)\cos(B) - \sin(A)\sin(B)$$
+
+3. **Tangent (TAN):**
+    $$\tan(A + B) = \frac{\tan(A) + \tan(B)}{1 - \tan(A)\tan(B)}$$
 
 ## Sum to Product Identities
 1. **Sine (SIN):**
