@@ -145,3 +145,5 @@ $$
 ## Filtered Noise Processes
 Noise from one stage can get filtered by another stage.
 ## Noise Equivalent Bandwidth
+- Gaussian White noise after filter in still Gaussian but not white
+	The filter characteristics change the spectral properties.
