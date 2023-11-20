@@ -127,8 +127,21 @@ $$
 - T is temperature in Kelvins
 It gets its max value at $f=0$ having value $\frac{kT}{2}$ 
 - say $kT=N_0$ so in general $S_n(f)$ 
+$$
+S_{n}(f) =\left[\frac{N_{0}}{2}\right]
+$$
+$$
+R_{n}(\tau) = \mathcal{F}^{-1} \left[\frac{N_{0}}{2}\right]=\left[\frac{N_{0}}{2}\right]\delta(\tau)
+$$
+- For white process $R_n(\tau)=0$ for all $\tau\neq 0$ 
 
+### Properties of Thermal noise
+1. Stationary process
+2. Zero-mean process
+3. Gaussian process
+4. Thermal noise is specific while process where $S_{n}(f)=\frac{kT}{2}$ 
 
-
+- Thermal noise increases with temperature
 ## Filtered Noise Processes
+Noise from one stage can get filtered by another stage.
 ## Noise Equivalent Bandwidth
