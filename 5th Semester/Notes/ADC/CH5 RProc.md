@@ -54,6 +54,8 @@ $$
 	- Individually stationary 
 	- Cross-correlation depends only on $\tau$ .
 ## Random Processes and Linear Systems
+- The input and output process of an LTI system are jointly stationary.
+==You have not shown this==
 ## Power Spectral Density of Stationary Processes
 ## Power Spectra of LTI
 ## Power Spectral Density of a Sum process
