@@ -98,7 +98,14 @@ $$
 $$
 S_{YX}(\tau) = S^*_{YX}(\tau)
 $$
-
+- if $X(t) , Y(t)$ are uncorrelated 
+$$
+R_{XY}(\tau) = m_{X}m_{Y}
+$$
+- if one has mean 0
+$$
+S_{Z}(f) = S_{X}(f) +S_{Y}(f)
+$$
 ## Gaussian Processes
 ## White Processes
 ## Filtered Noise Processes
