@@ -40,7 +40,8 @@ $$
 ## Multiple Random Processes
 This means if one input can result in many Random variables
 - If random process input into an LTI then output y also random process of random variable Y(t). So now we have 2 Random processes.
-### Independance
+### Independence
+- $X (t)$ and $Y(t)$ 
 ## Random Processes and Linear Systems
 ## Power Spectral Density of Stationary Processes
 ## Power Spectra of LTI
