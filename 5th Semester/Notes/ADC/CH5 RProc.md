@@ -41,7 +41,18 @@ $$
 This means if one input can result in many Random variables
 - If random process input into an LTI then output y also random process of random variable Y(t). So now we have 2 Random processes.
 ### Independence
-- $X (t)$ and $Y(t)$ 
+- $X (t)$ and $Y(t)$ are independent if for all m and n for t1, t2, .... ,tn and similarly tau. the random vectors are independent. Similarly the random processes are uncorrelated if the two random vectors are uncorrelated.
+### Cross-correlation
+$$
+R_{XY}(t_1,t_2)=E[X(t_1)Y(t_2)]
+$$
+$$
+R_{XY}(t_1,t_2)=R_{YX}(t_2,t_1)
+$$
+### Joint-Stationary
+- They must be:
+	- Individually stationary 
+	- 
 ## Random Processes and Linear Systems
 ## Power Spectral Density of Stationary Processes
 ## Power Spectra of LTI
