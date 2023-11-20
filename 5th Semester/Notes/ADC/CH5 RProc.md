@@ -115,5 +115,15 @@ $$
 1. If Gaussian process X (t) is passed through an LTI system then out put is a Gaussian process. Also they are jointly Gaussian processes.
 2. For jointly Gaussian processes, uncorrelatedness and independence are equivalent.
 ## White Processes
+### Definition
+All frequencies appear with equal power i.e. power spectral density is a constant.
+- a wide range of processes used to describe a variety of information sources can be modeled as the output of LTI systems driven by a white process.
+### Actual modelling (Thermal noise)
+$$
+S_{n}(t)=\frac{hf}{2(e^{\frac{hf}{kT}}-1)}
+$$
+- h is the Plank's constant
+- k is Boltzmann's constant
+- T is temperature in Kelvins
 ## Filtered Noise Processes
 ## Noise Equivalent Bandwidth
