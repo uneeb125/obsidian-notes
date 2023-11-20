@@ -52,7 +52,7 @@ $$
 ### Joint-Stationary
 - They must be:
 	- Individually stationary 
-	- 
+	- Cross-correlation depends only on $\tau$ .
 ## Random Processes and Linear Systems
 ## Power Spectral Density of Stationary Processes
 ## Power Spectra of LTI
