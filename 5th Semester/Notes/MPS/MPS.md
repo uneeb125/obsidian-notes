@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **Attachments**
 
+- [[CEP]]
 - [[MPS MIDS]]
 - [[MPS]]
 - [[QE1]]
