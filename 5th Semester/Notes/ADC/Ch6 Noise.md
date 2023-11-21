@@ -26,7 +26,9 @@ $$
 ### SNR 
 $$
 \begin{align}
-
+\left(\frac{S}{N}\right)_{0_{AM}} &= \frac{{a^{2}P_{M_{n}}}}{{1+a^{2}P_{M_{n}}}}  \left(\frac{S}{N}\right)_{0_{AM}} \\
+&= \eta \left(\frac{S}{N}\right)_{0_{AM}}
 \end{align}
 $$
-- $\eta$ is always less then 1 typically a is picked less than 
+- $\eta$ is always less then 1, typically $a$ is picked to be 0.8 - 0.9 while $P_M$ around 0.1 this gives factor of -. 075.
+- The SNR is much lower than baseband as a lot of power is used to send the carrier component of modulated signal
