@@ -19,3 +19,5 @@ $$
 - Received power from DSB-SC $P_{R}= \frac{A_{c}^{2}P_{M}}{2}$ 
 - This makes it the same as baseband SNR so no advantage.
 
+## Noise of SSB AM
+- Exactly the same as before
