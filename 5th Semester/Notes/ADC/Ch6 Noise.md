@@ -21,3 +21,12 @@ $$
 
 ## Noise of SSB AM
 - Exactly the same as before
+
+## Noise of Conventional AM
+### SNR 
+$$
+\begin{align}
+
+\end{align}
+$$
+- $\eta$ is always less then 1 typically a is picked less than 
