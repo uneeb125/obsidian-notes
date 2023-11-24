@@ -23,6 +23,30 @@ $$\nabla \times \vec{F} = \left(\frac{1}{r \sin{\theta}} \frac{\partial (\sin{\t
 
 # Curl
 ## Cartesian coordinates
+$$\nabla \times \vec{F} = 
+\begin{vmatrix} 
+\hat{x} & \hat{y} & \hat{z} \\
+\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
+F_x & F_y & F_z
+\end{vmatrix}$$
+
+## Cylindrical coordinates
+$$\nabla \times \vec{F} =  
+\begin{vmatrix}
+\hat{\rho} & \hat{\phi} & \hat{z} \\
+\frac{\partial}{\partial \rho} & \frac{1}{\rho} \frac{\partial}{\partial \phi} & \frac{\partial}{\partial z} \\ 
+F_\rho & F_\phi & F_z
+\end{vmatrix}$$
+
+## Spherical coordinates
+$$\nabla \times \vec{F} =
+\begin{vmatrix}  
+\hat{r} & \hat{\theta} & \hat{\phi} \\
+\frac{\partial}{\partial r} & \frac{1}{r} \frac{\partial}{\partial \theta} & \frac{1}{r \sin{\theta}} \frac{\partial}{\partial \phi} \\
+F_r & F_\theta & F_\phi  
+\end{vmatrix}$$
+
+## Cartesian coordinates
 $$ \nabla \times \vec{F} = \hat{x} \left( \frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z} \right) + \hat{y} \left( \frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x} \right) + \hat{z} \left( \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y} \right)$$
 
 ## Cylindrical coordinates 
