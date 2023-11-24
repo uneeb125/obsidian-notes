@@ -33,17 +33,17 @@ F_x & F_y & F_z
 ## Cylindrical coordinates
 $$\nabla \times \vec{F} =  
 \begin{vmatrix}
-\hat{\rho} & \hat{\phi} & \hat{z} \\
+\frac{1}{{\rho}}a_{\rho} & a_{\phi} & \frac{1}{{\rho}}a_{z} \\
 \frac{\partial}{\partial \rho} & \frac{1}{\rho} \frac{\partial}{\partial \phi} & \frac{\partial}{\partial z} \\ 
-F_\rho & F_\phi & F_z
+F_\rho & \rho F_\phi & F_z
 \end{vmatrix}$$
 
 ## Spherical coordinates
 $$\nabla \times \vec{F} =
 \begin{vmatrix}  
-\hat{r} & \hat{\theta} & \hat{\phi} \\
+\frac{1}{{r^{2}\sin\theta}}a_{r} & \frac{1}{{r\sin}}a_{\theta} & \frac{1}{r}a_{\phi} \\
 \frac{\partial}{\partial r} & \frac{1}{r} \frac{\partial}{\partial \theta} & \frac{1}{r \sin{\theta}} \frac{\partial}{\partial \phi} \\
-F_r & F_\theta & F_\phi  
+F_r & rF_\theta & r\sin \theta F_\phi  
 \end{vmatrix}$$
 
 ## Cartesian coordinates
