@@ -31,3 +31,6 @@ $$\nabla^2 \phi = \frac{1}{\rho} \frac{\partial}{\partial \rho}\left(\rho \frac{
 ## Laplacian in Spherical Coordinates
 $$\nabla^2 \phi = \frac{1}{r^2} \frac{\partial}{\partial r}\left(r^2 \frac{\partial \phi}{\partial r}\right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial \phi}{\partial \theta}\right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2 \phi}{\partial \phi^2}$$
 
+
+# Divergence Theorem
+$$\iiint_V \nabla \cdot \vec{F} \, dV = \oint_S \vec{F} \cdot \vec{n} \, dS$$
