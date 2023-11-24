@@ -1,4 +1,4 @@
-# Divergence
+# Divergence of Vector Fields
 ## Cartesian Coordinates
 $$\nabla \cdot \mathbf{F} = \frac{\partial F_x}{\partial x} + \frac{\partial F_y}{\partial y} + \frac{\partial F_z}{\partial z}$$
 
@@ -10,7 +10,7 @@ $$\nabla \cdot \mathbf{F} = \frac{1}{\rho} \frac{\partial}{\partial \rho} (\rho 
 ## Spherical Coordinates
 $$\nabla \cdot \mathbf{F} = \frac{1}{r^2} \frac{\partial}{\partial r} (r^2 F_r) + \frac{1}{r \sin \theta} \frac{\partial}{\partial \theta} (\sin \theta \, F_\theta) + \frac{1}{r \sin \theta} \frac{\partial F_\phi}{\partial \phi}$$
 
-# Grad
+# Grad of Scalar Fields
 
 ## Cartesian Coordinates
 $$\nabla \phi = \frac{\partial \phi}{\partial x} \mathbf{a}_x + \frac{\partial \phi}{\partial y} \mathbf{a}_y + \frac{\partial \phi}{\partial z} \mathbf{a}_z$$
@@ -21,7 +21,7 @@ $$\nabla \phi = \frac{\partial \phi}{\partial \rho} \mathbf{a}_\rho + \frac{1}{\
 ## Spherical Coordinates
 $$\nabla \phi = \frac{\partial \phi}{\partial r} \mathbf{a}_r + \frac{1}{r} \frac{\partial \phi}{\partial \theta} \mathbf{a}_\theta + \frac{1}{r \sin \theta} \frac{\partial \phi}{\partial \phi} \mathbf{a}_\phi$$
 
-# Laplacian
+# Laplacian of Scalar Fields
 ## Cartesian Coordinates
 $$\nabla^2 \phi = \frac{\partial^2 \phi}{\partial x^2} + \frac{\partial^2 \phi}{\partial y^2} + \frac{\partial^2 \phi}{\partial z^2}$$
 
@@ -33,4 +33,4 @@ $$\nabla^2 \phi = \frac{1}{r^2} \frac{\partial}{\partial r}\left(r^2 \frac{\part
 
 
 # Divergence Theorem
-$$\iiint_V \nabla \cdot \vec{F} \, dV = \oint_S \vec{F} \cdot \vec{n} \, dS$$
+$$\int_V \nabla \cdot \vec{F} \, dV = \oint_S \vec{F} \cdot \vec{n} \, dS$$
