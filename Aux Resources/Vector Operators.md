@@ -22,7 +22,14 @@ $$\nabla \phi = \frac{\partial \phi}{\partial \rho} \mathbf{a}_\rho + \frac{1}{\
 $$\nabla \phi = \frac{\partial \phi}{\partial r} \mathbf{a}_r + \frac{1}{r} \frac{\partial \phi}{\partial \theta} \mathbf{a}_\theta + \frac{1}{r \sin \theta} \frac{\partial \phi}{\partial \phi} \mathbf{a}_\phi$$
 
 # Curl
+## Cartesian coordinates
+$$ \nabla \times \vec{F} = \hat{x} \left( \frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z} \right) + \hat{y} \left( \frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x} \right) + \hat{z} \left( \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y} \right)$$
 
+## Cylindrical coordinates 
+$$ \nabla \times \vec{F} = \hat{\rho} \left( \frac{1}{\rho} \frac{\partial F_z}{\partial \phi} - \frac{\partial F_\phi}{\partial z} \right) + \hat{\phi} \left( \frac{\partial F_\rho}{\partial z} - \frac{\partial F_z}{\partial \rho} \right) + \hat{z} \left( \frac{1}{\rho} \frac{\partial(\rho F_\phi)}{\partial \rho} - \frac{1}{\rho} \frac{\partial F_\rho}{\partial \phi} \right)$$
+
+## Spherical coordinates
+$$ \nabla \times \vec{F} = \hat{r} \left( \frac{1}{r \sin{\theta}} \frac{\partial (\sin{\theta} F_\phi)}{\partial \theta} - \frac{1}{r} \frac{\partial F_\theta}{\partial \phi} \right) + \hat{\theta} \left( \frac{1}{r} \frac{\partial (r F_\phi)}{\partial r} - \frac{1}{r} \frac{\partial F_r}{\partial \phi} \right) + \hat{\phi} \left( \frac{1}{r \sin{\theta}} \frac{\partial F_\theta}{\partial r} - \frac{1}{r} \frac{\partial F_r}{\partial \theta} \right)$$
 
 
 # Laplacian of Scalar Fields
