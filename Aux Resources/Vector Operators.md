@@ -12,14 +12,14 @@ $$\nabla \cdot \mathbf{F} = \frac{1}{r^2} \frac{\partial}{\partial r} (r^2 F_r) 
 
 # Grad of Scalar Fields
 
-## Cartesian Coordinates
-$$\nabla \phi = \frac{\partial \phi}{\partial x} \mathbf{a}_x + \frac{\partial \phi}{\partial y} \mathbf{a}_y + \frac{\partial \phi}{\partial z} \mathbf{a}_z$$
+## Cartesian coordinates
+$$\nabla \times \vec{F} = \left(\frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z}\right) \hat{\bf{a}}_x + \left(\frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x}\right) \hat{\bf{a}}_y + \left(\frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y}\right) \hat{\bf{a}}_z$$
 
-## Cylindrical Coordinates
-$$\nabla \phi = \frac{\partial \phi}{\partial \rho} \mathbf{a}_\rho + \frac{1}{\rho} \frac{\partial \phi}{\partial \phi} \mathbf{a}_\phi + \frac{\partial \phi}{\partial z} \mathbf{a}_z$$
+## Cylindrical coordinates  
+$$\nabla \times \vec{F} = \left(\frac{1}{\rho} \frac{\partial F_z}{\partial \phi} - \frac{\partial F_\phi}{\partial z}\right) \hat{\bf{a}}_\rho + \left(\frac{\partial F_\rho}{\partial z} - \frac{\partial F_z}{\partial \rho}\right) \hat{\bf{a}}_\phi + \left(\frac{1}{\rho} \frac{\partial(\rho F_\phi)}{\partial \rho} - \frac{1}{\rho} \frac{\partial F_\rho}{\partial \phi}\right) \hat{\bf{a}}_z$$
 
-## Spherical Coordinates
-$$\nabla \phi = \frac{\partial \phi}{\partial r} \mathbf{a}_r + \frac{1}{r} \frac{\partial \phi}{\partial \theta} \mathbf{a}_\theta + \frac{1}{r \sin \theta} \frac{\partial \phi}{\partial \phi} \mathbf{a}_\phi$$
+## Spherical coordinates
+$$\nabla \times \vec{F} = \left(\frac{1}{r \sin{\theta}} \frac{\partial (\sin{\theta} F_\phi)}{\partial \theta} - \frac{1}{r} \frac{\partial F_\theta}{\partial \phi}\right) \hat{\bf{a}}_r + \left(\frac{1}{r} \frac{\partial (r F_\phi)}{\partial r} - \frac{1}{r} \frac{\partial F_r}{\partial \phi}\right) \hat{\bf{a}}_\theta + \left(\frac{1}{r \sin{\theta}} \frac{\partial F_\theta}{\partial r} - \frac{1}{r} \frac{\partial F_r}{\partial \theta}\right) \hat{\bf{a}}_\phi$$
 
 # Curl
 ## Cartesian coordinates
