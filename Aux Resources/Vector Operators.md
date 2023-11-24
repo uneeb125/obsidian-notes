@@ -21,6 +21,10 @@ $$\nabla \phi = \frac{\partial \phi}{\partial \rho} \mathbf{a}_\rho + \frac{1}{\
 ## Spherical Coordinates
 $$\nabla \phi = \frac{\partial \phi}{\partial r} \mathbf{a}_r + \frac{1}{r} \frac{\partial \phi}{\partial \theta} \mathbf{a}_\theta + \frac{1}{r \sin \theta} \frac{\partial \phi}{\partial \phi} \mathbf{a}_\phi$$
 
+# Curl
+
+
+
 # Laplacian of Scalar Fields
 ## Cartesian Coordinates
 $$\nabla^2 \phi = \frac{\partial^2 \phi}{\partial x^2} + \frac{\partial^2 \phi}{\partial y^2} + \frac{\partial^2 \phi}{\partial z^2}$$
