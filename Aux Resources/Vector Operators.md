@@ -69,3 +69,5 @@ $$\nabla^2 \phi = \frac{1}{r^2} \frac{\partial}{\partial r}\left(r^2 \frac{\part
 
 # Divergence Theorem
 $$\int_V \nabla \cdot \vec{F} \, dV = \oint_S \vec{F} \cdot \vec{n} \, dS$$
+# Stokes Theorem
+$$\oint \vec{F} \cdot dL = \int_{S} (\nabla \times \vec{F}) \cdot  d\vec{S} $$
