@@ -1,3 +1,13 @@
+
+# Parts
+$$
+\int u\,dv = uv - \int v\,du
+$$
+
+# Substitution  
+$$
+\int f(g(x))g'(x) \,dx = \int f(u) \,du
+$$
 ## Trigonometric
 ### Sine
 $$
@@ -38,12 +48,3 @@ $$
 \int_a^b kx^n \,dx = \frac{k}{n+1}(b^{n+1} - a^{n+1}) 
 $$
 
-## Parts
-$$
-\int u\,dv = uv - \int v\,du
-$$
-
-## Substitution  
-$$
-\int f(g(x))g'(x) \,dx = \int f(u) \,du
-$$
