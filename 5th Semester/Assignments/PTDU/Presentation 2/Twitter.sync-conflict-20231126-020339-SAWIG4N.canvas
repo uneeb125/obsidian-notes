@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"185e942909e5b6a6","type":"group","x":-2385,"y":1133,"width":3275,"height":313,"color":"1","label":"Problems"},
+		{"id":"2781e9f757933b44","type":"group","x":-1625,"y":1663,"width":1755,"height":133,"color":"4","label":"Solutions"},
+		{"id":"c646a7c68f56667c","type":"text","text":"## Mass Lay-offs\n7500 to 1800 (76% layed off)","x":-1598,"y":1183,"width":253,"height":202},
+		{"id":"dbffa377a0a8929b","type":"text","text":"## Discriminatory Firings\n###### the Department of Economics at Rutgers University\n> Thus, 60 percent of employees age fifty (50) or over were laid off on November 4, 2022, while 54 percent of employees under the age of fifty (50) were laid off\n","x":-2047,"y":1183,"width":346,"height":202},
+		{"id":"fcda3cff3cd7db18","type":"text","text":"#  Twitter Mismanagement \n","x":-1701,"y":905,"width":460,"height":82},
+		{"id":"03672f22801053c6","type":"text","text":"## Disproportionate Moderation and Banning\n\nTwitter has been criticized for its inconsistent and often disproportionate moderation practices, particularly in terms of suspending or banning accounts. Several incidents have highlighted this issue:\n\n- **In 2016,** Twitter suspended the accounts of several prominent conservative voices, including Milo Yiannopoulos, alleging violations of its abusive behavior policy. This sparked accusations of political bias and suppression of conservative viewpoints.\n    \n- **In 2018,** Twitter permanently banned Roseanne Barr, a comedian and television personality, for a racist tweet. While the decision was widely supported, it also raised concerns about the platform's ability to handle sensitive content and the potential for arbitrary enforcement of its policies.\n    \n- **In 2019,** Twitter suspended the account of the Catholic Archdiocese of New York for posting a tweet about the sanctity of life. This incident further fueled accusations of anti-religious bias on Twitter's part.","x":-3879,"y":465,"width":392,"height":391},
+		{"id":"c8dc01b6a8bb6598","type":"text","text":"## Pushing a Particular Ideology While Suppressing Another\n\nTwitter has faced accusations of promoting a particular ideological viewpoint while suppressing opposing views. This has been particularly evident in the context of political discourse and the spread of misinformation.\n\n- In 2018, Twitter was accused of shadowbanning prominent conservatives, reducing the visibility of their tweets and limiting their reach. The company denied the allegations, but the incident raised concerns about potential manipulation of the platform's algorithms.\n    \n- In 2020, Twitter was criticized for its handling of the COVID-19 pandemic, accused of selectively removing tweets that contradicted its own narrative on the virus and its treatment. This led to accusations of censorship and stifling scientific debate.","x":-3879,"y":914,"width":392,"height":391},
+		{"id":"d4228415a05755c5","type":"text","text":"## Pushing a Particular Ideology While Suppressing Another\n\nTwitter has faced accusations of promoting a particular ideological viewpoint while suppressing opposing views. This has been particularly evident in the context of political discourse and the spread of misinformation.\n\n- In 2018, Twitter was accused of shadowbanning prominent conservatives, reducing the visibility of their tweets and limiting their reach. The company denied the allegations, but the incident raised concerns about potential manipulation of the platform's algorithms.\n    \n- In 2020, Twitter was criticized for its handling of the COVID-19 pandemic, accused of selectively removing tweets that contradicted its own narrative on the virus and its treatment. This led to accusations of censorship and stifling scientific debate.","x":-3879,"y":1402,"width":392,"height":391},
+		{"id":"58d3c307d2663521","type":"text","text":"## Change to X","x":-2347,"y":1179,"width":250,"height":60},
+		{"id":"8d45f3e2c3e2a087","type":"text","text":"## Lawsuits and Fines\n\nTwitter has been involved in several lawsuits related to its moderation practices and data privacy issues. Some notable cases include:\n\n- In 2019, the American Civil Liberties Union (ACLU) sued Twitter over its suspension of the account of a Syrian activist, alleging that the company had violated his First Amendment rights. The ACLU settled the lawsuit with Twitter in 2021, securing agreement from the company to review its suspension policies.\n    \n- In 2020, the Federal Trade Commission (FTC) fined Twitter $150 million for violating a 2011 consent decree related to data privacy practices. The FTC alleged that Twitter had collected phone numbers and email addresses from users for advertising purposes without their explicit consent.","x":-3766,"y":-112,"width":392,"height":391},
+		{"id":"bea641cf0f402aa8","type":"text","text":"## Impersonations","x":-867,"y":1179,"width":267,"height":60},
+		{"id":"98a356a7e6f49aa6","type":"text","text":"## AI Training DATA","x":-522,"y":1181,"width":278,"height":60},
+		{"id":"881a61e0336cfd1e","type":"text","text":"## Web Scrapping","x":-205,"y":1179,"width":278,"height":57},
+		{"id":"766040270f81a323","type":"text","text":"## Misinformation","x":-1241,"y":1183,"width":253,"height":60},
+		{"id":"28167f184ac65719","type":"text","text":"## Article Headlines","x":-1605,"y":1683,"width":291,"height":55,"color":"2"},
+		{"id":"293903266fd3dbe3","type":"text","text":"## Freedom of Speech not to reach","x":-1314,"y":1683,"width":311,"height":93,"color":"2"},
+		{"id":"3ab27475b4f61864","type":"text","text":"## Twitter Blue Verification\n","x":-935,"y":1701,"width":376,"height":60,"color":"2"},
+		{"id":"4a736de7d7f4be1a","type":"text","text":"## API Limitations","x":-503,"y":1701,"width":278,"height":60,"color":"2"},
+		{"id":"8e5fea6a9df9adfe","type":"text","text":"## Request Throttle","x":-168,"y":1701,"width":278,"height":58,"color":"2"}
+	],
+	"edges":[
+		{"id":"622b2b2f1c06e7a0","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"c646a7c68f56667c","toSide":"top"},
+		{"id":"67c38b8eb2fd658a","fromNode":"98a356a7e6f49aa6","fromSide":"bottom","toNode":"4a736de7d7f4be1a","toSide":"top"},
+		{"id":"aa664b4cf4406c01","fromNode":"881a61e0336cfd1e","fromSide":"bottom","toNode":"8e5fea6a9df9adfe","toSide":"top"},
+		{"id":"8c0df6982f323029","fromNode":"766040270f81a323","fromSide":"right","toNode":"bea641cf0f402aa8","toSide":"left","fromEnd":"arrow"},
+		{"id":"2fb09bb840bef12a","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"98a356a7e6f49aa6","toSide":"top"},
+		{"id":"9a84f1f9a7977090","fromNode":"766040270f81a323","fromSide":"bottom","toNode":"28167f184ac65719","toSide":"top"},
+		{"id":"4c1c3228c196bf9a","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"dbffa377a0a8929b","toSide":"top"},
+		{"id":"76a9e0d8a10123c2","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"58d3c307d2663521","toSide":"top"},
+		{"id":"009bbbe8b5dd98c1","fromNode":"766040270f81a323","fromSide":"bottom","toNode":"293903266fd3dbe3","toSide":"top"},
+		{"id":"d25959834549996d","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"bea641cf0f402aa8","toSide":"top"},
+		{"id":"9fee50e40d1f6cc0","fromNode":"bea641cf0f402aa8","fromSide":"bottom","toNode":"3ab27475b4f61864","toSide":"top"},
+		{"id":"17a40fc1d2868d87","fromNode":"fcda3cff3cd7db18","fromSide":"bottom","toNode":"881a61e0336cfd1e","toSide":"top"},
+		{"id":"6c815cd56d410b7b","fromNode":"c646a7c68f56667c","fromSide":"right","toNode":"766040270f81a323","toSide":"left"}
+	]
+}
