@@ -1,14 +1,14 @@
 %% Begin Waypoint %%
 - **Attachments**
+	- **REGISTERS**
+		- **I2C**
+
+		- **UART**
 
 - [[CEP]]
-- [[MPS MIDS]]
+- **COM**
+
 - [[MPS]]
-- [[QE1]]
-- [[QE2]]
-- [[QE3]]
-- [[QE4]]
-- [[QE8]]
-- [[QE9]]
+- **[[QE]]**
 
 %% End Waypoint %%
