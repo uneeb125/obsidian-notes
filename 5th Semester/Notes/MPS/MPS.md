@@ -3,6 +3,8 @@
 	- **REGISTERS**
 		- **I2C**
 
+		- **SPI**
+
 		- **UART**
 
 - [[CEP]]

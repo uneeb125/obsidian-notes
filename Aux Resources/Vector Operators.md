@@ -34,15 +34,15 @@ F_x & F_y & F_z
 $$\nabla \times \vec{F} =  
 \begin{vmatrix}
 \frac{1}{{\rho}}a_{\rho} & a_{\phi} & \frac{1}{{\rho}}a_{z} \\
-\frac{\partial}{\partial \rho} & \frac{1}{\rho} \frac{\partial}{\partial \phi} & \frac{\partial}{\partial z} \\ 
+\frac{\partial}{\partial \rho} & \frac{\partial}{\partial \phi} & \frac{\partial}{\partial z} \\ 
 F_\rho & \rho F_\phi & F_z
 \end{vmatrix}$$
 
 ## Spherical coordinates
 $$\nabla \times \vec{F} =
 \begin{vmatrix}  
-\frac{1}{{r^{2}\sin\theta}}a_{r} & \frac{1}{{r\sin}}a_{\theta} & \frac{1}{r}a_{\phi} \\
-\frac{\partial}{\partial r} & \frac{1}{r} \frac{\partial}{\partial \theta} & \frac{1}{r \sin{\theta}} \frac{\partial}{\partial \phi} \\
+\frac{1}{{r^{2}\sin\theta}}a_{r} & \frac{1}{{r\sin}}a_{\theta} & \frac{1}{r}a_{\phi} \
+\frac{\partial}{\partial r} & \frac{\partial}{\partial \theta} &  \frac{\partial}{\partial \phi} \
 F_r & rF_\theta & r\sin \theta F_\phi  
 \end{vmatrix}$$
 

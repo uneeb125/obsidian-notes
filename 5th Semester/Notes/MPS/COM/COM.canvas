@@ -3,8 +3,8 @@
 		{"id":"5fba81233bd279b5","type":"text","text":"## UART","x":-674,"y":-222,"width":138,"height":55},
 		{"id":"909bfe030c831f07","type":"text","text":"## I2C","x":-38,"y":-222,"width":108,"height":60},
 		{"id":"aeed03dafdd1ff92","type":"text","text":"## SPI","x":507,"y":-222,"width":111,"height":60},
-		{"id":"5a74a8e1e432d7bf","type":"text","text":"##### SPI CONTROL0 R\n##### SPI CONTROL1 R\n##### SPI DATA R\n##### SPI STATUS R\n##### SPI CLK PERSCALE R\n![[SPI_CLOCK_FORMULA.png]]\n##### SPI CLK SCR R","x":365,"y":-90,"width":394,"height":338},
-		{"id":"239393fe7d9c9ba4","type":"text","text":"##### RCGC_GPIO_R\n##### RCGC_UART_R\n##### UART DATA R\n![[UART_DATA_R.png]]\n##### UART CLK CONFIG R\n##### UART BAUD INT R\n##### UART BAUD FRAC R\n##### UART LINE CONTROL R\n![[UART_LINE_CONTROL_R.png]]\n##### UART CONTROL R\n![[UART_CONTROL_R.png]]\n##### UART FLAG R\n##### UART RX STATUS R\n##### UART ERR CLEAR R","x":-877,"y":-90,"width":544,"height":706},
+		{"id":"5a74a8e1e432d7bf","type":"text","text":"##### SPI CONTROL0 R\n![[SPI_CONTROL0_R.png]]\n##### SPI CONTROL1 R\n##### SPI DATA R\n##### SPI STATUS R\n##### SPI CLK PERSCALE R\n##### SPI CLK SCR R\n![[SPI_CLOCK_FORMULA.png]]","x":365,"y":-90,"width":394,"height":338},
+		{"id":"239393fe7d9c9ba4","type":"text","text":"##### RCGC_GPIO_R\n##### RCGC_UART_R\n##### GPIO_AFSEL_R\n##### GPIO_PCTL_R\n##### UART DATA R\n![[UART_DATA_R.png]]\n##### UART CLK CONFIG R\n##### UART BAUD INT R\n##### UART BAUD FRAC R\n##### UART LINE CONTROL R\n![[UART_LINE_CONTROL_R.png]]\n##### UART CONTROL R\n![[UART_CONTROL_R.png]]\n##### UART FLAG R\n##### UART RX STATUS R\n##### UART ERR CLEAR R","x":-877,"y":-90,"width":544,"height":706},
 		{"id":"b31fdce90eb2fd60","type":"text","text":"##### I2CM SLAVE ADDR R\n##### I2CM TIME PERIOD R\n![[I2C_PERIOD_FORMULA.png]]\n![[I2CM_TIME_PERIOD_R.png]]\n##### I2CM CONFIG R\n##### I2CM CONTROL R\n\n##### I2CM STATUS R\n##### I2CM DATA R","x":-183,"y":-90,"width":398,"height":410}
 	],
 	"edges":[
