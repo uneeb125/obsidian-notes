@@ -41,8 +41,8 @@ F_\rho & \rho F_\phi & F_z
 ## Spherical coordinates
 $$\nabla \times \vec{F} =
 \begin{vmatrix}  
-\frac{1}{{r^{2}\sin\theta}}a_{r} & \frac{1}{{r\sin}}a_{\theta} & \frac{1}{r}a_{\phi} \
-\frac{\partial}{\partial r} & \frac{\partial}{\partial \theta} &  \frac{\partial}{\partial \phi} \
+\frac{1}{{r^{2}\sin\theta}}a_{r} & \frac{1}{{r\sin}}a_{\theta} & \frac{1}{r}a_{\phi} \\
+\frac{\partial}{\partial r} & \frac{\partial}{\partial \theta} &  \frac{\partial}{\partial \phi} \\
 F_r & rF_\theta & r\sin \theta F_\phi  
 \end{vmatrix}$$
 
