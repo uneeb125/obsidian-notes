@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4f55331800e6be89","type":"text","text":"# Timeing Interfaces","x":-501,"y":-168,"width":414,"height":78},
+		{"id":"95cdd5c0da49a894","type":"text","text":"## PLL\n","x":-808,"y":60,"width":250,"height":60},
+		{"id":"7f032baf40585965","type":"file","file":"5th Semester/Notes/MPS/Timing Interface/Attachments/Pasted image 20231216162827.png","x":-680,"y":220,"width":397,"height":59},
+		{"id":"77194fb7bead90c5","type":"file","file":"5th Semester/Notes/MPS/Timing Interface/Attachments/Pasted image 20231216162828.png","x":-120,"y":16,"width":720,"height":458},
+		{"id":"3644d2bec1612b5d","type":"file","file":"5th Semester/Notes/MPS/Timing Interface/Attachments/Pasted image 20231216162826.png","x":-120,"y":500,"width":719,"height":360},
+		{"id":"c414e4dd8e26a7d9","type":"file","file":"5th Semester/Notes/MPS/Timing Interface/Attachments/Pasted image 20231216162820.png","x":-680,"y":280,"width":398,"height":97},
+		{"id":"176fa1a5d1c180af","type":"file","file":"5th Semester/Notes/MPS/Timing Interface/Attachments/Pasted image 20231216162817.png","x":-680,"y":380,"width":400,"height":187},
+		{"id":"d90c12203f794519","type":"file","file":"5th Semester/Notes/MPS/Timing Interface/Attachments/Pasted image 20231216162830.png","x":-680,"y":560,"width":400,"height":231}
+	],
+	"edges":[]
+}

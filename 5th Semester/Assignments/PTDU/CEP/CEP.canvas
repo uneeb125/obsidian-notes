@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1aa9094a029a5a5b","type":"text","text":"# First Floor\n## Bedrooms 1\n### Bathroom 1\n## Bedrooms 2\n### Bathroom 2\n## Bedrooms 3\n### Bathroom 3\n## TV Lounge \n## Kitchen \n## Drawing Room \n## Dinning Room \n## Garage\n","x":-600,"y":-362,"width":830,"height":483},
+		{"id":"ba6a9eed5a218302","type":"text","text":"# Resources used\n## Lighting\n### Rule of Thumb\n[Rule of thumb]( https://www.pooky.com/blogs/inspiration/how-much-light-do-you-need-in-a-room#:~:text=As%20a%20handy%20rule%20of ,the%20room%20by%20this%20figure.)\n### Philips 15w 1350 lumens\nhttps://www.naheed.pk/philips-essential-led-bulb-15w-e27-cap-warm-white\n\n## Fans\n### GFC Classic fan\nhttps://www.gfcfans.com/product/classic/74\n### GFC Exhaust\nhttps://www.gfcfans.com/product/plastic-exhaust/130\n\n\n\n\n## Electrical work\n\n### Switch board\nhttps://clopal.com/product/clopal-black-series-8-switch-2-socket-superior-quality/\n\n### Dimmer\nhttps://clopal.com/product/clopal-black-series-fan-dimmer-superior-quality/\n### Power Socket\nhttps://clopal.com/product/clopal-black-series-double-6-in-1-superior-quality/\n\n\n## Protection Circuits\n### Main 200A Circuit Breaker\nhttps://ezmakaan.com/product/schneider-circuit-breakers-3-pole-ezc250h-200-amp/\n\n### 10A Circuit Breaker\nhttps://sbestore.com/product/schneider-circuit-breaker-1-pole-10amp/\n\n### 15A Circuit Breaker","x":-700,"y":160,"width":940,"height":720},
+		{"id":"47c75d1b11a54f88","type":"text","text":"# Overall Connected loads\n## Bedrooms\n- 1 Fan\n- 5 Bulb\n- ","x":-780,"y":1020,"width":571,"height":234}
+	],
+	"edges":[]
+}

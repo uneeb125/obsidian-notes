@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **Presentation 2**
 	- [[Script]]
-- [[PTDU]]
+- [[5th Semester/Assignments/POM/PTDU]]
 
 %% End Waypoint %%
