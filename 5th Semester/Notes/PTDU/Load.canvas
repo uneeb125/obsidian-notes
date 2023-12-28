@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"04d25116742a847e","type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072141.png","x":-520,"y":-100,"width":400,"height":59},
+		{"id":"c8fc1c3c488de80d","type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072205.png","x":-500,"y":60,"width":400,"height":178},
+		{"id":"97f74d5994d7d5bc","type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072227.png","x":-500,"y":280,"width":400,"height":213},
+		{"id":"67a297f67fbff470","type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072257.png","x":60,"y":-100,"width":400,"height":183},
+		{"id":"8ae74e8bd976a2cb","type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072352.png","x":80,"y":300,"width":400,"height":165},
+		{"id":"ad474fc23ba4f4a9","x":60,"y":560,"width":400,"height":142,"type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072435.png"},
+		{"id":"205b731fc60d8e3b","x":-720,"y":800,"width":400,"height":129,"type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072654.png"},
+		{"id":"4b26effeea1236db","x":-720,"y":1000,"width":400,"height":157,"type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072737.png"},
+		{"id":"97f0c3c16c0ca25c","x":-720,"y":1260,"width":400,"height":76,"type":"file","file":"5th Semester/Notes/PTDU/Attachments/Pasted image 20231228072800.png"}
+	],
+	"edges":[]
+}

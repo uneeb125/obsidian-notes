@@ -1,9 +1,17 @@
 %% Begin Waypoint %%
 - **Attachements**
 
-- [[5th Semester/Notes/PTDU/Ch1]]
-- [[5th Semester/Notes/PTDU/Ch2]]
-- [[5th Semester/Notes/PTDU/CH4]]
-- [[5th Semester/Notes/PTDU/PTDU]]
+- **Attachments**
+
+- [[Ch1]]
+- [[Ch2]]
+- [[CH4]]
+- **Load Characteristics**
+	- **Attachments**
+
+	- [[Definitions]]
+	- [[Questions]]
+- [[Load]]
+- [[PTDU]]
 
 %% End Waypoint %%
