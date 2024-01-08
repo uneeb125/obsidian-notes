@@ -1,1 +1,0 @@
-- What makes Demand diferent from Average Load Demand.
